@@ -1,0 +1,75 @@
+{
+  "currencyName": "Nexaran Credit",
+  "itemSlots": [
+    {
+      "slot": "head",
+      "category": "Armor",
+      "quantity": 1
+    },
+    {
+      "slot": "body",
+      "category": "Armor",
+      "quantity": 1
+    },
+    {
+      "slot": "legs",
+      "category": "Armor",
+      "quantity": 1
+    },
+    {
+      "slot": "feet",
+      "category": "Armor",
+      "quantity": 1
+    },
+    {
+      "slot": "hands",
+      "category": "Armor",
+      "quantity": 1
+    },
+    {
+      "slot": "Clothing",
+      "category": "Clothing",
+      "quantity": 1
+    },
+    {
+      "slot": "Bag",
+      "category": "Tool",
+      "quantity": 1
+    },
+    {
+      "slot": "Carried gear",
+      "category": "Tool",
+      "quantity": 2
+    },
+    {
+      "slot": "Weapon",
+      "category": "Weapon",
+      "quantity": 1
+    },
+    {
+      "slot": "Accessory",
+      "category": "Accessory",
+      "quantity": 2
+    }
+  ],
+  "itemCategories": [
+    "Currency",
+    "Armor",
+    "Weapon",
+    "Tool",
+    "Consumable",
+    "Clothing",
+    "Household Equipment",
+    "Accessory"
+  ],
+  "startingItems": [
+    {
+      "item": "Everyday Nexaran clothing",
+      "quantity": 1
+    },
+    {
+      "item": "Personal carry bag",
+      "quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,914 @@
+{
+  "__generated_quest_progress__/Relstaris — A Shift at the Civic Desk": {
+    "name": "__generated_quest_progress__/Relstaris — A Shift at the Civic Desk",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "The player has worked the full shift at the Relstaris civic desk, the day's queue is cleared or handed over at close, and the supervisor has paid them. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "Relstaris — A Shift at the Civic Desk"
+      }
+    ]
+  },
+  "__generated_quest_progress__/Solvraxis — The Misfiled Box": {
+    "name": "__generated_quest_progress__/Solvraxis — The Misfiled Box",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "The misfiled box is sorted, catalogued and reshelved at Ravello Archive House, any odd record is flagged to the archivist, and the archivist has paid the player. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "Solvraxis — The Misfiled Box"
+      }
+    ]
+  },
+  "__generated_quest_progress__/Korrvane — Arena Night Crew": {
+    "name": "__generated_quest_progress__/Korrvane — Arena Night Crew",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "The crates reached the Challenger Waiting Galleries before the round started and the stall boss paid the player. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "Korrvane — Arena Night Crew"
+      }
+    ]
+  },
+  "__generated_quest_progress__/Helvyra — A Run on the Skyhooks": {
+    "name": "__generated_quest_progress__/Helvyra — A Run on the Skyhooks",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "The freight reached the waiting ship intact before launch and the Helvyra freight boss paid the player. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "Helvyra — A Run on the Skyhooks"
+      }
+    ]
+  },
+  "__generated_quest_progress__/Vexorath — The Drone That Won't Land": {
+    "name": "__generated_quest_progress__/Vexorath — The Drone That Won't Land",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "The runaway drone was brought down without anyone hurt, fixed or safely disabled, and the stallholder paid the player. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "Vexorath — The Drone That Won't Land"
+      }
+    ]
+  },
+  "__generated_quest_progress__/Ignivex — Keep the Fires Lit": {
+    "name": "__generated_quest_progress__/Ignivex — Keep the Fires Lit",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "The tool order was finished on time through the raid alarm, nobody was hurt at the forge, and the smith paid the player. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "Ignivex — Keep the Fires Lit"
+      }
+    ]
+  },
+  "__generated_quest_progress__/Quilrath — A Day at the Permit Counter": {
+    "name": "__generated_quest_progress__/Quilrath — A Day at the Permit Counter",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "The player has worked the shift at the Kathvar permit counter, the day's permits are processed or properly referred, and the supervisor has paid them. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "Quilrath — A Day at the Permit Counter"
+      }
+    ]
+  },
+  "__generated_quest_progress__/Dustfall — Patch It Before Dark": {
+    "name": "__generated_quest_progress__/Dustfall — Patch It Before Dark",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "The pump was running for the family before the storm hit and the Refit Row mechanic paid the player. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "Dustfall — Patch It Before Dark"
+      }
+    ]
+  },
+  "__generated_quest_progress__/The Handoff — Before the Food Runs Out": {
+    "name": "__generated_quest_progress__/The Handoff — Before the Food Runs Out",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "The supply cart reached The Handoff and food was handed out that night, and the outpost lead paid the player. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "The Handoff — Before the Food Runs Out"
+      }
+    ]
+  },
+  "__generated_quest_progress__/Dust On The Route": {
+    "name": "__generated_quest_progress__/Dust On The Route",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "The fate of the shipment was settled in play and its cargo, whole or in part, was recovered, split, traded or knowingly given up, with the result brought face to face to Veyra and Dustfall, and Veyra paid the player. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "Dust On The Route"
+      }
+    ]
+  },
+  "__generated_quest_progress__/Korrvane — Fighting Your Way In": {
+    "name": "__generated_quest_progress__/Korrvane — Fighting Your Way In",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "The player fought the proving bout, earned a sponsor's backing or an open-entry slot, and walked out of the Arena entered in a specific Weekly Bracket qualifier with the showing purse in hand. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "Korrvane — Fighting Your Way In"
+      }
+    ]
+  },
+  "__generated_quest_progress__/Korrvane — The Qualifier": {
+    "name": "__generated_quest_progress__/Korrvane — The Qualifier",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "The player's qualifier bout ended by surrender, incapacitation, ring or airspace conditions, a technical stoppage or the judges' call, and the player knows whether they made the main bracket. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "Korrvane — The Qualifier"
+      }
+    ]
+  },
+  "__generated_quest_progress__/Korrvane — The Main Bracket": {
+    "name": "__generated_quest_progress__/Korrvane — The Main Bracket",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "The player's main bracket run ended in a ruled loss, a medical or judges' stoppage, or victory in the weekly final. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "Korrvane — The Main Bracket"
+      }
+    ]
+  },
+  "__generated_quest_progress__/Relstaris — The Sealed Wing": {
+    "name": "__generated_quest_progress__/Relstaris — The Sealed Wing",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "The families from the sealed wing are safe, either staying in a wing made safe or moved into real shelter, and Hadrik Vaelith and Iria Vaereth have met face to face and agreed on it. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "Relstaris — The Sealed Wing"
+      }
+    ]
+  },
+  "__generated_quest_progress__/Relstaris — The Signed Shift": {
+    "name": "__generated_quest_progress__/Relstaris — The Signed Shift",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "Calia Varriko has heard the signers' testimony and her ruling on Branna Sol's contracts, upheld, voided or amended, is entered on the record. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "Relstaris — The Signed Shift"
+      }
+    ]
+  },
+  "__generated_quest_progress__/Relstaris — The Deepways Passenger": {
+    "name": "__generated_quest_progress__/Relstaris — The Deepways Passenger",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "Kessa Ruun's run is over: the passenger has reached the handoff, been handed over, or been exposed, and the player has come back out of the Deepways with Kessa. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "Relstaris — The Deepways Passenger"
+      }
+    ]
+  },
+  "__generated_quest_progress__/Solvraxis — Who Left Whom": {
+    "name": "__generated_quest_progress__/Solvraxis — Who Left Whom",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "Arissa Bellovari has sat down with Viaro Bellovari at the Silver Cup Pub reunion, or has refused to his face, and the two have said where the old fight now stands. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "Solvraxis — Who Left Whom"
+      }
+    ]
+  },
+  "__generated_quest_progress__/Solvraxis — The Reserve Count": {
+    "name": "__generated_quest_progress__/Solvraxis — The Reserve Count",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "The emergency reserves have been reconciled and Renzo Orvessa has entered the certified count, or the recorded shortfall, in the welfare ledger. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "Solvraxis — The Reserve Count"
+      }
+    ]
+  },
+  "__generated_quest_progress__/Solvraxis — Counting on No One Armed": {
+    "name": "__generated_quest_progress__/Solvraxis — Counting on No One Armed",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "The stranger shadowing Selene Castro has been stopped with no weapon used: escorted out of the city, held at a Civic Peace Station, or exposed in public and driven off. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "Solvraxis — Counting on No One Armed"
+      }
+    ]
+  },
+  "__generated_quest_progress__/Korrvane — Under Whose Mark": {
+    "name": "__generated_quest_progress__/Korrvane — Under Whose Mark",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "The commission is in its client's hands on time and Kael and Nira Drathen have said to each other whose mark it carried. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "Korrvane — Under Whose Mark"
+      }
+    ]
+  },
+  "__generated_quest_progress__/Korrvane — Wounds That Don't Match": {
+    "name": "__generated_quest_progress__/Korrvane — Wounds That Don't Match",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "The player has told Bostarix Orvantis to his face how Hasdrovex was hurt, with the evidence in hand, and any person responsible has been caught or confronted; if nothing can be proven, Bostarix has heard exactly why. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "Korrvane — Wounds That Don't Match"
+      }
+    ]
+  },
+  "__generated_quest_progress__/Korrvane — The Lane Failure": {
+    "name": "__generated_quest_progress__/Korrvane — The Lane Failure",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "Everyone caught in the failed corridor is down safely or in care, and the player has told Yadira Aevon what they found about the cause. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "Korrvane — The Lane Failure"
+      }
+    ]
+  },
+  "__generated_quest_progress__/Helvyra — The River Watching": {
+    "name": "__generated_quest_progress__/Helvyra — The River Watching",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "Juna Dray has flown her solo skyhook run, pass or fail, and Imma Dray has told Juna to her face whether she would watch and why. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "Helvyra — The River Watching"
+      }
+    ]
+  },
+  "__generated_quest_progress__/Helvyra — Three Signed Records": {
+    "name": "__generated_quest_progress__/Helvyra — Three Signed Records",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "The audit of Dren Varriko's three signed records is finished and its finding is entered at the Varriko Ledger Hall. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "Helvyra — Three Signed Records"
+      }
+    ]
+  },
+  "__generated_quest_progress__/Helvyra — The Escort Proof": {
+    "name": "__generated_quest_progress__/Helvyra — The Escort Proof",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "Sava Veltrax's convoy has reached its handoff, or been stopped on the road, with the player having fought through it beside Korriven Corsair and come back to Sava. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "Helvyra — The Escort Proof"
+      }
+    ]
+  },
+  "__generated_quest_progress__/Vexorath — The Other Architecture": {
+    "name": "__generated_quest_progress__/Vexorath — The Other Architecture",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "Seris and Rezulith Contair have stood together in front of Lumina Minor's working change and told each other whether it stays, goes back with Seris's agreement, or stays with limits. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "Vexorath — The Other Architecture"
+      }
+    ]
+  },
+  "__generated_quest_progress__/Vexorath — More Than Intended": {
+    "name": "__generated_quest_progress__/Vexorath — More Than Intended",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "The proof of what was recorded about Paul Thovex's household has been pulled before it was wiped and laid in front of Maelis Contair, with Paul there to see it. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "Vexorath — More Than Intended"
+      }
+    ]
+  },
+  "__generated_quest_progress__/Vexorath — The Layer That Woke": {
+    "name": "__generated_quest_progress__/Vexorath — The Layer That Woke",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "Every resident caught in the woken layer has reached a shelter or care, and the layer has been shut down with Tavris Contair there to see it. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "Vexorath — The Layer That Woke"
+      }
+    ]
+  },
+  "__generated_quest_progress__/Ignivex — The Remade Commission": {
+    "name": "__generated_quest_progress__/Ignivex — The Remade Commission",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "The remade commission is finished and in the client's hands, and Maeron, Nessa and Tavren Halessin have said their theories of the ruin to each other face to face. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "Ignivex — The Remade Commission"
+      }
+    ]
+  },
+  "__generated_quest_progress__/Ignivex — Rows After the Raid": {
+    "name": "__generated_quest_progress__/Ignivex — Rows After the Raid",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "The raid-struck Hearth Rows have been searched, the displaced households found are in Lysa Caldris's shelters or Cynar Volen's halls, and Ilvara Meravil has given Lysa and Cynar the honest numbers in person. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "Ignivex — Rows After the Raid"
+      }
+    ]
+  },
+  "__generated_quest_progress__/Ignivex — Heat Below the Streets": {
+    "name": "__generated_quest_progress__/Ignivex — Heat Below the Streets",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "The trapped crew is out of the Heat Tunnels alive, the pressure fault is sealed, and Tharen Volen has heard from the player what the Sabotage Watch Point showed. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "Ignivex — Heat Below the Streets"
+      }
+    ]
+  },
+  "__generated_quest_progress__/Quilrath — The Corrected File": {
+    "name": "__generated_quest_progress__/Quilrath — The Corrected File",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "The corrected file for Dalan Kathvar's permit is entered at Jorek Kathvar's counter and Jorek has answered his son face to face, with approval, correction or silence. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "Quilrath — The Corrected File"
+      }
+    ]
+  },
+  "__generated_quest_progress__/Quilrath — The Gate's Last Failure": {
+    "name": "__generated_quest_progress__/Quilrath — The Gate's Last Failure",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "Pelna Ostrek's readings have been proven at the gate, and Pelna has either shown them to the Contair inspectors face to face or told the player in person that she will not and why. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "Quilrath — The Gate's Last Failure"
+      }
+    ]
+  },
+  "__generated_quest_progress__/Quilrath — The Schedule That Changed": {
+    "name": "__generated_quest_progress__/Quilrath — The Schedule That Changed",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "Cadi Selm's family has gone through the Quiet Mile toward the Handoff, been turned safely back to the Ashrings, or been arrested, and Cadi has heard from the player what they learned about the changed schedule. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "Quilrath — The Schedule That Changed"
+      }
+    ]
+  },
+  "__generated_quest_progress__/Dustfall — Marrik's Invitation": {
+    "name": "__generated_quest_progress__/Dustfall — Marrik's Invitation",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "Sev Marrik has given his answer to the Korrvane invitation, yes, no or yes on stated terms, to Darven and Mareva Marrik in person, and they have heard it. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "Dustfall — Marrik's Invitation"
+      }
+    ]
+  },
+  "__generated_quest_progress__/Dustfall — The Yard Protection Debt": {
+    "name": "__generated_quest_progress__/Dustfall — The Yard Protection Debt",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "Della Vossik, Kaedra Vossan and Ralven Nox have agreed face to face at the Dispute Table how the Vossik protection debt ends: paid, paid in kind, forgiven, put off on terms, or refused with consequences named. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "Dustfall — The Yard Protection Debt"
+      }
+    ]
+  },
+  "__generated_quest_progress__/Dustfall — The Contract Tavra Dropped": {
+    "name": "__generated_quest_progress__/Dustfall — The Contract Tavra Dropped",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "The client's raid on the refugee housing has been called off, turned back or broken, and the people living there are safe in their homes or out through their escape route. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "Dustfall — The Contract Tavra Dropped"
+      }
+    ]
+  },
+  "__generated_quest_progress__/Corridor — The Manifest That Lies": {
+    "name": "__generated_quest_progress__/Corridor — The Manifest That Lies",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "Saevik Ruun's load is sealed, counted and hidden at the Hidden Compartment Bench or Cargo Sling Bay, ready for the run north, or the player has refused it to Saevik's face. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "Corridor — The Manifest That Lies"
+      }
+    ]
+  },
+  "__generated_quest_progress__/Corridor — Around the Eastern Mountains": {
+    "name": "__generated_quest_progress__/Corridor — Around the Eastern Mountains",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "Saevik Ruun's load has been handed over at the Handoff's Receiving Apron, or it has been abandoned on the route, seized, or brought back to the North Routehead. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "Corridor — Around the Eastern Mountains"
+      }
+    ]
+  },
+  "__generated_quest_progress__/Corridor — Into the Outer Rings": {
+    "name": "__generated_quest_progress__/Corridor — Into the Outer Rings",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "The load has been handed to Torbek Karn and paid for, or it has been seized, dumped in Smuggler Country or carried back to the Handoff with the crew out alive or under arrest. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "Corridor — Into the Outer Rings"
+      }
+    ]
+  },
+  "__generated_quest_progress__/Corridor — Names That Hold": {
+    "name": "__generated_quest_progress__/Corridor — Names That Hold",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "The household in the Prefab Rows has the forged papers and has passed a Curfew Gate on them ready to move south, or has been told in person it cannot go yet, or has been caught. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "Corridor — Names That Hold"
+      }
+    ]
+  },
+  "__generated_quest_progress__/Corridor — Past the Quiet Mile": {
+    "name": "__generated_quest_progress__/Corridor — Past the Quiet Mile",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "The household has reached the Handoff's Receiving Apron with Cadi Selm, whole or in part, or has been turned safely back to the Ashrings, or has been arrested. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "Corridor — Past the Quiet Mile"
+      }
+    ]
+  },
+  "__generated_quest_progress__/Corridor — The Name on the Wrong List": {
+    "name": "__generated_quest_progress__/Corridor — The Name on the Wrong List",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "The household is placed in the Rows, hidden, moved on or taken, and the player has told Cadi Selm, a Handoff receiving worker or Edda Nhalor's cell in person what was learned about the name that did not match. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "Corridor — The Name on the Wrong List"
+      }
+    ]
+  },
+  "__generated_quest_progress__/House Castro — The Offer That Can Be Refused": {
+    "name": "__generated_quest_progress__/House Castro — The Offer That Can Be Refused",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "The player has put Lucan Castro's aid offer to the Low Relstaris household in person with no Castro presence, and has told Lucan their real answer (yes, part, or no) to his face at the Castro Compound. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "House Castro — The Offer That Can Be Refused"
+      }
+    ]
+  },
+  "__generated_quest_progress__/House Genesis — Word for Word": {
+    "name": "__generated_quest_progress__/House Genesis — Word for Word",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "The player has spoken Tacitus Genesis's ruling in full to Giscara Caelthorn herself, and has repeated her reply to Tacitus in his office without softening or paraphrase. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "House Genesis — Word for Word"
+      }
+    ]
+  },
+  "__generated_quest_progress__/House Dravon — Walk the Gates Unknown": {
+    "name": "__generated_quest_progress__/House Dravon — Walk the Gates Unknown",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "The player has gone through the Inner Compliance Gate and the Rank Gates as an ordinary visitor without blowing the cover, returned to the Red War Room, and told Orvane Dravon face to face everything done and said to them, holding nothing back. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "House Dravon — Walk the Gates Unknown"
+      }
+    ]
+  },
+  "__generated_quest_progress__/House Contair — The Way It Is Actually Used": {
+    "name": "__generated_quest_progress__/House Contair — The Way It Is Actually Used",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "The player has learned the residents' workaround from the residents themselves and has explained the fault to Maelis Contair face to face in the Modular Family Rows, naming no resident, with the residents there to hear her answer. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "House Contair — The Way It Is Actually Used"
+      }
+    ]
+  },
+  "__generated_quest_progress__/House Corsair — Three Branches, One Answer": {
+    "name": "__generated_quest_progress__/House Corsair — Three Branches, One Answer",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "The player has found which branch's account of the two missing cases holds, backed by what they uncovered, and has said it to Xyren Corsair in the Family Council Room with Korriven, Tavren and Maelrix Corsair present. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "House Corsair — Three Branches, One Answer"
+      }
+    ]
+  },
+  "__generated_quest_progress__/House Volen — Through the Heat": {
+    "name": "__generated_quest_progress__/House Volen — Through the Heat",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "The player has held the watchpoint through the full heat cycle, or been carried off it by Orvak Caldris's patrol, and has told Varessa Volen face to face at the Firebreak Gate Control Rooms what they saw, not what they feared. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "House Volen — Through the Heat"
+      }
+    ]
+  },
+  "__generated_quest_progress__/House Myralis — What Living With It Costs": {
+    "name": "__generated_quest_progress__/House Myralis — What Living With It Costs",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "The player has been in the room with Ilyan Myralis when the patient, not a relative or the unit, gave their own answer about their treatment to Ilyan's face, and Ilyan has accepted it. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "House Myralis — What Living With It Costs"
+      }
+    ]
+  },
+  "__generated_quest_progress__/Trade — A Consignment for the Ashglass Canopies": {
+    "name": "__generated_quest_progress__/Trade — A Consignment for the Ashglass Canopies",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "The player has handed Raxen Caelrix's sealed case, seal intact, to the buyer in person at the Corsair Trade Post in Ashglass Market. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "Trade — A Consignment for the Ashglass Canopies"
+      }
+    ]
+  },
+  "__generated_quest_progress__/Trade — Running the Lot to Helvyra": {
+    "name": "__generated_quest_progress__/Trade — Running the Lot to Helvyra",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "The player has got the inventor's lot from Vexorath to the buyer at the Grand Waypoint in Helvyra and the buyer has paid in full on fair terms, or the player has walked the lot away from a crooked buyer and back to the inventor. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "Trade — Running the Lot to Helvyra"
+      }
+    ]
+  },
+  "__generated_quest_progress__/Trade — Parts That Can Take the Heat": {
+    "name": "__generated_quest_progress__/Trade — Parts That Can Take the Heat",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "The player has delivered Halvora Orvantis's crate, clean of any Dravon Component Bin part, into the hands of the ordering workshop in the Red Forges, and the workshop has checked it on its bench. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "Trade — Parts That Can Take the Heat"
+      }
+    ]
+  },
+  "__generated_quest_progress__/Trade — Star-Glass for the Hundred-House Market": {
+    "name": "__generated_quest_progress__/Trade — Star-Glass for the Hundred-House Market",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "The player has put Darian Bellovari's star-glass, unbroken, in front of Serrin Bellovari at the Relstaris Grand Market, and has told Darian face to face whether Serrin took it, countered or refused. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "Trade — Star-Glass for the Hundred-House Market"
+      }
+    ]
+  },
+  "__generated_quest_progress__/Study — The Agreement Nobody Can Find": {
+    "name": "__generated_quest_progress__/Study — The Agreement Nobody Can Find",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "Maereth Ravello has received the traced finding on Nessa Ravello's missing agreement and has entered it, sealed it or refused it, with Nessa's name on the work. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "Study — The Agreement Nobody Can Find"
+      }
+    ]
+  },
+  "__generated_quest_progress__/Study — Readings from the Flooded Foundation": {
+    "name": "__generated_quest_progress__/Study — Readings from the Flooded Foundation",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "The player has won residents' agreement in person, taken the readings in the Old Conduit Housing and the Flooded Foundation Walk, and handed the data to Nexis Contair, or has brought Dessa Sol's refusal to Nexis's face. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "Study — Readings from the Flooded Foundation"
+      }
+    ]
+  },
+  "__generated_quest_progress__/Study — The Hand Behind the Mark": {
+    "name": "__generated_quest_progress__/Study — The Hand Behind the Mark",
+    "recurring": false,
+    "conditions": [
+      {
+        "type": "story",
+        "query": "The player has found who wrote the charm and who put the mark on it, and has brought that person or those people before Quenna Sil at the Open Circle to answer for it in person. An attempt, promise or partial result does not count."
+      }
+    ],
+    "effects": [
+      {
+        "type": "quest-progress",
+        "questId": "Study — The Hand Behind the Mark"
+      }
+    ]
+  }
+}

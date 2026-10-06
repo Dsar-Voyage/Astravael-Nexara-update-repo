@@ -3,7 +3,7 @@
   "worldShortId": "W1KX_CXxd4JS",
   "heroesVersion": 36,
   "releaseDate": "2026-10-05",
-  "releaseLabel": "Batches 81-82 (small-steps ability ladder) and music fallback",
+  "releaseLabel": "2026-10-05b — Batches 81-82 (small-steps ability ladder) and music fallback",
   "creatorApiRevision": "wbwaTvZgEk5ZuORTMkkO3-8hqdV7UWXnrzYACc_ky6g",
   "source": {
     "repository": "Dsar-Voyage/Astravael (private)",
@@ -21,6 +21,29 @@
       "description": "initialGameState only: the V36 world JSON as shown in the Studio editor, for paste-import",
       "sha256": "883cfeda2a9684a7787f022d8672a677b0dd69c4ae35afec39fce44998f3d6a1",
       "bytes": 13353734
+    },
+    "sections/": {
+      "description": "One JSON file per initialGameState section; per-file SHA-256 in releases/2026-10-05b.hashes.json",
+      "count": 65
+    },
+    "SECTIONS.md": {
+      "description": "Section guide with categories and change flags"
+    },
+    "CHANGES.md": {
+      "description": "Release notes naming the sections each release changed"
     }
-  }
+  },
+  "sectionsChangedInThisRelease": [
+    "abilities",
+    "progressionSettings",
+    "worldLore",
+    "quests",
+    "questTriggers",
+    "triggers",
+    "locations",
+    "factions",
+    "aiInstructions",
+    "gameplayMusicSettings"
+  ],
+  "previousRelease": "2026-10-05a"
 }

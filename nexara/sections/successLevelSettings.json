@@ -1,0 +1,61 @@
+{
+  "firstSuccessfulTierId": "mixed-results",
+  "tiers": [
+    {
+      "id": "critical-failure",
+      "name": "Botched",
+      "minScore": null,
+      "maxScore": -66,
+      "imageUrl": "",
+      "prompt": "[Note: BOTCHED. {{characterName}}'s action backfires and the situation becomes visibly worse. Narrate a concrete consequence that follows from what was attempted: the plan collapses, something is lost or damaged, a rival gains ground, or a weakness is exposed. If opposition is present, their timing, skill or counter-move turns it, not slapstick clumsiness. A target does not comply, confess, soften or reveal what was sought. End on a real change the player must now answer, never a reset. Across every tier: no result overrides consent, orientation, commitments or an NPC's core loyalties; affinity and learned magic succeed or fail within their own limits and costs, never producing a new effect or an unlocked technique; Nexara's defeat-and-care rules and nonlethal arena stoppage apply; and if {{characterName}} is suddenly attacked mid-action they can still react to it.]"
+    },
+    {
+      "id": "failure",
+      "name": "Failed",
+      "minScore": -65,
+      "maxScore": -51,
+      "imageUrl": "",
+      "prompt": "[Note: FAILED. {{characterName}}'s action does not achieve its goal. Show exactly why, physically and specifically: what was grabbed and lost, what was said and brushed aside, what was struck and blocked. State plainly that the objective was not reached; the door stays shut and the information stays hidden. Opposition, if present, earns a small concrete gain. In a fight, Failed means losing this exchange, not the fight: {{characterName}} keeps their footing and can act next turn. Across every tier: no result overrides consent, orientation, commitments or an NPC's core loyalties; affinity and learned magic succeed or fail within their own limits and costs, never producing a new effect or an unlocked technique; Nexara's defeat-and-care rules and nonlethal arena stoppage apply; and if {{characterName}} is suddenly attacked mid-action they can still react to it.]"
+    },
+    {
+      "id": "mixed-results",
+      "name": "Costly",
+      "minScore": -50,
+      "maxScore": -26,
+      "imageUrl": "",
+      "prompt": "[Note: COSTLY. In a fight or contested exchange: an even trade, one clean hit or hold landed and one taken, momentum still contested. Outside a fight the action WORKS and the objective is reached, but it costs something small and concrete: time, noise, a spent resource, someone's goodwill, a minor strain or affinity fatigue. Name the cost; do not hedge the success with 'mostly' or fumbling. A finishing act (a killing blow, a complete healing, a capture) only reaches the brink on Costly: broken open but still breathing, stabilised but not mended. Across every tier: no result overrides consent, orientation, commitments or an NPC's core loyalties; affinity and learned magic succeed or fail within their own limits and costs, never producing a new effect or an unlocked technique; Nexara's defeat-and-care rules and nonlethal arena stoppage apply; and if {{characterName}} is suddenly attacked mid-action they can still react to it.]"
+    },
+    {
+      "id": "basic-success",
+      "name": "Done",
+      "minScore": -25,
+      "maxScore": -1,
+      "imageUrl": "",
+      "prompt": "[Note: DONE. {{characterName}}'s action succeeds cleanly at reasonable scope, exactly as intended, with no hedging and no complication added for tension. In a fight they win this exchange; the fight goes on unless the action was itself finishing. A finishing act stated in the action is carried out: the blow lands, the wound closes, the hold breaks. Across every tier: no result overrides consent, orientation, commitments or an NPC's core loyalties; affinity and learned magic succeed or fail within their own limits and costs, never producing a new effect or an unlocked technique; Nexara's defeat-and-care rules and nonlethal arena stoppage apply; and if {{characterName}} is suddenly attacked mid-action they can still react to it.]"
+    },
+    {
+      "id": "success",
+      "name": "Well Done",
+      "minScore": 0,
+      "maxScore": 24,
+      "imageUrl": "",
+      "prompt": "[Note: WELL DONE. {{characterName}}'s action succeeds with momentum. In a fight they decisively win the exchange: the enemy is staggered, opened up or forced back. Outside a fight the objective is reached and pays one named secondary benefit: useful information, better footing, a small concession or an opening for the next move. Finishing acts are carried out. Across every tier: no result overrides consent, orientation, commitments or an NPC's core loyalties; affinity and learned magic succeed or fail within their own limits and costs, never producing a new effect or an unlocked technique; Nexara's defeat-and-care rules and nonlethal arena stoppage apply; and if {{characterName}} is suddenly attacked mid-action they can still react to it.]"
+    },
+    {
+      "id": "great-success",
+      "name": "Impressive",
+      "minScore": 25,
+      "maxScore": 49,
+      "imageUrl": "",
+      "prompt": "[Note: IMPRESSIVE. {{characterName}}'s action succeeds strikingly. In a fight they dominate the exchange and seize a clear advantage the enemy must answer. Outside a fight the result goes noticeably better than intended and people notice: witnesses remember it, standing or reputation shifts, a door opens that was only hoped for. Name the advantage. Finishing acts are carried out with force. Across every tier: no result overrides consent, orientation, commitments or an NPC's core loyalties; affinity and learned magic succeed or fail within their own limits and costs, never producing a new effect or an unlocked technique; Nexara's defeat-and-care rules and nonlethal arena stoppage apply; and if {{characterName}} is suddenly attacked mid-action they can still react to it.]"
+    },
+    {
+      "id": "critical-success",
+      "name": "Flawless",
+      "minScore": 50,
+      "maxScore": null,
+      "imageUrl": "",
+      "prompt": "[Note: FLAWLESS. {{characterName}}'s action becomes a defining moment. In a fight the exchange is overwhelmed; the enemy is wrecked, humbled or finished, the kind of moment Korrvane tells stories about. Outside a fight the outcome exceeds what was asked: plans become possible that were not, reputations leap. Commit to the spectacle and end on the new advantage in the character's hands. It should feel earned and rare; write it big but grounded in the world's real people, powers and limits. Across every tier: no result overrides consent, orientation, commitments or an NPC's core loyalties; affinity and learned magic succeed or fail within their own limits and costs, never producing a new effect or an unlocked technique; Nexara's defeat-and-care rules and nonlethal arena stoppage apply; and if {{characterName}} is suddenly attacked mid-action they can still react to it.]"
+    }
+  ]
+}

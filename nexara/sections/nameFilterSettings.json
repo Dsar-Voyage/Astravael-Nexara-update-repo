@@ -1,0 +1,5126 @@
+{
+  "Marcus": {
+    "replacements": [
+      "Marcellor",
+      "Marcon",
+      "Marvek",
+      "Marvian",
+      "Marcavar",
+      "Marven",
+      "Marcian",
+      "Marsek",
+      "Mardren",
+      "Marcellan"
+    ]
+  },
+  "Chen": {
+    "replacements": [
+      "Kessan",
+      "Kennar",
+      "Kenrik",
+      "Kenvar",
+      "Kessik",
+      "Kendrel",
+      "Kelrin",
+      "Kevrin",
+      "Kennoc",
+      "Kenvor"
+    ]
+  },
+  "Wei": {
+    "replacements": [
+      "Aldren",
+      "Barric",
+      "Colvar",
+      "Dorren",
+      "Fenrik",
+      "Garron",
+      "Haldek",
+      "Jorven",
+      "Larssen",
+      "Maldek"
+    ]
+  },
+  "Lin": {
+    "replacements": [
+      "Lyvar",
+      "Linnar",
+      "Lirin",
+      "Lindrel",
+      "Lissan",
+      "Lerin",
+      "Lyren",
+      "Linvek",
+      "Lissar",
+      "Lindar"
+    ]
+  },
+  "Mira": {
+    "replacements": [
+      "Miren",
+      "Mireva",
+      "Mirasha",
+      "Mirenna",
+      "Miressa",
+      "Maevara",
+      "Marvella",
+      "Mireth",
+      "Mirella",
+      "Mirvana"
+    ]
+  },
+  "Elara": {
+    "replacements": [
+      "Aelira",
+      "Elvessa",
+      "Ellvara",
+      "Elvrenna",
+      "Evarra",
+      "Essala",
+      "Eloria",
+      "Elissara",
+      "Ilvara",
+      "Elvanna"
+    ]
+  },
+  "Pip": {
+    "replacements": [
+      "Pell",
+      "Pellen",
+      "Pelvar",
+      "Pessik",
+      "Pellan",
+      "Pirrik",
+      "Pevrin",
+      "Pellik",
+      "Pessar",
+      "Piren"
+    ]
+  },
+  "Kira": {
+    "replacements": [
+      "Kessa",
+      "Kellara",
+      "Kirenna",
+      "Kiressa",
+      "Kavressa",
+      "Kirvella",
+      "Kolara",
+      "Karessa",
+      "Kaedra",
+      "Kirvana"
+    ]
+  },
+  "Malik": {
+    "replacements": [
+      "Malkor",
+      "Malk",
+      "Maldek",
+      "Malvian",
+      "Malrik",
+      "Malvek",
+      "Mallor",
+      "Malessan",
+      "Maldrin",
+      "Malvor"
+    ]
+  },
+  "Serra": {
+    "replacements": [
+      "Adherbara",
+      "Baalara",
+      "Hasdressa",
+      "Magonella",
+      "Sophavara",
+      "Tannikara",
+      "Hamilessa",
+      "Bomivara",
+      "Eshmunara",
+      "Giskella"
+    ]
+  },
+  "Aldric": {
+    "replacements": [
+      "Aldren",
+      "Barric",
+      "Colvar",
+      "Dorren",
+      "Fenrik",
+      "Garron",
+      "Haldek",
+      "Jorven",
+      "Larssen",
+      "Maldek"
+    ]
+  },
+  "Alistair": {
+    "replacements": [
+      "Aldren",
+      "Barric",
+      "Colvar",
+      "Dorren",
+      "Fenrik",
+      "Garron",
+      "Haldek",
+      "Jorven",
+      "Larssen",
+      "Maldek"
+    ]
+  },
+  "Cedric": {
+    "replacements": [
+      "Aldren",
+      "Barric",
+      "Colvar",
+      "Dorren",
+      "Fenrik",
+      "Garron",
+      "Haldek",
+      "Jorven",
+      "Larssen",
+      "Maldek"
+    ]
+  },
+  "Gareth": {
+    "replacements": [
+      "Caiven",
+      "Devrik",
+      "Essaran",
+      "Falrek",
+      "Graven",
+      "Havren",
+      "Kellvar",
+      "Marvek",
+      "Nevrik",
+      "Velkar"
+    ]
+  },
+  "Garret": {
+    "replacements": [
+      "Caiven",
+      "Devrik",
+      "Essaran",
+      "Falrek",
+      "Graven",
+      "Havren",
+      "Kellvar",
+      "Marvek",
+      "Nevrik",
+      "Velkar"
+    ]
+  },
+  "Elias": {
+    "replacements": [
+      "Auran",
+      "Castan",
+      "Dravian",
+      "Marcellor",
+      "Nervian",
+      "Severian",
+      "Tarvian",
+      "Valerian",
+      "Corvex",
+      "Vestrian"
+    ]
+  },
+  "Julian": {
+    "replacements": [
+      "Auran",
+      "Castan",
+      "Dravian",
+      "Marcellor",
+      "Nervian",
+      "Severian",
+      "Tarvian",
+      "Valerian",
+      "Corvex",
+      "Vestrian"
+    ]
+  },
+  "Valerius": {
+    "replacements": [
+      "Auran",
+      "Castan",
+      "Dravian",
+      "Marcellor",
+      "Nervian",
+      "Severian",
+      "Tarvian",
+      "Valerian",
+      "Corvex",
+      "Vestrian"
+    ]
+  },
+  "Cassius": {
+    "replacements": [
+      "Auran",
+      "Castan",
+      "Dravian",
+      "Marcellor",
+      "Nervian",
+      "Severian",
+      "Tarvian",
+      "Valerian",
+      "Corvex",
+      "Vestrian"
+    ]
+  },
+  "Cyrus": {
+    "replacements": [
+      "Adherbor",
+      "Baalvar",
+      "Giskon",
+      "Hasdrix",
+      "Magonar",
+      "Sophavex",
+      "Tannikar",
+      "Hamilex",
+      "Eshmuvar",
+      "Bomivark"
+    ]
+  },
+  "Thaddeus": {
+    "replacements": [
+      "Auran",
+      "Castan",
+      "Dravian",
+      "Marcellor",
+      "Nervian",
+      "Severian",
+      "Tarvian",
+      "Valerian",
+      "Corvex",
+      "Vestrian"
+    ]
+  },
+  "Theron": {
+    "replacements": [
+      "Aethor",
+      "Aevan",
+      "Avren",
+      "Daelir",
+      "Evarren",
+      "Ilvaren",
+      "Orvael",
+      "Selvaron",
+      "Vaelorn",
+      "Aurivan"
+    ]
+  },
+  "Eldric": {
+    "replacements": [
+      "Aldren",
+      "Barric",
+      "Colvar",
+      "Dorren",
+      "Fenrik",
+      "Garron",
+      "Haldek",
+      "Jorven",
+      "Larssen",
+      "Maldek"
+    ]
+  },
+  "Silas": {
+    "replacements": [
+      "Caiven",
+      "Devrik",
+      "Essaran",
+      "Falrek",
+      "Graven",
+      "Havren",
+      "Kellvar",
+      "Marvek",
+      "Nevrik",
+      "Velkar"
+    ]
+  },
+  "Torin": {
+    "replacements": [
+      "Aldren",
+      "Barric",
+      "Colvar",
+      "Dorren",
+      "Fenrik",
+      "Garron",
+      "Haldek",
+      "Jorven",
+      "Larssen",
+      "Maldek"
+    ]
+  },
+  "Quinn": {
+    "replacements": [
+      "Bren",
+      "Dax",
+      "Hael",
+      "Jarn",
+      "Lex",
+      "Ren",
+      "Tav",
+      "Vek",
+      "Nox",
+      "Kel"
+    ]
+  },
+  "Vance": {
+    "replacements": [
+      "Bren",
+      "Dax",
+      "Hael",
+      "Jarn",
+      "Lex",
+      "Ren",
+      "Tav",
+      "Vek",
+      "Nox",
+      "Kel"
+    ]
+  },
+  "Draven": {
+    "replacements": [
+      "Caiven",
+      "Devrik",
+      "Essaran",
+      "Falrek",
+      "Graven",
+      "Havren",
+      "Kellvar",
+      "Marvek",
+      "Nevrik",
+      "Velkar"
+    ]
+  },
+  "Kael": {
+    "replacements": [
+      "Kel",
+      "Hael",
+      "Kellvar",
+      "Kavren",
+      "Kessan",
+      "Kolvar",
+      "Kaivren",
+      "Caelir",
+      "Kellan",
+      "Kaldrin"
+    ]
+  },
+  "Kaelen": {
+    "replacements": [
+      "Aethor",
+      "Aevan",
+      "Avren",
+      "Daelir",
+      "Evarren",
+      "Ilvaren",
+      "Orvael",
+      "Selvaron",
+      "Vaelorn",
+      "Aurivan"
+    ]
+  },
+  "Kaelis": {
+    "replacements": [
+      "Aethor",
+      "Aevan",
+      "Avren",
+      "Daelir",
+      "Evarren",
+      "Ilvaren",
+      "Orvael",
+      "Selvaron",
+      "Vaelorn",
+      "Aurivan"
+    ]
+  },
+  "Kaelin": {
+    "replacements": [
+      "Aethor",
+      "Aevan",
+      "Avren",
+      "Daelir",
+      "Evarren",
+      "Ilvaren",
+      "Orvael",
+      "Selvaron",
+      "Vaelorn",
+      "Aurivan"
+    ]
+  },
+  "Kaelith": {
+    "replacements": [
+      "Aethor",
+      "Aevan",
+      "Avren",
+      "Daelir",
+      "Evarren",
+      "Ilvaren",
+      "Orvael",
+      "Selvaron",
+      "Vaelorn",
+      "Aurivan"
+    ]
+  },
+  "Kaelden": {
+    "replacements": [
+      "Aethor",
+      "Aevan",
+      "Avren",
+      "Daelir",
+      "Evarren",
+      "Ilvaren",
+      "Orvael",
+      "Selvaron",
+      "Vaelorn",
+      "Aurivan"
+    ]
+  },
+  "Thordrin": {
+    "replacements": [
+      "Aldren",
+      "Barric",
+      "Colvar",
+      "Dorren",
+      "Fenrik",
+      "Garron",
+      "Haldek",
+      "Jorven",
+      "Larssen",
+      "Maldek"
+    ]
+  },
+  "Thorgrim": {
+    "replacements": [
+      "Aldren",
+      "Barric",
+      "Colvar",
+      "Dorren",
+      "Fenrik",
+      "Garron",
+      "Haldek",
+      "Jorven",
+      "Larssen",
+      "Maldek"
+    ]
+  },
+  "Caelan": {
+    "replacements": [
+      "Aethor",
+      "Aevan",
+      "Avren",
+      "Daelir",
+      "Evarren",
+      "Ilvaren",
+      "Orvael",
+      "Selvaron",
+      "Vaelorn",
+      "Aurivan"
+    ]
+  },
+  "Caelum": {
+    "replacements": [
+      "Aethor",
+      "Aevan",
+      "Avren",
+      "Daelir",
+      "Evarren",
+      "Ilvaren",
+      "Orvael",
+      "Selvaron",
+      "Vaelorn",
+      "Aurivan"
+    ]
+  },
+  "Caspian": {
+    "replacements": [
+      "Auran",
+      "Castan",
+      "Dravian",
+      "Marcellor",
+      "Nervian",
+      "Severian",
+      "Tarvian",
+      "Valerian",
+      "Corvex",
+      "Vestrian"
+    ]
+  },
+  "Alaric": {
+    "replacements": [
+      "Aldren",
+      "Barric",
+      "Colvar",
+      "Dorren",
+      "Fenrik",
+      "Garron",
+      "Haldek",
+      "Jorven",
+      "Larssen",
+      "Maldek"
+    ]
+  },
+  "Vex": {
+    "replacements": [
+      "Bren",
+      "Dax",
+      "Hael",
+      "Jarn",
+      "Lex",
+      "Ren",
+      "Tav",
+      "Vek",
+      "Nox",
+      "Kel"
+    ]
+  },
+  "Kade": {
+    "replacements": [
+      "Bren",
+      "Dax",
+      "Hael",
+      "Jarn",
+      "Lex",
+      "Ren",
+      "Tav",
+      "Vek",
+      "Nox",
+      "Kel"
+    ]
+  },
+  "Jax": {
+    "replacements": [
+      "Bren",
+      "Dax",
+      "Hael",
+      "Jarn",
+      "Lex",
+      "Ren",
+      "Tav",
+      "Vek",
+      "Nox",
+      "Kel"
+    ]
+  },
+  "Vonn": {
+    "replacements": [
+      "Aldren",
+      "Barric",
+      "Colvar",
+      "Dorren",
+      "Fenrik",
+      "Garron",
+      "Haldek",
+      "Jorven",
+      "Larssen",
+      "Maldek"
+    ]
+  },
+  "Dorn": {
+    "replacements": [
+      "Aldren",
+      "Barric",
+      "Colvar",
+      "Dorren",
+      "Fenrik",
+      "Garron",
+      "Haldek",
+      "Jorven",
+      "Larssen",
+      "Maldek"
+    ]
+  },
+  "Voss": {
+    "replacements": [
+      "Aldren",
+      "Barric",
+      "Colvar",
+      "Dorren",
+      "Fenrik",
+      "Garron",
+      "Haldek",
+      "Jorven",
+      "Larssen",
+      "Maldek"
+    ]
+  },
+  "Zephyr": {
+    "replacements": [
+      "Caiven",
+      "Devrik",
+      "Essaran",
+      "Falrek",
+      "Graven",
+      "Havren",
+      "Kellvar",
+      "Marvek",
+      "Nevrik",
+      "Velkar"
+    ]
+  },
+  "Phoenix": {
+    "replacements": [
+      "Caiven",
+      "Devrik",
+      "Essaran",
+      "Falrek",
+      "Graven",
+      "Havren",
+      "Kellvar",
+      "Marvek",
+      "Nevrik",
+      "Velkar"
+    ]
+  },
+  "Elena": {
+    "replacements": [
+      "Aurana",
+      "Castella",
+      "Dravara",
+      "Marcella",
+      "Nervana",
+      "Severina",
+      "Tarvella",
+      "Valerina",
+      "Corvessa",
+      "Vestrana"
+    ]
+  },
+  "Aria": {
+    "replacements": [
+      "Auressa",
+      "Aurana",
+      "Arissa",
+      "Arvessa",
+      "Ariessa",
+      "Aurella",
+      "Avella",
+      "Arvenna",
+      "Aurika",
+      "Arissara"
+    ]
+  },
+  "Lyra": {
+    "replacements": [
+      "Lyvessa",
+      "Lys",
+      "Lyssara",
+      "Lyrenna",
+      "Lysa",
+      "Lyvara",
+      "Lirenna",
+      "Lyranna",
+      "Lyrella",
+      "Lyvenna"
+    ]
+  },
+  "Luna": {
+    "replacements": [
+      "Aurana",
+      "Castella",
+      "Dravara",
+      "Marcella",
+      "Nervana",
+      "Severina",
+      "Tarvella",
+      "Valerina",
+      "Corvessa",
+      "Vestrana"
+    ]
+  },
+  "Celestia": {
+    "replacements": [
+      "Aurana",
+      "Castella",
+      "Dravara",
+      "Marcella",
+      "Nervana",
+      "Severina",
+      "Tarvella",
+      "Valerina",
+      "Corvessa",
+      "Vestrana"
+    ]
+  },
+  "Elowen": {
+    "replacements": [
+      "Aldessa",
+      "Brenara",
+      "Corvenna",
+      "Dorella",
+      "Garrela",
+      "Haldra",
+      "Jorvessa",
+      "Kolara",
+      "Laressa",
+      "Maldra"
+    ]
+  },
+  "Eira": {
+    "replacements": [
+      "Aldessa",
+      "Brenara",
+      "Corvenna",
+      "Dorella",
+      "Garrela",
+      "Haldra",
+      "Jorvessa",
+      "Kolara",
+      "Laressa",
+      "Maldra"
+    ]
+  },
+  "Vesper": {
+    "replacements": [
+      "Caivra",
+      "Devressa",
+      "Essala",
+      "Falressa",
+      "Gravenna",
+      "Havrela",
+      "Kellara",
+      "Marvella",
+      "Nevressa",
+      "Velkara"
+    ]
+  },
+  "Vespera": {
+    "replacements": [
+      "Caivra",
+      "Devressa",
+      "Essala",
+      "Falressa",
+      "Gravenna",
+      "Havrela",
+      "Kellara",
+      "Marvella",
+      "Nevressa",
+      "Velkara"
+    ]
+  },
+  "Nyx": {
+    "replacements": [
+      "Brae",
+      "Cai",
+      "Dael",
+      "Fen",
+      "Lys",
+      "Sel",
+      "Tev",
+      "Vay",
+      "Nev",
+      "Kei"
+    ]
+  },
+  "Lira": {
+    "replacements": [
+      "Brae",
+      "Cai",
+      "Dael",
+      "Fen",
+      "Lys",
+      "Sel",
+      "Tev",
+      "Vay",
+      "Nev",
+      "Kei"
+    ]
+  },
+  "Veyra": {
+    "replacements": [
+      "Aelira",
+      "Avella",
+      "Caelira",
+      "Daelara",
+      "Evarra",
+      "Ilvenna",
+      "Orvala",
+      "Selvira",
+      "Vaelessa",
+      "Auressa"
+    ]
+  },
+  "Lila": {
+    "replacements": [
+      "Brae",
+      "Cai",
+      "Dael",
+      "Fen",
+      "Lys",
+      "Sel",
+      "Tev",
+      "Vay",
+      "Nev",
+      "Kei"
+    ]
+  },
+  "Tessa": {
+    "replacements": [
+      "Aldessa",
+      "Brenara",
+      "Corvenna",
+      "Dorella",
+      "Garrela",
+      "Haldra",
+      "Jorvessa",
+      "Kolara",
+      "Laressa",
+      "Maldra"
+    ]
+  },
+  "Cassie": {
+    "replacements": [
+      "Caivra",
+      "Devressa",
+      "Essala",
+      "Falressa",
+      "Gravenna",
+      "Havrela",
+      "Kellara",
+      "Marvella",
+      "Nevressa",
+      "Velkara"
+    ]
+  },
+  "Seraphine": {
+    "replacements": [
+      "Severina",
+      "Seressa",
+      "Sevrenna",
+      "Seralyne",
+      "Sereth",
+      "Selvira",
+      "Serralis",
+      "Sevara",
+      "Seryn",
+      "Severessa"
+    ]
+  },
+  "Isolde": {
+    "replacements": [
+      "Aldessa",
+      "Brenara",
+      "Corvenna",
+      "Dorella",
+      "Garrela",
+      "Haldra",
+      "Jorvessa",
+      "Kolara",
+      "Laressa",
+      "Maldra"
+    ]
+  },
+  "Lirien": {
+    "replacements": [
+      "Aelira",
+      "Avella",
+      "Caelira",
+      "Daelara",
+      "Evarra",
+      "Ilvenna",
+      "Orvala",
+      "Selvira",
+      "Vaelessa",
+      "Auressa"
+    ]
+  },
+  "Chan": {
+    "replacements": [
+      "Bren",
+      "Dax",
+      "Hael",
+      "Jarn",
+      "Lex",
+      "Ren",
+      "Tav",
+      "Vek",
+      "Nox",
+      "Kel"
+    ]
+  },
+  "Kenji": {
+    "replacements": [
+      "Adherbor",
+      "Baalvar",
+      "Giskon",
+      "Hasdrix",
+      "Magonar",
+      "Sophavex",
+      "Tannikar",
+      "Hamilex",
+      "Eshmuvar",
+      "Bomivark"
+    ]
+  },
+  "Tanaka": {
+    "replacements": [
+      "Adherbor",
+      "Baalvar",
+      "Giskon",
+      "Hasdrix",
+      "Magonar",
+      "Sophavex",
+      "Tannikar",
+      "Hamilex",
+      "Eshmuvar",
+      "Bomivark"
+    ]
+  },
+  "Sato": {
+    "replacements": [
+      "Adherbor",
+      "Baalvar",
+      "Giskon",
+      "Hasdrix",
+      "Magonar",
+      "Sophavex",
+      "Tannikar",
+      "Hamilex",
+      "Eshmuvar",
+      "Bomivark"
+    ]
+  },
+  "Patel": {
+    "replacements": [
+      "Caiven",
+      "Devrik",
+      "Essaran",
+      "Falrek",
+      "Graven",
+      "Havren",
+      "Kellvar",
+      "Marvek",
+      "Nevrik",
+      "Velkar"
+    ]
+  },
+  "Toren": {
+    "replacements": [
+      "Caiven",
+      "Devrik",
+      "Essaran",
+      "Falrek",
+      "Graven",
+      "Havren",
+      "Kellvar",
+      "Marvek",
+      "Nevrik",
+      "Velkar"
+    ]
+  },
+  "Blackwood": {
+    "replacements": [
+      "Vhaldrin",
+      "Corsair",
+      "Dravon",
+      "Genesis",
+      "Bellovari",
+      "Sol",
+      "Castro",
+      "Volen",
+      "Myralis",
+      "Orvessa"
+    ]
+  },
+  "Ironheart": {
+    "replacements": [
+      "Vhaldrin",
+      "Corsair",
+      "Dravon",
+      "Genesis",
+      "Bellovari",
+      "Sol",
+      "Castro",
+      "Volen",
+      "Myralis",
+      "Orvessa"
+    ]
+  },
+  "Moonwhisper": {
+    "replacements": [
+      "Luxaryn",
+      "Contair",
+      "Kathvar",
+      "Ravello",
+      "Nivarek",
+      "Orvantis",
+      "Varriko",
+      "Caldris",
+      "Valcoro",
+      "Caelthorn"
+    ]
+  },
+  "Nightbreeze": {
+    "replacements": [
+      "Luxaryn",
+      "Contair",
+      "Kathvar",
+      "Ravello",
+      "Nivarek",
+      "Orvantis",
+      "Varriko",
+      "Caldris",
+      "Valcoro",
+      "Caelthorn"
+    ]
+  },
+  "Starweaver": {
+    "replacements": [
+      "Zelvaris",
+      "Aevon",
+      "Balrath",
+      "Veyth",
+      "Vorreth",
+      "Vaereth",
+      "Veltrax",
+      "Meravil",
+      "Yalven",
+      "Nhalor"
+    ]
+  },
+  "Sterlington": {
+    "replacements": [
+      "Vhaldrin",
+      "Corsair",
+      "Dravon",
+      "Genesis",
+      "Bellovari",
+      "Sol",
+      "Castro",
+      "Volen",
+      "Myralis",
+      "Orvessa"
+    ]
+  },
+  "Thornefield": {
+    "replacements": [
+      "Luxaryn",
+      "Contair",
+      "Kathvar",
+      "Ravello",
+      "Nivarek",
+      "Orvantis",
+      "Varriko",
+      "Caldris",
+      "Valcoro",
+      "Caelthorn"
+    ]
+  },
+  "Thornvale": {
+    "replacements": [
+      "Zelvaris",
+      "Aevon",
+      "Balrath",
+      "Veyth",
+      "Vorreth",
+      "Vaereth",
+      "Veltrax",
+      "Meravil",
+      "Yalven",
+      "Nhalor"
+    ]
+  },
+  "Bronzebeard": {
+    "replacements": [
+      "Vhaldrin",
+      "Corsair",
+      "Dravon",
+      "Genesis",
+      "Bellovari",
+      "Sol",
+      "Castro",
+      "Volen",
+      "Myralis",
+      "Orvessa"
+    ]
+  },
+  "Silverpaw": {
+    "replacements": [
+      "Zelvaris",
+      "Aevon",
+      "Balrath",
+      "Veyth",
+      "Vorreth",
+      "Vaereth",
+      "Veltrax",
+      "Meravil",
+      "Yalven",
+      "Nhalor"
+    ]
+  },
+  "Swiftpaw": {
+    "replacements": [
+      "Zelvaris",
+      "Aevon",
+      "Balrath",
+      "Veyth",
+      "Vorreth",
+      "Vaereth",
+      "Veltrax",
+      "Meravil",
+      "Yalven",
+      "Nhalor"
+    ]
+  },
+  "Thorne": {
+    "replacements": [
+      "Luxaryn",
+      "Contair",
+      "Kathvar",
+      "Ravello",
+      "Nivarek",
+      "Orvantis",
+      "Varriko",
+      "Caldris",
+      "Valcoro",
+      "Caelthorn"
+    ]
+  },
+  "Ramirez": {
+    "replacements": [
+      "Vhaldrin",
+      "Corsair",
+      "Dravon",
+      "Genesis",
+      "Bellovari",
+      "Sol",
+      "Castro",
+      "Volen",
+      "Myralis",
+      "Orvessa"
+    ]
+  },
+  "O'Connor": {
+    "replacements": [
+      "Luxaryn",
+      "Contair",
+      "Kathvar",
+      "Ravello",
+      "Nivarek",
+      "Orvantis",
+      "Varriko",
+      "Caldris",
+      "Valcoro",
+      "Caelthorn"
+    ]
+  },
+  "O'Connolly": {
+    "replacements": [
+      "Zelvaris",
+      "Aevon",
+      "Balrath",
+      "Veyth",
+      "Vorreth",
+      "Vaereth",
+      "Veltrax",
+      "Meravil",
+      "Yalven",
+      "Nhalor"
+    ]
+  },
+  "Santos": {
+    "replacements": [
+      "Vhaldrin",
+      "Corsair",
+      "Dravon",
+      "Genesis",
+      "Bellovari",
+      "Sol",
+      "Castro",
+      "Volen",
+      "Myralis",
+      "Orvessa"
+    ]
+  },
+  "Ruiz": {
+    "replacements": [
+      "Luxaryn",
+      "Contair",
+      "Kathvar",
+      "Ravello",
+      "Nivarek",
+      "Orvantis",
+      "Varriko",
+      "Caldris",
+      "Valcoro",
+      "Caelthorn"
+    ]
+  },
+  "Carver": {
+    "replacements": [
+      "Zelvaris",
+      "Aevon",
+      "Balrath",
+      "Veyth",
+      "Vorreth",
+      "Vaereth",
+      "Veltrax",
+      "Meravil",
+      "Yalven",
+      "Nhalor"
+    ]
+  },
+  "Holt": {
+    "replacements": [
+      "Vhaldrin",
+      "Corsair",
+      "Dravon",
+      "Genesis",
+      "Bellovari",
+      "Sol",
+      "Castro",
+      "Volen",
+      "Myralis",
+      "Orvessa"
+    ]
+  },
+  "Seraphina": {
+    "replacements": [
+      "Severina",
+      "Seressa",
+      "Sevrenna",
+      "Seralyne",
+      "Sereth",
+      "Selvira",
+      "Serralis",
+      "Sevara",
+      "Seryn",
+      "Severessa"
+    ]
+  },
+  "Kai": {
+    "replacements": [
+      "Cai",
+      "Kei",
+      "Caiven",
+      "Kaivren",
+      "Caivan",
+      "Kaivor",
+      "Kavren",
+      "Kaivek",
+      "Caivar",
+      "Kessan"
+    ]
+  },
+  "Zara": {
+    "replacements": [
+      "Zarenna",
+      "Zaressa",
+      "Zavella",
+      "Zorvana",
+      "Zarvela",
+      "Zavessa",
+      "Zarella",
+      "Zaveth",
+      "Sarvika",
+      "Zaranna"
+    ]
+  },
+  "Finn": {
+    "replacements": [
+      "Fen",
+      "Fenrik",
+      "Fennar",
+      "Fenra",
+      "Falrek",
+      "Fenvar",
+      "Fendrik",
+      "Fenrek",
+      "Fessan",
+      "Fennoc"
+    ]
+  },
+  "Aya": {
+    "replacements": [
+      "Aela",
+      "Ayessa",
+      "Avella",
+      "Aelira",
+      "Ayvara",
+      "Aessa",
+      "Ayrenna",
+      "Aurana",
+      "Aveth",
+      "Ayella"
+    ]
+  },
+  "Orion": {
+    "replacements": [
+      "Orvael",
+      "Orvik",
+      "Orlen",
+      "Oryn",
+      "Orvane",
+      "Orvellan",
+      "Orvek",
+      "Ostrin",
+      "Orvanus",
+      "Orrek"
+    ]
+  },
+  "Ezra": {
+    "replacements": [
+      "Essaran",
+      "Ezrik",
+      "Esvar",
+      "Eshmuvar",
+      "Essim",
+      "Ezravan",
+      "Esrek",
+      "Evarren",
+      "Elvren",
+      "Edrek"
+    ]
+  },
+  "Lucien": {
+    "replacements": [
+      "Lucan",
+      "Lucaran",
+      "Lyvar",
+      "Lucavar",
+      "Luvrek",
+      "Lucessan",
+      "Lorvek",
+      "Lussan",
+      "Lucarn",
+      "Lucerin"
+    ]
+  },
+  "Rhea": {
+    "replacements": [
+      "Rhavela",
+      "Ressa",
+      "Rhaella",
+      "Rava",
+      "Ravessa",
+      "Rheva",
+      "Rhessa",
+      "Rhaenna",
+      "Reya",
+      "Rhavenna"
+    ]
+  },
+  "John": {
+    "replacements": [
+      "Jorvan",
+      "Jelvek",
+      "Jonnir",
+      "Jalrek",
+      "Jovren",
+      "Jaldek",
+      "Jennor",
+      "Jolvari",
+      "Jernak",
+      "Jalven"
+    ]
+  },
+  "James": {
+    "replacements": [
+      "Jarvek",
+      "Jalmir",
+      "Jessran",
+      "Jalvorn",
+      "Jemrik",
+      "Jervalo",
+      "Javrel",
+      "Jastren",
+      "Jessvar",
+      "Jalmek"
+    ]
+  },
+  "William": {
+    "replacements": [
+      "Velrim",
+      "Vellarn",
+      "Villrek",
+      "Valmorin",
+      "Villask",
+      "Volren",
+      "Vallekir",
+      "Velmorn",
+      "Vildrask",
+      "Volsek"
+    ]
+  },
+  "Thomas": {
+    "replacements": [
+      "Toravel",
+      "Tolvek",
+      "Thornik",
+      "Tarvess",
+      "Tessoran",
+      "Torvald",
+      "Telmak",
+      "Therrik",
+      "Tolvarn",
+      "Tessnik"
+    ]
+  },
+  "Robert": {
+    "replacements": [
+      "Rovrek",
+      "Rolvarn",
+      "Relvik",
+      "Robbarn",
+      "Relvisk",
+      "Rolvess",
+      "Revnor",
+      "Rolvek",
+      "Ressvan",
+      "Revlar"
+    ]
+  },
+  "Michael": {
+    "replacements": [
+      "Melorik",
+      "Marvell",
+      "Mikren",
+      "Melvorn",
+      "Morvik",
+      "Mavrel",
+      "Merklan",
+      "Mikvar",
+      "Melvorik",
+      "Morvelan"
+    ]
+  },
+  "David": {
+    "replacements": [
+      "Davrek",
+      "Delvorin",
+      "Darvisk",
+      "Devlan",
+      "Dalvorn",
+      "Drevnik",
+      "Davross",
+      "Delmark",
+      "Darvello",
+      "Devross"
+    ]
+  },
+  "Richard": {
+    "replacements": [
+      "Rickvan",
+      "Relchord",
+      "Ravdorn",
+      "Relvard",
+      "Rovchard",
+      "Relvnik",
+      "Rickvarn",
+      "Raldorn",
+      "Relvoss",
+      "Rikvan"
+    ]
+  },
+  "Daniel": {
+    "replacements": [
+      "Dalenik",
+      "Davren",
+      "Delnorik",
+      "Dalvren",
+      "Dennvar",
+      "Delvarn",
+      "Dalrek",
+      "Dernvik",
+      "Delvoss",
+      "Drenval"
+    ]
+  },
+  "Andrew": {
+    "replacements": [
+      "Andrevak",
+      "Alvren",
+      "Anvrek",
+      "Andorel",
+      "Alvrik",
+      "Andrevoss",
+      "Alvrenn",
+      "Andelsk",
+      "Anvrell",
+      "Aldrevek"
+    ]
+  },
+  "Peter": {
+    "replacements": [
+      "Peltvarn",
+      "Perrik",
+      "Polvek",
+      "Pelvar",
+      "Pervoss",
+      "Pelrik",
+      "Porvek",
+      "Peldrenn",
+      "Pervarn",
+      "Peltorek"
+    ]
+  },
+  "George": {
+    "replacements": [
+      "Gelvorn",
+      "Garvoss",
+      "Gervik",
+      "Golvaren",
+      "Garveld",
+      "Gelvar",
+      "Gorvek",
+      "Gelvaren",
+      "Garviss",
+      "Golven"
+    ]
+  },
+  "Edward": {
+    "replacements": [
+      "Elvard",
+      "Edvorn",
+      "Elvrek",
+      "Edvalor",
+      "Elvoss",
+      "Edvarn",
+      "Elvarnik",
+      "Edvrell",
+      "Elvoran",
+      "Edvask"
+    ]
+  },
+  "Henry": {
+    "replacements": [
+      "Helvren",
+      "Harvik",
+      "Hennvar",
+      "Helvoss",
+      "Halvrek",
+      "Helvarn",
+      "Harvoss",
+      "Hennovek",
+      "Halvren",
+      "Helvorik"
+    ]
+  },
+  "Joseph": {
+    "replacements": [
+      "Jorvess",
+      "Jelvorn",
+      "Josvarek",
+      "Jelvoss",
+      "Jorveld",
+      "Jessvorin",
+      "Jelvark",
+      "Jorvalan",
+      "Jessvik",
+      "Jelvald"
+    ]
+  },
+  "Alexander": {
+    "replacements": [
+      "Alvandrek",
+      "Alevorn",
+      "Alveksor",
+      "Aldrevorn",
+      "Alvandor",
+      "Alekvarn",
+      "Aldrivoss",
+      "Alveksorn",
+      "Aldrevan",
+      "Alevrik"
+    ]
+  },
+  "Oliver": {
+    "replacements": [
+      "Olvarek",
+      "Olvren",
+      "Olverik",
+      "Olvarnis",
+      "Olvess",
+      "Olvarnik",
+      "Olvrek",
+      "Olveran",
+      "Olvask",
+      "Olvrenni"
+    ]
+  },
+  "Charles": {
+    "replacements": [
+      "Chelvorn",
+      "Charvek",
+      "Chelvarn",
+      "Challvrek",
+      "Chelvoss",
+      "Charveld",
+      "Chelvrik",
+      "Challvorn",
+      "Charvorek",
+      "Chelvald"
+    ]
+  },
+  "Arthur": {
+    "replacements": [
+      "Arvathur",
+      "Arthvek",
+      "Arelvorn",
+      "Arthvel",
+      "Arelvek",
+      "Arthvarn",
+      "Arelvoss",
+      "Arthvelan",
+      "Arelvrid",
+      "Arthvald"
+    ]
+  },
+  "Benjamin": {
+    "replacements": [
+      "Belvarin",
+      "Bennvor",
+      "Belvrek",
+      "Bennvald",
+      "Belvorin",
+      "Bennvrik",
+      "Belvoss",
+      "Bennvarek",
+      "Belvornis",
+      "Bennvell"
+    ]
+  },
+  "Samuel": {
+    "replacements": [
+      "Salvrek",
+      "Samveld",
+      "Selvorn",
+      "Samvarek",
+      "Salvorn",
+      "Selvrik",
+      "Samvoss",
+      "Salveld",
+      "Selvark",
+      "Samvorin"
+    ]
+  },
+  "Christopher": {
+    "replacements": [
+      "Kelvortis",
+      "Chrivorn",
+      "Kelvorik",
+      "Chriveld",
+      "Kelvoss",
+      "Chrivarn",
+      "Kelvarek",
+      "Chrivoss",
+      "Kelvard",
+      "Chrivorek"
+    ]
+  },
+  "Matthew": {
+    "replacements": [
+      "Melvorn",
+      "Mathvek",
+      "Melvrik",
+      "Mathvarn",
+      "Melvoss",
+      "Mathveld",
+      "Melvarek",
+      "Mathvoss",
+      "Melvorik",
+      "Mathvald"
+    ]
+  },
+  "Jacob": {
+    "replacements": [
+      "Jelvek",
+      "Jarvok",
+      "Jelvorin",
+      "Jarveld",
+      "Jelvoss",
+      "Jarvek",
+      "Jelvarek",
+      "Jarvorin",
+      "Jelvald",
+      "Jarvoss"
+    ]
+  },
+  "Jack": {
+    "replacements": [
+      "Jelvak",
+      "Jarvik",
+      "Jelvorn",
+      "Jarvoss",
+      "Jelvrik",
+      "Jarvald",
+      "Jelvarik",
+      "Jarvorek",
+      "Jelvisk",
+      "Jarven"
+    ]
+  },
+  "Luke": {
+    "replacements": [
+      "Lelvek",
+      "Lorvek",
+      "Lelvarn",
+      "Lorvald",
+      "Lelvoss",
+      "Lorvik",
+      "Lelvrik",
+      "Lorvorek",
+      "Lelvisk",
+      "Lorven"
+    ]
+  },
+  "Adam": {
+    "replacements": [
+      "Aldavek",
+      "Aldrim",
+      "Advorn",
+      "Aldavoss",
+      "Adveld",
+      "Aldavrik",
+      "Aldavarn",
+      "Advoss",
+      "Aldaven",
+      "Advald"
+    ]
+  },
+  "Aaron": {
+    "replacements": [
+      "Aelvorn",
+      "Alvron",
+      "Aelvek",
+      "Alvross",
+      "Aelvald",
+      "Alvrek",
+      "Aelvorik",
+      "Alvarn",
+      "Aelvoss",
+      "Alveld"
+    ]
+  },
+  "Nathan": {
+    "replacements": [
+      "Nelvorn",
+      "Narvek",
+      "Nelvald",
+      "Narvoss",
+      "Nelvrik",
+      "Narvorek",
+      "Nelvarn",
+      "Narveld",
+      "Nelvoss",
+      "Narvik"
+    ]
+  },
+  "Ryan": {
+    "replacements": [
+      "Relvorn",
+      "Relvek",
+      "Relvald",
+      "Relvoss",
+      "Relvrik",
+      "Relvorek",
+      "Relvarn",
+      "Relveld",
+      "Relvisk",
+      "Relven"
+    ]
+  },
+  "Ethan": {
+    "replacements": [
+      "Elvorn",
+      "Elvek",
+      "Elvald",
+      "Elvoss",
+      "Elvrik",
+      "Elvorek",
+      "Elvarn",
+      "Elveld",
+      "Elvisk",
+      "Elven"
+    ]
+  },
+  "Jason": {
+    "replacements": [
+      "Jelvorn",
+      "Jessvar",
+      "Jelvald",
+      "Jessvorn",
+      "Jelvrik",
+      "Jessvorek",
+      "Jelvarn",
+      "Jessveld",
+      "Jelvoss",
+      "Jessvik"
+    ]
+  },
+  "Owen": {
+    "replacements": [
+      "Olvenn",
+      "Orvek",
+      "Olvald",
+      "Orvoss",
+      "Olvrik",
+      "Orvorek",
+      "Olvarn",
+      "Orveld",
+      "Olvisk",
+      "Orven"
+    ]
+  },
+  "Sean": {
+    "replacements": [
+      "Selvorn",
+      "Selvek",
+      "Selvald",
+      "Selvoss",
+      "Selvrik",
+      "Selvorek",
+      "Selvarn",
+      "Selveld",
+      "Selvisk",
+      "Selven"
+    ]
+  },
+  "Patrick": {
+    "replacements": [
+      "Peltvarn",
+      "Parvek",
+      "Peltvald",
+      "Parvoss",
+      "Peltvrik",
+      "Parvorek",
+      "Peltveld",
+      "Parveld",
+      "Peltvik",
+      "Parven"
+    ]
+  },
+  "Brian": {
+    "replacements": [
+      "Belvorn",
+      "Brivek",
+      "Belvald",
+      "Brivoss",
+      "Belvrik",
+      "Brivorek",
+      "Belvarn",
+      "Briveld",
+      "Belvik",
+      "Briven"
+    ]
+  },
+  "Kevin": {
+    "replacements": [
+      "Kelvorn",
+      "Kevrik",
+      "Kelvald",
+      "Kevross",
+      "Kelvrik",
+      "Kevrorek",
+      "Kelvarn",
+      "Keveld",
+      "Kelvik",
+      "Kevren"
+    ]
+  },
+  "Brandon": {
+    "replacements": [
+      "Bralvorn",
+      "Brandek",
+      "Bralvald",
+      "Brandoss",
+      "Bralvrik",
+      "Brandorek",
+      "Bralvarn",
+      "Brandeld",
+      "Bralvik",
+      "Branden"
+    ]
+  },
+  "Tyler": {
+    "replacements": [
+      "Telvorn",
+      "Tylvek",
+      "Telvald",
+      "Tylvoss",
+      "Telvrik",
+      "Tylvorek",
+      "Telvarn",
+      "Tylveld",
+      "Telvik",
+      "Tylven"
+    ]
+  },
+  "Dylan": {
+    "replacements": [
+      "Delvorn",
+      "Dyllvek",
+      "Delvald",
+      "Dyllvoss",
+      "Delvrik",
+      "Dyllvorek",
+      "Delvarn",
+      "Dyllveld",
+      "Delvik",
+      "Dyllven"
+    ]
+  },
+  "Stephen": {
+    "replacements": [
+      "Stelvorn",
+      "Stevrek",
+      "Stelvald",
+      "Stevross",
+      "Stelvrik",
+      "Stevorek",
+      "Stelvarn",
+      "Steveld",
+      "Stelvik",
+      "Stevren"
+    ]
+  },
+  "Ian": {
+    "replacements": [
+      "Ilvorn",
+      "Ivrek",
+      "Ilvald",
+      "Ivross",
+      "Ilvrik",
+      "Ivorek",
+      "Ilvarn",
+      "Iveld",
+      "Ilvik",
+      "Ivren"
+    ]
+  },
+  "Scott": {
+    "replacements": [
+      "Skelvorn",
+      "Skolvek",
+      "Skelvald",
+      "Skolvoss",
+      "Skelvrik",
+      "Skolvorek",
+      "Skelvarn",
+      "Skolveld",
+      "Skelvik",
+      "Skolven"
+    ]
+  },
+  "Derek": {
+    "replacements": [
+      "Delvrek",
+      "Dervorik",
+      "Delvald",
+      "Dervoss",
+      "Delvrik",
+      "Dervorek",
+      "Delvarn",
+      "Derveld",
+      "Delvik",
+      "Derven"
+    ]
+  },
+  "Sarah": {
+    "replacements": [
+      "Saravel",
+      "Sarvessa",
+      "Sarenna",
+      "Salira",
+      "Sarvala",
+      "Sardenna",
+      "Savrella",
+      "Salvira",
+      "Sarvinna",
+      "Sardala"
+    ]
+  },
+  "Emily": {
+    "replacements": [
+      "Emvira",
+      "Elvessa",
+      "Emrella",
+      "Elvinna",
+      "Emvalora",
+      "Elvara",
+      "Emrissa",
+      "Elvenna",
+      "Emvalda",
+      "Elvrenna"
+    ]
+  },
+  "Elizabeth": {
+    "replacements": [
+      "Elzavara",
+      "Elvessa",
+      "Elzarenna",
+      "Elvira",
+      "Elzavessa",
+      "Elvinna",
+      "Elzarissa",
+      "Elvala",
+      "Elzavinna",
+      "Elvressa"
+    ]
+  },
+  "Catherine": {
+    "replacements": [
+      "Katreva",
+      "Kelvara",
+      "Katrevessa",
+      "Kelvinna",
+      "Katrevira",
+      "Kelvessa",
+      "Katrevala",
+      "Kelvenna",
+      "Katrevinna",
+      "Kelvressa"
+    ]
+  },
+  "Mary": {
+    "replacements": [
+      "Marvessa",
+      "Merila",
+      "Marvenna",
+      "Merissa",
+      "Marvala",
+      "Merinna",
+      "Marvira",
+      "Merella",
+      "Marvinna",
+      "Merala"
+    ]
+  },
+  "Anna": {
+    "replacements": [
+      "Alvenna",
+      "Annvara",
+      "Alvira",
+      "Annvessa",
+      "Alvessa",
+      "Annvira",
+      "Alvala",
+      "Annvenna",
+      "Alvinna",
+      "Annvressa"
+    ]
+  },
+  "Jane": {
+    "replacements": [
+      "Javenna",
+      "Jelvara",
+      "Javessa",
+      "Jelvira",
+      "Javira",
+      "Jelvessa",
+      "Javala",
+      "Jelvinna",
+      "Javinna",
+      "Jelvressa"
+    ]
+  },
+  "Charlotte": {
+    "replacements": [
+      "Chelvara",
+      "Charlvessa",
+      "Chelvira",
+      "Charlvenna",
+      "Chelvessa",
+      "Charlvala",
+      "Chelvinna",
+      "Charlvira",
+      "Chelvressa",
+      "Charlvissa"
+    ]
+  },
+  "Sophie": {
+    "replacements": [
+      "Solvira",
+      "Selvara",
+      "Solvessa",
+      "Selvenna",
+      "Solvara",
+      "Selvira",
+      "Solvenna",
+      "Selvessa",
+      "Solvrenna",
+      "Selvala"
+    ]
+  },
+  "Alice": {
+    "replacements": [
+      "Alvissa",
+      "Aelvara",
+      "Alvenna",
+      "Aelvira",
+      "Alvessa",
+      "Aelvessa",
+      "Alvira",
+      "Aelvenna",
+      "Alvressa",
+      "Aelvala"
+    ]
+  },
+  "Hannah": {
+    "replacements": [
+      "Halvenna",
+      "Hannvara",
+      "Halvira",
+      "Hannvessa",
+      "Halvessa",
+      "Hannvira",
+      "Halvala",
+      "Hannvenna",
+      "Halvinna",
+      "Hannvressa"
+    ]
+  },
+  "Rachel": {
+    "replacements": [
+      "Relvara",
+      "Rachvessa",
+      "Relvira",
+      "Rachvenna",
+      "Relvessa",
+      "Rachvala",
+      "Relvinna",
+      "Rachvira",
+      "Relvressa",
+      "Rachvissa"
+    ]
+  },
+  "Victoria": {
+    "replacements": [
+      "Velvara",
+      "Victovressa",
+      "Velvira",
+      "Victovenna",
+      "Velvessa",
+      "Victovara",
+      "Velvinna",
+      "Victovira",
+      "Velvressa",
+      "Victovala"
+    ]
+  },
+  "Rebecca": {
+    "replacements": [
+      "Relvara",
+      "Rebvessa",
+      "Relvissa",
+      "Rebvenna",
+      "Relvessa",
+      "Rebvala",
+      "Relvinna",
+      "Rebvira",
+      "Relvressa",
+      "Rebvissa"
+    ]
+  },
+  "Laura": {
+    "replacements": [
+      "Lelvara",
+      "Larvessa",
+      "Lelvira",
+      "Larvenna",
+      "Lelvessa",
+      "Larvala",
+      "Lelvinna",
+      "Larvira",
+      "Lelvressa",
+      "Larvissa"
+    ]
+  },
+  "Emma": {
+    "replacements": [
+      "Elvara",
+      "Emmvessa",
+      "Elvira",
+      "Emmvenna",
+      "Elvessa",
+      "Emmvala",
+      "Elvinna",
+      "Emmvira",
+      "Elvressa",
+      "Emmvissa"
+    ]
+  },
+  "Claire": {
+    "replacements": [
+      "Klelvara",
+      "Clairvessa",
+      "Klelvira",
+      "Clairvenna",
+      "Klelvessa",
+      "Clairvala",
+      "Klelvinna",
+      "Clairvira",
+      "Klelvressa",
+      "Clairvissa"
+    ]
+  },
+  "Kate": {
+    "replacements": [
+      "Kelvara",
+      "Katvessa",
+      "Kelvira",
+      "Katvenna",
+      "Kelvessa",
+      "Katvala",
+      "Kelvinna",
+      "Katvira",
+      "Kelvressa",
+      "Katvissa"
+    ]
+  },
+  "Helen": {
+    "replacements": [
+      "Helvara",
+      "Helvessa",
+      "Helvira",
+      "Helvenna",
+      "Helvaressa",
+      "Helvala",
+      "Helvinna",
+      "Helvressa",
+      "Helvirra",
+      "Helvissa"
+    ]
+  },
+  "Jessica": {
+    "replacements": [
+      "Jelvara",
+      "Jesskvessa",
+      "Jelvira",
+      "Jesskvenna",
+      "Jelvessa",
+      "Jesskvala",
+      "Jelvinna",
+      "Jesskvira",
+      "Jelvressa",
+      "Jesskvissa"
+    ]
+  },
+  "Amy": {
+    "replacements": [
+      "Alvira",
+      "Amvessa",
+      "Alvessa",
+      "Amvenna",
+      "Alvara",
+      "Amvala",
+      "Alvinna",
+      "Amvira",
+      "Alvressa",
+      "Amvissa"
+    ]
+  },
+  "Sophia": {
+    "replacements": [
+      "Selvara",
+      "Sophvessa",
+      "Selvira",
+      "Sophvenna",
+      "Selvessa",
+      "Sophvala",
+      "Selvinna",
+      "Sophvira",
+      "Selvressa",
+      "Sophvissa"
+    ]
+  },
+  "Olivia": {
+    "replacements": [
+      "Olvara",
+      "Olivvessa",
+      "Olvira",
+      "Olivvenna",
+      "Olvessa",
+      "Olivvala",
+      "Olvinna",
+      "Olivvira",
+      "Olvressa",
+      "Olivvissa"
+    ]
+  },
+  "Abigail": {
+    "replacements": [
+      "Alvara",
+      "Abvessa",
+      "Alvissa",
+      "Abvenna",
+      "Alvessa",
+      "Abvala",
+      "Alvinna",
+      "Abvira",
+      "Alvressa",
+      "Abvissa"
+    ]
+  },
+  "Natalie": {
+    "replacements": [
+      "Nelvara",
+      "Natvessa",
+      "Nelvira",
+      "Natvenna",
+      "Nelvessa",
+      "Natvala",
+      "Nelvinna",
+      "Natvira",
+      "Nelvressa",
+      "Natvissa"
+    ]
+  },
+  "Madison": {
+    "replacements": [
+      "Melvara",
+      "Madvessa",
+      "Melvira",
+      "Madvenna",
+      "Melvessa",
+      "Madvala",
+      "Melvinna",
+      "Madvira",
+      "Melvressa",
+      "Madvissa"
+    ]
+  },
+  "Chloe": {
+    "replacements": [
+      "Chelvara",
+      "Chlovessa",
+      "Chelvira",
+      "Chlovenna",
+      "Chelvessa",
+      "Chlovara",
+      "Chelvinna",
+      "Chlovira",
+      "Chelvressa",
+      "Chlovissa"
+    ]
+  },
+  "Ashley": {
+    "replacements": [
+      "Aelvara",
+      "Ashvessa",
+      "Aelvira",
+      "Ashvenna",
+      "Aelvessa",
+      "Ashvala",
+      "Aelvinna",
+      "Ashvira",
+      "Aelvressa",
+      "Ashvissa"
+    ]
+  },
+  "Samantha": {
+    "replacements": [
+      "Salvara",
+      "Samvessa",
+      "Salvira",
+      "Samvenna",
+      "Salvessa",
+      "Samvala",
+      "Salvinna",
+      "Samvira",
+      "Salvressa",
+      "Samvissa"
+    ]
+  },
+  "Morgan": {
+    "replacements": [
+      "Morvenna",
+      "Morgvessa",
+      "Morvara",
+      "Morgvenna",
+      "Morvira",
+      "Morgvala",
+      "Morvessa",
+      "Morgvira",
+      "Morvressa",
+      "Morgvissa"
+    ]
+  },
+  "Muhammad": {
+    "replacements": [
+      "Morvaldek",
+      "Melvadrin",
+      "Morvessen",
+      "Melvadorn",
+      "Morvassik",
+      "Melvadrek",
+      "Morvaldiss",
+      "Melvadorn",
+      "Morvessik",
+      "Melvadrik"
+    ]
+  },
+  "Ali": {
+    "replacements": [
+      "Alvrek",
+      "Alvorin",
+      "Alveld",
+      "Alvorek",
+      "Alvenn",
+      "Alvoriss",
+      "Alvald",
+      "Alvornik",
+      "Alvisk",
+      "Alvorell"
+    ]
+  },
+  "Omar": {
+    "replacements": [
+      "Olvarek",
+      "Omvorn",
+      "Olvariss",
+      "Omveld",
+      "Olvarik",
+      "Omvorek",
+      "Olvarenn",
+      "Omvald",
+      "Olvaross",
+      "Omvarn"
+    ]
+  },
+  "Hassan": {
+    "replacements": [
+      "Helvarn",
+      "Hassvorek",
+      "Helvald",
+      "Hassvorn",
+      "Helvrik",
+      "Hassvorik",
+      "Helvoss",
+      "Hassveld",
+      "Helvisk",
+      "Hassvenn"
+    ]
+  },
+  "Fatima": {
+    "replacements": [
+      "Felvara",
+      "Fatvessa",
+      "Felvira",
+      "Fatvenna",
+      "Felvessa",
+      "Fatvala",
+      "Felvinna",
+      "Fatvira",
+      "Felvressa",
+      "Fatvissa"
+    ]
+  },
+  "Amira": {
+    "replacements": [
+      "Alvira",
+      "Amvessa",
+      "Alvessa",
+      "Amvenna",
+      "Alvara",
+      "Amvala",
+      "Alvinna",
+      "Amvressa",
+      "Alvrissa",
+      "Amvissa"
+    ]
+  },
+  "Amir": {
+    "replacements": [
+      "Alvrek",
+      "Amvorin",
+      "Alveld",
+      "Amvorek",
+      "Alvrik",
+      "Amvoriss",
+      "Alvoss",
+      "Amvornik",
+      "Alvisk",
+      "Amvorell"
+    ]
+  },
+  "Khalil": {
+    "replacements": [
+      "Kelvorn",
+      "Khalvek",
+      "Kelvald",
+      "Khalvoss",
+      "Kelvrik",
+      "Khalvorek",
+      "Kelvarn",
+      "Khalveld",
+      "Kelvik",
+      "Khalven"
+    ]
+  },
+  "Layla": {
+    "replacements": [
+      "Lelvara",
+      "Layvessa",
+      "Lelvira",
+      "Layvenna",
+      "Lelvessa",
+      "Layvala",
+      "Lelvinna",
+      "Layvira",
+      "Lelvressa",
+      "Layvissa"
+    ]
+  },
+  "Nadia": {
+    "replacements": [
+      "Nelvara",
+      "Nadvessa",
+      "Nelvira",
+      "Nadvenna",
+      "Nelvessa",
+      "Nadvala",
+      "Nelvinna",
+      "Nadvira",
+      "Nelvressa",
+      "Nadvissa"
+    ]
+  },
+  "Rashid": {
+    "replacements": [
+      "Relvorn",
+      "Rashvek",
+      "Relvald",
+      "Rashvoss",
+      "Relvrik",
+      "Rashvorek",
+      "Relvarn",
+      "Rashveld",
+      "Relvik",
+      "Rashven"
+    ]
+  },
+  "Tariq": {
+    "replacements": [
+      "Telvorn",
+      "Tarvek",
+      "Telvald",
+      "Tarvoss",
+      "Telvrik",
+      "Tarvorek",
+      "Telvarn",
+      "Tarveld",
+      "Telvik",
+      "Tarven"
+    ]
+  },
+  "Zainab": {
+    "replacements": [
+      "Zelvara",
+      "Zainvessa",
+      "Zelvira",
+      "Zainvenna",
+      "Zelvessa",
+      "Zainvala",
+      "Zelvinna",
+      "Zainvira",
+      "Zelvressa",
+      "Zainvissa"
+    ]
+  },
+  "Yasmin": {
+    "replacements": [
+      "Yelvara",
+      "Yasvessa",
+      "Yelvira",
+      "Yasvenna",
+      "Yelvessa",
+      "Yasvala",
+      "Yelvinna",
+      "Yasvira",
+      "Yelvressa",
+      "Yasvissa"
+    ]
+  },
+  "Ibrahim": {
+    "replacements": [
+      "Ilvorn",
+      "Ibravek",
+      "Ilvald",
+      "Ibravoss",
+      "Ilvrik",
+      "Ibravorek",
+      "Ilvarn",
+      "Ibraveld",
+      "Ilvik",
+      "Ibraven"
+    ]
+  },
+  "Karim": {
+    "replacements": [
+      "Kelvorn",
+      "Karvek",
+      "Kelvald",
+      "Karvoss",
+      "Kelvrik",
+      "Karvorek",
+      "Kelvarn",
+      "Karveld",
+      "Kelvik",
+      "Karven"
+    ]
+  },
+  "Priya": {
+    "replacements": [
+      "Prevara",
+      "Privessa",
+      "Previra",
+      "Privenna",
+      "Prevessa",
+      "Privala",
+      "Previnna",
+      "Privira",
+      "Prevressa",
+      "Privissa"
+    ]
+  },
+  "Raj": {
+    "replacements": [
+      "Relvorn",
+      "Rajvek",
+      "Relvald",
+      "Rajvoss",
+      "Relvrik",
+      "Rajvorek",
+      "Relvarn",
+      "Rajveld",
+      "Relvik",
+      "Rajven"
+    ]
+  },
+  "Ravi": {
+    "replacements": [
+      "Relvorn",
+      "Ravvek",
+      "Relvald",
+      "Ravvoss",
+      "Relvrik",
+      "Ravvorek",
+      "Relvarn",
+      "Ravveld",
+      "Relvik",
+      "Ravven"
+    ]
+  },
+  "Ananya": {
+    "replacements": [
+      "Anvara",
+      "Anvessa",
+      "Anvira",
+      "Anvenna",
+      "Anvaressa",
+      "Anvala",
+      "Anvinna",
+      "Anvressa",
+      "Anvirra",
+      "Anvissa"
+    ]
+  },
+  "Deepak": {
+    "replacements": [
+      "Delvorn",
+      "Delvek",
+      "Delvald",
+      "Delvoss",
+      "Delvrik",
+      "Delvorek",
+      "Delvarn",
+      "Delveld",
+      "Delvik",
+      "Delven"
+    ]
+  },
+  "Vikram": {
+    "replacements": [
+      "Velvorn",
+      "Vikvek",
+      "Velvald",
+      "Vikvoss",
+      "Velvrik",
+      "Vikvorek",
+      "Velvarn",
+      "Vikveld",
+      "Velvik",
+      "Vikven"
+    ]
+  },
+  "Aisha": {
+    "replacements": [
+      "Aelvara",
+      "Aishvessa",
+      "Aelvira",
+      "Aishvenna",
+      "Aelvessa",
+      "Aishvala",
+      "Aelvinna",
+      "Aishvira",
+      "Aelvressa",
+      "Aishvissa"
+    ]
+  },
+  "Arjun": {
+    "replacements": [
+      "Alvorn",
+      "Arvek",
+      "Alvald",
+      "Arvoss",
+      "Alvrik",
+      "Arvorek",
+      "Alvarn",
+      "Arveld",
+      "Alvik",
+      "Arven"
+    ]
+  },
+  "Neha": {
+    "replacements": [
+      "Nelvara",
+      "Nevessa",
+      "Nelvira",
+      "Nevenna",
+      "Nelvessa",
+      "Nevala",
+      "Nelvinna",
+      "Nevira",
+      "Nelvressa",
+      "Nevissa"
+    ]
+  },
+  "Kavita": {
+    "replacements": [
+      "Kelvara",
+      "Kavvessa",
+      "Kelvira",
+      "Kavvenna",
+      "Kelvessa",
+      "Kavvala",
+      "Kelvinna",
+      "Kavvira",
+      "Kelvressa",
+      "Kavvissa"
+    ]
+  },
+  "Sanjay": {
+    "replacements": [
+      "Selvorn",
+      "Sanvek",
+      "Selvald",
+      "Sanvoss",
+      "Selvrik",
+      "Sanvorek",
+      "Selvarn",
+      "Sanveld",
+      "Selvik",
+      "Sanven"
+    ]
+  },
+  "Meera": {
+    "replacements": [
+      "Melvara",
+      "Mervessa",
+      "Melvira",
+      "Mervenna",
+      "Melvessa",
+      "Mervala",
+      "Melvinna",
+      "Mervira",
+      "Melvressa",
+      "Mervissa"
+    ]
+  },
+  "Yuki": {
+    "replacements": [
+      "Yelvorn",
+      "Yuvek",
+      "Yelvald",
+      "Yuvoss",
+      "Yelvrik",
+      "Yuvorek",
+      "Yelvarn",
+      "Yuveld",
+      "Yelvik",
+      "Yuven"
+    ]
+  },
+  "Hiro": {
+    "replacements": [
+      "Helvorn",
+      "Hirvek",
+      "Helvald",
+      "Hirvoss",
+      "Helvrik",
+      "Hirvorek",
+      "Helvarn",
+      "Hirveld",
+      "Helvik",
+      "Hirven"
+    ]
+  },
+  "Akira": {
+    "replacements": [
+      "Alvira",
+      "Akvessa",
+      "Alvessa",
+      "Akvenna",
+      "Alvara",
+      "Akvala",
+      "Alvinna",
+      "Akvira",
+      "Alvressa",
+      "Akvissa"
+    ]
+  },
+  "Mei": {
+    "replacements": [
+      "Melvara",
+      "Mevessa",
+      "Melvira",
+      "Mevenna",
+      "Melvessa",
+      "Mevala",
+      "Melvinna",
+      "Mevira",
+      "Melvressa",
+      "Mevissa"
+    ]
+  },
+  "Ling": {
+    "replacements": [
+      "Lelvorn",
+      "Linvek",
+      "Lelvald",
+      "Linvoss",
+      "Lelvrik",
+      "Linvorek",
+      "Lelvarn",
+      "Linveld",
+      "Lelvik",
+      "Linven"
+    ]
+  },
+  "Jin": {
+    "replacements": [
+      "Jelvorn",
+      "Jinvek",
+      "Jelvald",
+      "Jinvoss",
+      "Jelvrik",
+      "Jinvorek",
+      "Jelvarn",
+      "Jinveld",
+      "Jelvik",
+      "Jinven"
+    ]
+  },
+  "Min": {
+    "replacements": [
+      "Melvorn",
+      "Minvek",
+      "Melvald",
+      "Minvoss",
+      "Melvrik",
+      "Minvorek",
+      "Melvarn",
+      "Minveld",
+      "Melvik",
+      "Minven"
+    ]
+  },
+  "Soo": {
+    "replacements": [
+      "Selvorn",
+      "Soovek",
+      "Selvald",
+      "Soovoss",
+      "Selvrik",
+      "Soovorek",
+      "Selvarn",
+      "Sooveld",
+      "Selvik",
+      "Sooven"
+    ]
+  },
+  "Sakura": {
+    "replacements": [
+      "Salvara",
+      "Sakvessa",
+      "Salvira",
+      "Sakvenna",
+      "Salvessa",
+      "Sakvala",
+      "Salvinna",
+      "Sakvira",
+      "Salvressa",
+      "Sakvissa"
+    ]
+  },
+  "Keiko": {
+    "replacements": [
+      "Kelvara",
+      "Keivessa",
+      "Kelvira",
+      "Keivenna",
+      "Kelvessa",
+      "Keivala",
+      "Kelvinna",
+      "Keivira",
+      "Kelvressa",
+      "Keivissa"
+    ]
+  },
+  "Tao": {
+    "replacements": [
+      "Telvorn",
+      "Taovek",
+      "Telvald",
+      "Taovoss",
+      "Telvrik",
+      "Taovorek",
+      "Telvarn",
+      "Taoveld",
+      "Telvik",
+      "Taoven"
+    ]
+  },
+  "Ryu": {
+    "replacements": [
+      "Relvorn",
+      "Ryuvek",
+      "Relvald",
+      "Ryuvoss",
+      "Relvrik",
+      "Ryuvorek",
+      "Relvarn",
+      "Ryuveld",
+      "Relvik",
+      "Ryuven"
+    ]
+  },
+  "Haruki": {
+    "replacements": [
+      "Halvorn",
+      "Harvek",
+      "Halvald",
+      "Harvoss",
+      "Halvrik",
+      "Harvorek",
+      "Halvarn",
+      "Harveld",
+      "Halvik",
+      "Harven"
+    ]
+  },
+  "Yumi": {
+    "replacements": [
+      "Yelvara",
+      "Yumvessa",
+      "Yelvira",
+      "Yumvenna",
+      "Yelvessa",
+      "Yumvala",
+      "Yelvinna",
+      "Yumvira",
+      "Yelvressa",
+      "Yumvissa"
+    ]
+  },
+  "Suki": {
+    "replacements": [
+      "Selvara",
+      "Sukvessa",
+      "Selvira",
+      "Sukvenna",
+      "Selvessa",
+      "Sukvala",
+      "Selvinna",
+      "Sukvira",
+      "Selvressa",
+      "Sukvissa"
+    ]
+  },
+  "Takeshi": {
+    "replacements": [
+      "Telvorn",
+      "Takvek",
+      "Telvald",
+      "Takvoss",
+      "Telvrik",
+      "Takvorek",
+      "Telvarn",
+      "Takveld",
+      "Telvik",
+      "Takven"
+    ]
+  },
+  "Zhang": {
+    "replacements": [
+      "Zelvorn",
+      "Zelvek",
+      "Zelvald",
+      "Zelvoss",
+      "Zelvrik",
+      "Zelvorek",
+      "Zelvarn",
+      "Zelveld",
+      "Zelvik",
+      "Zelven"
+    ]
+  },
+  "Wang": {
+    "replacements": [
+      "Velvorn",
+      "Vanvek",
+      "Velvald",
+      "Vanvoss",
+      "Velvrik",
+      "Vanvorek",
+      "Velvarn",
+      "Vanveld",
+      "Velvik",
+      "Vanven"
+    ]
+  },
+  "Kim": {
+    "replacements": [
+      "Kelvorn",
+      "Kimvek",
+      "Kelvald",
+      "Kimvoss",
+      "Kelvrik",
+      "Kimvorek",
+      "Kelvarn",
+      "Kimveld",
+      "Kelvik",
+      "Kimven"
+    ]
+  },
+  "Sofia": {
+    "replacements": [
+      "Selvara",
+      "Sofvessa",
+      "Selvira",
+      "Sofvenna",
+      "Selvessa",
+      "Sofvala",
+      "Selvinna",
+      "Sofvira",
+      "Selvressa",
+      "Sofvissa"
+    ]
+  },
+  "Diego": {
+    "replacements": [
+      "Delvorn",
+      "Delvek",
+      "Delvald",
+      "Delvoss",
+      "Delvrik",
+      "Delvorek",
+      "Delvarn",
+      "Delveld",
+      "Delvik",
+      "Delven"
+    ]
+  },
+  "Carlos": {
+    "replacements": [
+      "Kelvorn",
+      "Carlvek",
+      "Kelvald",
+      "Carlvoss",
+      "Kelvrik",
+      "Carlvorek",
+      "Kelvarn",
+      "Carlveld",
+      "Kelvik",
+      "Carlven"
+    ]
+  },
+  "Maria": {
+    "replacements": [
+      "Marvara",
+      "Marvessa",
+      "Marvira",
+      "Marvenna",
+      "Marvaressa",
+      "Marvala",
+      "Marvinna",
+      "Marvressa",
+      "Marvirra",
+      "Marvissa"
+    ]
+  },
+  "Isabella": {
+    "replacements": [
+      "Ilvara",
+      "Isvessa",
+      "Ilvira",
+      "Isvenna",
+      "Ilvessa",
+      "Isvala",
+      "Ilvinna",
+      "Isvira",
+      "Ilvressa",
+      "Isvissa"
+    ]
+  },
+  "Pedro": {
+    "replacements": [
+      "Pelvorn",
+      "Pedvek",
+      "Pelvald",
+      "Pedvoss",
+      "Pelvrik",
+      "Pedvorek",
+      "Pelvarn",
+      "Pedveld",
+      "Pelvik",
+      "Pedven"
+    ]
+  },
+  "Miguel": {
+    "replacements": [
+      "Melvorn",
+      "Migvek",
+      "Melvald",
+      "Migvoss",
+      "Melvrik",
+      "Migvorek",
+      "Melvarn",
+      "Migveld",
+      "Melvik",
+      "Migven"
+    ]
+  },
+  "Luis": {
+    "replacements": [
+      "Lelvorn",
+      "Luivek",
+      "Lelvald",
+      "Luivoss",
+      "Lelvrik",
+      "Luivorek",
+      "Lelvarn",
+      "Luiveld",
+      "Lelvik",
+      "Luiven"
+    ]
+  },
+  "Antonio": {
+    "replacements": [
+      "Alvorn",
+      "Antvek",
+      "Alvald",
+      "Antvoss",
+      "Alvrik",
+      "Antvorek",
+      "Alvarn",
+      "Antveld",
+      "Alvik",
+      "Antven"
+    ]
+  },
+  "Pablo": {
+    "replacements": [
+      "Pelvorn",
+      "Pabvek",
+      "Pelvald",
+      "Pabvoss",
+      "Pelvrik",
+      "Pabvorek",
+      "Pelvarn",
+      "Pabveld",
+      "Pelvik",
+      "Pabven"
+    ]
+  },
+  "Valentina": {
+    "replacements": [
+      "Velvara",
+      "Valvessa",
+      "Velvira",
+      "Valvenna",
+      "Velvessa",
+      "Valvala",
+      "Velvinna",
+      "Valvira",
+      "Velvressa",
+      "Valvissa"
+    ]
+  },
+  "Camila": {
+    "replacements": [
+      "Kelvara",
+      "Camvessa",
+      "Kelvira",
+      "Camvenna",
+      "Kelvessa",
+      "Camvala",
+      "Kelvinna",
+      "Camvira",
+      "Kelvressa",
+      "Camvissa"
+    ]
+  },
+  "Lucia": {
+    "replacements": [
+      "Lelvara",
+      "Lucvessa",
+      "Lelvira",
+      "Lucvenna",
+      "Lelvessa",
+      "Lucvala",
+      "Lelvinna",
+      "Lucvira",
+      "Lelvressa",
+      "Lucvissa"
+    ]
+  },
+  "Rafael": {
+    "replacements": [
+      "Relvorn",
+      "Rafvek",
+      "Relvald",
+      "Rafvoss",
+      "Relvrik",
+      "Rafvorek",
+      "Relvarn",
+      "Rafveld",
+      "Relvik",
+      "Rafven"
+    ]
+  },
+  "Fernando": {
+    "replacements": [
+      "Felvorn",
+      "Fervek",
+      "Felvald",
+      "Fervoss",
+      "Felvrik",
+      "Fervorek",
+      "Felvarn",
+      "Ferveld",
+      "Felvik",
+      "Ferven"
+    ]
+  },
+  "Javier": {
+    "replacements": [
+      "Jelvorn",
+      "Javvek",
+      "Jelvald",
+      "Javvoss",
+      "Jelvrik",
+      "Javvorek",
+      "Jelvarn",
+      "Javveld",
+      "Jelvik",
+      "Javven"
+    ]
+  },
+  "Gabriela": {
+    "replacements": [
+      "Gelvara",
+      "Gabvessa",
+      "Gelvira",
+      "Gabvenna",
+      "Gelvessa",
+      "Gabvala",
+      "Gelvinna",
+      "Gabvira",
+      "Gelvressa",
+      "Gabvissa"
+    ]
+  },
+  "Andrea": {
+    "replacements": [
+      "Anvara",
+      "Andvessa",
+      "Anvira",
+      "Andvenna",
+      "Anvessa",
+      "Andvala",
+      "Anvinna",
+      "Andvira",
+      "Anvressa",
+      "Andvissa"
+    ]
+  },
+  "Kwame": {
+    "replacements": [
+      "Kelvorn",
+      "Kvarvek",
+      "Kelvald",
+      "Kvarvoss",
+      "Kelvrik",
+      "Kvarvorek",
+      "Kelvarn",
+      "Kvarveld",
+      "Kelvik",
+      "Kvarven"
+    ]
+  },
+  "Amara": {
+    "replacements": [
+      "Alvara",
+      "Amvessa",
+      "Alvira",
+      "Amvenna",
+      "Alvessa",
+      "Amvala",
+      "Alvinna",
+      "Amvira",
+      "Alvressa",
+      "Amvissa"
+    ]
+  },
+  "Nia": {
+    "replacements": [
+      "Nelvara",
+      "Nivessa",
+      "Nelvira",
+      "Nivenna",
+      "Nelvessa",
+      "Nivala",
+      "Nelvinna",
+      "Nivira",
+      "Nelvressa",
+      "Nivissa"
+    ]
+  },
+  "Zuri": {
+    "replacements": [
+      "Zelvara",
+      "Zurvessa",
+      "Zelvira",
+      "Zurvenna",
+      "Zelvessa",
+      "Zurvala",
+      "Zelvinna",
+      "Zurvira",
+      "Zelvressa",
+      "Zurvissa"
+    ]
+  },
+  "Kofi": {
+    "replacements": [
+      "Kelvorn",
+      "Kofvek",
+      "Kelvald",
+      "Kofvoss",
+      "Kelvrik",
+      "Kofvorek",
+      "Kelvarn",
+      "Kofveld",
+      "Kelvik",
+      "Kofven"
+    ]
+  },
+  "Adama": {
+    "replacements": [
+      "Alvara",
+      "Advessa",
+      "Alvira",
+      "Advenna",
+      "Alvessa",
+      "Advala",
+      "Alvinna",
+      "Advira",
+      "Alvressa",
+      "Advissa"
+    ]
+  },
+  "Chiamaka": {
+    "replacements": [
+      "Chelvara",
+      "Chivessa",
+      "Chelvira",
+      "Chivenna",
+      "Chelvessa",
+      "Chivala",
+      "Chelvinna",
+      "Chivira",
+      "Chelvressa",
+      "Chivissa"
+    ]
+  },
+  "Emeka": {
+    "replacements": [
+      "Elvorn",
+      "Emvek",
+      "Elvald",
+      "Emvoss",
+      "Elvrik",
+      "Emvorek",
+      "Elvarn",
+      "Emveld",
+      "Elvik",
+      "Emven"
+    ]
+  },
+  "Fatoumata": {
+    "replacements": [
+      "Felvara",
+      "Fatvessa",
+      "Felvira",
+      "Fatvenna",
+      "Felvessa",
+      "Fatvala",
+      "Felvinna",
+      "Fatvira",
+      "Felvressa",
+      "Fatvissa"
+    ]
+  },
+  "Sekou": {
+    "replacements": [
+      "Selvorn",
+      "Sekvek",
+      "Selvald",
+      "Sekvoss",
+      "Selvrik",
+      "Sekvorek",
+      "Selvarn",
+      "Sekveld",
+      "Selvik",
+      "Sekven"
+    ]
+  },
+  "Ayo": {
+    "replacements": [
+      "Alvorn",
+      "Ayvek",
+      "Alvald",
+      "Ayvoss",
+      "Alvrik",
+      "Ayvorek",
+      "Alvarn",
+      "Ayveld",
+      "Alvik",
+      "Ayven"
+    ]
+  },
+  "Bakari": {
+    "replacements": [
+      "Belvorn",
+      "Bakvek",
+      "Belvald",
+      "Bakvoss",
+      "Belvrik",
+      "Bakvorek",
+      "Belvarn",
+      "Bakveld",
+      "Belvik",
+      "Bakven"
+    ]
+  },
+  "Thane": {
+    "replacements": [
+      "Thorvek",
+      "Thelvorn",
+      "Thorvald",
+      "Thelvoss",
+      "Thorvik",
+      "Thelvorek",
+      "Thorvarn",
+      "Thelveld",
+      "Thorvisk",
+      "Thelven"
+    ]
+  },
+  "Grimm": {
+    "replacements": [
+      "Grelvorn",
+      "Grimvek",
+      "Grelvald",
+      "Grimvoss",
+      "Grelvrik",
+      "Grimvorek",
+      "Grelvarn",
+      "Grimveld",
+      "Grelvik",
+      "Grimven"
+    ]
+  },
+  "Lyric": {
+    "replacements": [
+      "Lelvara",
+      "Lyrvessa",
+      "Lelvira",
+      "Lyrvenna",
+      "Lelvessa",
+      "Lyrvala",
+      "Lelvinna",
+      "Lyrvira",
+      "Lelvressa",
+      "Lyrvissa"
+    ]
+  },
+  "Jones": {
+    "replacements": [
+      "Jelvorn",
+      "Jonvek",
+      "Jelvald",
+      "Jonvoss",
+      "Jelvrik",
+      "Jonvorek",
+      "Jelvarn",
+      "Jonveld",
+      "Jelvik",
+      "Jonven"
+    ]
+  },
+  "Williams": {
+    "replacements": [
+      "Villarnis",
+      "Vellarm",
+      "Villarsk",
+      "Vellarnoss",
+      "Villarnik",
+      "Vellarorek",
+      "Villarnen",
+      "Vellarneld",
+      "Villarvik",
+      "Vellarnen"
+    ]
+  },
+  "Taylor": {
+    "replacements": [
+      "Telvorn",
+      "Tayvek",
+      "Telvald",
+      "Tayvoss",
+      "Telvrik",
+      "Tayvorek",
+      "Telvarn",
+      "Tayveld",
+      "Telvik",
+      "Tayven"
+    ]
+  },
+  "Johnson": {
+    "replacements": [
+      "Jolvarn",
+      "Jolhvek",
+      "Jolvald",
+      "Jolhvoss",
+      "Jolvrik",
+      "Jolhvorek",
+      "Jolvess",
+      "Jolhveld",
+      "Jolvik",
+      "Jolhven"
+    ]
+  },
+  "Wilson": {
+    "replacements": [
+      "Vilvorn",
+      "Vilvek",
+      "Vilvald",
+      "Vilvoss",
+      "Vilvrik",
+      "Vilvorek",
+      "Vilvarn",
+      "Vilveld",
+      "Vilvik",
+      "Vilven"
+    ]
+  },
+  "Moore": {
+    "replacements": [
+      "Molvorn",
+      "Morvek",
+      "Molvald",
+      "Morvoss",
+      "Molvrik",
+      "Morvorek",
+      "Molvarn",
+      "Morveld",
+      "Molvik",
+      "Morven"
+    ]
+  },
+  "Thompson": {
+    "replacements": [
+      "Thovarn",
+      "Thomvek",
+      "Thovald",
+      "Thomvoss",
+      "Thovrik",
+      "Thomvorek",
+      "Thovess",
+      "Thomveld",
+      "Thovik",
+      "Thomven"
+    ]
+  },
+  "Clark": {
+    "replacements": [
+      "Klelvorn",
+      "Klarvek",
+      "Klelvald",
+      "Klarvoss",
+      "Klelvrik",
+      "Klarvorek",
+      "Klelvarn",
+      "Klarveld",
+      "Klelvik",
+      "Klarven"
+    ]
+  },
+  "Robinson": {
+    "replacements": [
+      "Rolvarn",
+      "Robvek",
+      "Rolvald",
+      "Robvoss",
+      "Rolvrik",
+      "Robvorek",
+      "Rolvess",
+      "Robveld",
+      "Rolvik",
+      "Robven"
+    ]
+  },
+  "Harris": {
+    "replacements": [
+      "Halvorn",
+      "Harvek",
+      "Halvald",
+      "Harvoss",
+      "Halvrik",
+      "Harvorek",
+      "Halvarn",
+      "Harveld",
+      "Halvik",
+      "Harven"
+    ]
+  },
+  "Martin": {
+    "replacements": [
+      "Melvorn",
+      "Marvek",
+      "Melvald",
+      "Marvoss",
+      "Melvrik",
+      "Marvorek",
+      "Melvarn",
+      "Marveld",
+      "Melvik",
+      "Marven"
+    ]
+  },
+  "Jackson": {
+    "replacements": [
+      "Jelvorn",
+      "Jakvek",
+      "Jelvald",
+      "Jakvoss",
+      "Jelvrik",
+      "Jakvorek",
+      "Jelvarn",
+      "Jakveld",
+      "Jelvik",
+      "Jakven"
+    ]
+  },
+  "Adams": {
+    "replacements": [
+      "Aldvorn",
+      "Advek",
+      "Aldvald",
+      "Advoss",
+      "Aldvrik",
+      "Advorek",
+      "Aldvarn",
+      "Adveld",
+      "Aldvik",
+      "Adven"
+    ]
+  },
+  "Nelson": {
+    "replacements": [
+      "Nelvorn",
+      "Nelvek",
+      "Nelvald",
+      "Nelvoss",
+      "Nelvrik",
+      "Nelvorek",
+      "Nelvarn",
+      "Nelveld",
+      "Nelvik",
+      "Nelven"
+    ]
+  },
+  "Garcia": {
+    "replacements": [
+      "Gelvara",
+      "Garvessa",
+      "Gelvira",
+      "Garvenna",
+      "Gelvessa",
+      "Garvala",
+      "Gelvinna",
+      "Garvira",
+      "Gelvressa",
+      "Garvissa"
+    ]
+  },
+  "Martinez": {
+    "replacements": [
+      "Melvorn",
+      "Martvek",
+      "Melvald",
+      "Martvoss",
+      "Melvrik",
+      "Martvorek",
+      "Melvarn",
+      "Martveld",
+      "Melvik",
+      "Martven"
+    ]
+  },
+  "Anderson": {
+    "replacements": [
+      "Andelvorn",
+      "Andvek",
+      "Andelvald",
+      "Andvoss",
+      "Andelvrik",
+      "Andvorek",
+      "Andelvarn",
+      "Andveld",
+      "Andelvik",
+      "Andven"
+    ]
+  },
+  "Davis": {
+    "replacements": [
+      "Delvorn",
+      "Davvek",
+      "Delvald",
+      "Davvoss",
+      "Delvrik",
+      "Davvorek",
+      "Delvarn",
+      "Davveld",
+      "Delvik",
+      "Davven"
+    ]
+  },
+  "Allen": {
+    "replacements": [
+      "Alvorn",
+      "Allvek",
+      "Alvald",
+      "Allvoss",
+      "Alvrik",
+      "Allvorek",
+      "Alvarn",
+      "Allveld",
+      "Alvik",
+      "Allven"
+    ]
+  },
+  "Campbell": {
+    "replacements": [
+      "Kelvorn",
+      "Camvek",
+      "Kelvald",
+      "Camvoss",
+      "Kelvrik",
+      "Camvorek",
+      "Kelvarn",
+      "Camveld",
+      "Kelvik",
+      "Camven"
+    ]
+  },
+  "Mitchell": {
+    "replacements": [
+      "Melvorn",
+      "Mitvek",
+      "Melvald",
+      "Mitvoss",
+      "Melvrik",
+      "Mitvorek",
+      "Melvarn",
+      "Mitveld",
+      "Melvik",
+      "Mitven"
+    ]
+  },
+  "Roberts": {
+    "replacements": [
+      "Rolvorn",
+      "Robvek",
+      "Rolvald",
+      "Robvoss",
+      "Rolvrik",
+      "Robvorek",
+      "Rolvarn",
+      "Robveld",
+      "Rolvik",
+      "Robven"
+    ]
+  },
+  "Phillips": {
+    "replacements": [
+      "Pelvorn",
+      "Philvek",
+      "Pelvald",
+      "Philvoss",
+      "Pelvrik",
+      "Philvorek",
+      "Pelvarn",
+      "Philveld",
+      "Pelvik",
+      "Philven"
+    ]
+  },
+  "Evans": {
+    "replacements": [
+      "Elvorn",
+      "Evvek",
+      "Elvald",
+      "Evvoss",
+      "Elvrik",
+      "Evvorek",
+      "Elvarn",
+      "Evveld",
+      "Elvik",
+      "Evven"
+    ]
+  },
+  "Collins": {
+    "replacements": [
+      "Kolvorn",
+      "Colvek",
+      "Kolvald",
+      "Colvoss",
+      "Kolvrik",
+      "Colvorek",
+      "Kolvarn",
+      "Colveld",
+      "Kolvik",
+      "Colven"
+    ]
+  },
+  "Stewart": {
+    "replacements": [
+      "Stelvorn",
+      "Stevvek",
+      "Stelvald",
+      "Stevvoss",
+      "Stelvrik",
+      "Stevvorek",
+      "Stelvarn",
+      "Stevveld",
+      "Stelvik",
+      "Stevven"
+    ]
+  },
+  "Murphy": {
+    "replacements": [
+      "Molvorn",
+      "Murvek",
+      "Molvald",
+      "Murvoss",
+      "Molvrik",
+      "Murvorek",
+      "Molvarn",
+      "Murveld",
+      "Molvik",
+      "Murven"
+    ]
+  },
+  "Eris": {
+    "replacements": [
+      "Ervara",
+      "Ervessa",
+      "Ervira",
+      "Ervenna",
+      "Ervaressa",
+      "Ervala",
+      "Ervinna",
+      "Ervressa",
+      "Ervirra",
+      "Ervissa"
+    ]
+  },
+  "Zander": {
+    "replacements": [
+      "Zelvorn",
+      "Zanvek",
+      "Zelvald",
+      "Zanvoss",
+      "Zelvrik",
+      "Zanvorek",
+      "Zelvarn",
+      "Zanveld",
+      "Zelvik",
+      "Zanven"
+    ]
+  },
+  "Rynn": {
+    "replacements": [
+      "Relvorn",
+      "Rynvek",
+      "Relvald",
+      "Rynvoss",
+      "Relvrik",
+      "Rynvorek",
+      "Relvarn",
+      "Rynveld",
+      "Relvik",
+      "Rynven"
+    ]
+  },
+  "Celeste": {
+    "replacements": [
+      "Kelvara",
+      "Celvessa",
+      "Kelvira",
+      "Celvenna",
+      "Kelvessa",
+      "Celvala",
+      "Kelvinna",
+      "Celvira",
+      "Kelvressa",
+      "Celvissa"
+    ]
+  },
+  "Aeon": {
+    "replacements": [
+      "Aelvorn",
+      "Aelvek",
+      "Aelvald",
+      "Aelvoss",
+      "Aelvrik",
+      "Aelvorek",
+      "Aelvarn",
+      "Aelveld",
+      "Aelvik",
+      "Aelven"
+    ]
+  },
+  "Soren": {
+    "replacements": [
+      "Selvorn",
+      "Sorvek",
+      "Selvald",
+      "Sorvoss",
+      "Selvrik",
+      "Sorvorek",
+      "Selvarn",
+      "Sorveld",
+      "Selvik",
+      "Sorven"
+    ]
+  },
+  "Cole": {
+    "replacements": [
+      "Kolvorn",
+      "Kolvek",
+      "Kolvald",
+      "Kolvoss",
+      "Kolvrik",
+      "Kolvorek",
+      "Kolvarn",
+      "Kolveld",
+      "Kolvik",
+      "Kolven"
+    ]
+  },
+  "Jasper": {
+    "replacements": [
+      "Jelvorn",
+      "Jasvek",
+      "Jelvald",
+      "Jasvoss",
+      "Jelvrik",
+      "Jasvorek",
+      "Jelvarn",
+      "Jasveld",
+      "Jelvik",
+      "Jasven"
+    ]
+  },
+  "Felix": {
+    "replacements": [
+      "Felvorn",
+      "Felvek",
+      "Felvald",
+      "Felvoss",
+      "Felvrik",
+      "Felvorek",
+      "Felvarn",
+      "Felveld",
+      "Felvik",
+      "Felven"
+    ]
+  },
+  "Cora": {
+    "replacements": [
+      "Kolvara",
+      "Corvessa",
+      "Kolvira",
+      "Corvenna",
+      "Kolvessa",
+      "Corvala",
+      "Kolvinna",
+      "Corvira",
+      "Kolvressa",
+      "Corvissa"
+    ]
+  },
+  "Rex": {
+    "replacements": [
+      "Relvorn",
+      "Rexvek",
+      "Relvald",
+      "Rexvoss",
+      "Relvrik",
+      "Rexvorek",
+      "Relvarn",
+      "Rexveld",
+      "Relvik",
+      "Rexven"
+    ]
+  },
+  "Max": {
+    "replacements": [
+      "Melvorn",
+      "Maxvek",
+      "Melvald",
+      "Maxvoss",
+      "Melvrik",
+      "Maxvorek",
+      "Melvarn",
+      "Maxveld",
+      "Melvik",
+      "Maxven"
+    ]
+  },
+  "Leo": {
+    "replacements": [
+      "Lelvorn",
+      "Leovek",
+      "Lelvald",
+      "Leovoss",
+      "Lelvrik",
+      "Leovorek",
+      "Lelvarn",
+      "Leoveld",
+      "Lelvik",
+      "Leoven"
+    ]
+  },
+  "Lux": {
+    "replacements": [
+      "Lelvorn",
+      "Luxvek",
+      "Lelvald",
+      "Luxvoss",
+      "Lelvrik",
+      "Luxvorek",
+      "Lelvarn",
+      "Luxveld",
+      "Lelvik",
+      "Luxven"
+    ]
+  },
+  "Milo": {
+    "replacements": [
+      "Melvorn",
+      "Milvek",
+      "Melvald",
+      "Milvoss",
+      "Melvrik",
+      "Milvorek",
+      "Melvarn",
+      "Milveld",
+      "Melvik",
+      "Milven"
+    ]
+  },
+  "Nora": {
+    "replacements": [
+      "Nolvara",
+      "Norvessa",
+      "Nolvira",
+      "Norvenna",
+      "Nolvessa",
+      "Norvala",
+      "Nolvinna",
+      "Norvira",
+      "Nolvressa",
+      "Norvissa"
+    ]
+  },
+  "Thalia": {
+    "replacements": [
+      "Thelvara",
+      "Thalvessa",
+      "Thelvira",
+      "Thalvenna",
+      "Thelvessa",
+      "Thalvala",
+      "Thelvinna",
+      "Thalvira",
+      "Thelvressa",
+      "Thalvissa"
+    ]
+  },
+  "Selene": {
+    "replacements": [
+      "Selvara",
+      "Selvessa",
+      "Selvira",
+      "Selvenna",
+      "Selvaressa",
+      "Selvala",
+      "Selvinna",
+      "Selvressa",
+      "Selvirra",
+      "Selvissa"
+    ]
+  },
+  "Hans": {
+    "replacements": [
+      "Halvorn",
+      "Hanvek",
+      "Halvald",
+      "Hanvoss",
+      "Halvrik",
+      "Hanvorek",
+      "Halvarn",
+      "Hanveld",
+      "Halvik",
+      "Hanven"
+    ]
+  },
+  "Klaus": {
+    "replacements": [
+      "Klelvorn",
+      "Klauvek",
+      "Klelvald",
+      "Klauvoss",
+      "Klelvrik",
+      "Klauvorek",
+      "Klelvarn",
+      "Klauveld",
+      "Klelvik",
+      "Klauven"
+    ]
+  },
+  "Erik": {
+    "replacements": [
+      "Elvorn",
+      "Ervek",
+      "Elvald",
+      "Ervoss",
+      "Elvrik",
+      "Ervorek",
+      "Elvarn",
+      "Erveld",
+      "Elvik",
+      "Erven"
+    ]
+  },
+  "Ingrid": {
+    "replacements": [
+      "Ilvara",
+      "Invessa",
+      "Ilvira",
+      "Invenna",
+      "Ilvessa",
+      "Invala",
+      "Ilvinna",
+      "Invira",
+      "Ilvressa",
+      "Invissa"
+    ]
+  },
+  "Astrid": {
+    "replacements": [
+      "Alvara",
+      "Astvessa",
+      "Alvira",
+      "Astvenna",
+      "Alvessa",
+      "Astvala",
+      "Alvinna",
+      "Astvira",
+      "Alvressa",
+      "Astvissa"
+    ]
+  },
+  "Pierre": {
+    "replacements": [
+      "Pelvorn",
+      "Piervek",
+      "Pelvald",
+      "Piervoss",
+      "Pelvrik",
+      "Piervorek",
+      "Pelvarn",
+      "Pierveld",
+      "Pelvik",
+      "Pierven"
+    ]
+  },
+  "Jacques": {
+    "replacements": [
+      "Jelvorn",
+      "Jakvek",
+      "Jelvald",
+      "Jakvoss",
+      "Jelvrik",
+      "Jakvorek",
+      "Jelvarn",
+      "Jakveld",
+      "Jelvik",
+      "Jakven"
+    ]
+  },
+  "Francois": {
+    "replacements": [
+      "Frelvorn",
+      "Franvek",
+      "Frelvald",
+      "Franvoss",
+      "Frelvrik",
+      "Franvorek",
+      "Frelvarn",
+      "Franveld",
+      "Frelvik",
+      "Franven"
+    ]
+  },
+  "Giovanni": {
+    "replacements": [
+      "Gelvorn",
+      "Gelvek",
+      "Gelvald",
+      "Gelvoss",
+      "Gelvrik",
+      "Gelvorek",
+      "Gelvarn",
+      "Gelveld",
+      "Gelvik",
+      "Gelven"
+    ]
+  },
+  "Marco": {
+    "replacements": [
+      "Melvorn",
+      "Marvek",
+      "Melvald",
+      "Marvoss",
+      "Melvrik",
+      "Marvorek",
+      "Melvarn",
+      "Marveld",
+      "Melvik",
+      "Marven"
+    ]
+  },
+  "Dmitri": {
+    "replacements": [
+      "Delvorn",
+      "Dmelvek",
+      "Delvald",
+      "Dmelvoss",
+      "Delvrik",
+      "Dmelvorek",
+      "Delvarn",
+      "Dmelveld",
+      "Delvik",
+      "Dmelven"
+    ]
+  },
+  "Ivan": {
+    "replacements": [
+      "Ilvorn",
+      "Ivvek",
+      "Ilvald",
+      "Ivvoss",
+      "Ilvrik",
+      "Ivvorek",
+      "Ilvarn",
+      "Ivveld",
+      "Ilvik",
+      "Ivven"
+    ]
+  },
+  "Natasha": {
+    "replacements": [
+      "Nelvara",
+      "Natvessa",
+      "Nelvira",
+      "Natvenna",
+      "Nelvessa",
+      "Natvala",
+      "Nelvinna",
+      "Natvira",
+      "Nelvressa",
+      "Natvissa"
+    ]
+  },
+  "Sven": {
+    "replacements": [
+      "Selvorn",
+      "Svelvek",
+      "Selvald",
+      "Svelvoss",
+      "Selvrik",
+      "Svelvorek",
+      "Selvarn",
+      "Svelveld",
+      "Selvik",
+      "Svelven"
+    ]
+  },
+  "Olaf": {
+    "replacements": [
+      "Olvorn",
+      "Olafvek",
+      "Olvald",
+      "Olafvoss",
+      "Olvrik",
+      "Olafvorek",
+      "Olvarn",
+      "Olafveld",
+      "Olvik",
+      "Olafven"
+    ]
+  },
+  "Lars": {
+    "replacements": [
+      "Lelvorn",
+      "Larvek",
+      "Lelvald",
+      "Larvoss",
+      "Lelvrik",
+      "Larvorek",
+      "Lelvarn",
+      "Larveld",
+      "Lelvik",
+      "Larven"
+    ]
+  },
+  "Bjorn": {
+    "replacements": [
+      "Belvorn",
+      "Bjelvek",
+      "Belvald",
+      "Bjelvoss",
+      "Belvrik",
+      "Bjelvorek",
+      "Belvarn",
+      "Bjelveld",
+      "Belvik",
+      "Bjelven"
+    ]
+  },
+  "Freya": {
+    "replacements": [
+      "Frelvara",
+      "Frevessa",
+      "Frelvira",
+      "Frevenna",
+      "Frelvessa",
+      "Frevala",
+      "Frelvinna",
+      "Frevira",
+      "Frelvressa",
+      "Frevissa"
+    ]
+  },
+  "Helga": {
+    "replacements": [
+      "Helvara",
+      "Helvessa",
+      "Helvira",
+      "Helvenna",
+      "Helvaressa",
+      "Helvala",
+      "Helvinna",
+      "Helvressa",
+      "Helvirra",
+      "Helvissa"
+    ]
+  },
+  "Otto": {
+    "replacements": [
+      "Olvorn",
+      "Ottvek",
+      "Olvald",
+      "Ottvoss",
+      "Olvrik",
+      "Ottvorek",
+      "Olvarn",
+      "Ottveld",
+      "Olvik",
+      "Ottven"
+    ]
+  },
+  "Gideon": {
+    "replacements": [
+      "Gelvorn",
+      "Gidvek",
+      "Gelvald",
+      "Gidvoss",
+      "Gelvrik",
+      "Gidvorek",
+      "Gelvarn",
+      "Gidveld",
+      "Gelvik",
+      "Gidven"
+    ]
+  },
+  "Damian": {
+    "replacements": [
+      "Delvorn",
+      "Damvek",
+      "Delvald",
+      "Damvoss",
+      "Delvrik",
+      "Damvorek",
+      "Delvarn",
+      "Damveld",
+      "Delvik",
+      "Damven"
+    ]
+  },
+  "Dorian": {
+    "replacements": [
+      "Dolvorn",
+      "Dorvek",
+      "Dolvald",
+      "Dorvoss",
+      "Dolvrik",
+      "Dorvorek",
+      "Dolvarn",
+      "Dorveld",
+      "Dolvik",
+      "Dorven"
+    ]
+  },
+  "Tristan": {
+    "replacements": [
+      "Trelvorn",
+      "Trisvek",
+      "Trelvald",
+      "Trisvoss",
+      "Trelvrik",
+      "Trisvorek",
+      "Trelvarn",
+      "Trisveld",
+      "Trelvik",
+      "Trisven"
+    ]
+  },
+  "Magnus": {
+    "replacements": [
+      "Melvorn",
+      "Magvek",
+      "Melvald",
+      "Magvoss",
+      "Melvrik",
+      "Magvorek",
+      "Melvarn",
+      "Magveld",
+      "Melvik",
+      "Magven"
+    ]
+  },
+  "Callum": {
+    "replacements": [
+      "Kelvorn",
+      "Calvek",
+      "Kelvald",
+      "Calvoss",
+      "Kelvrik",
+      "Calvorek",
+      "Kelvarn",
+      "Calveld",
+      "Kelvik",
+      "Calven"
+    ]
+  },
+  "Ronan": {
+    "replacements": [
+      "Rolvorn",
+      "Ronvek",
+      "Rolvald",
+      "Ronvoss",
+      "Rolvrik",
+      "Ronvorek",
+      "Rolvarn",
+      "Ronveld",
+      "Rolvik",
+      "Ronven"
+    ]
+  },
+  "Darius": {
+    "replacements": [
+      "Delvorn",
+      "Darvek",
+      "Delvald",
+      "Darvoss",
+      "Delvrik",
+      "Darvorek",
+      "Delvarn",
+      "Darveld",
+      "Delvik",
+      "Darven"
+    ]
+  },
+  "Evelyn": {
+    "replacements": [
+      "Elvara",
+      "Evvessa",
+      "Elvira",
+      "Evvenna",
+      "Elvessa",
+      "Evvala",
+      "Elvinna",
+      "Evvira",
+      "Elvressa",
+      "Evvissa"
+    ]
+  },
+  "Vivian": {
+    "replacements": [
+      "Velvara",
+      "Vivvessa",
+      "Velvira",
+      "Vivvenna",
+      "Velvessa",
+      "Vivvala",
+      "Velvinna",
+      "Vivvira",
+      "Velvressa",
+      "Vivvissa"
+    ]
+  },
+  "Eleanor": {
+    "replacements": [
+      "Elvara",
+      "Elvessa",
+      "Elvira",
+      "Elvenna",
+      "Elvaressa",
+      "Elvala",
+      "Elvinna",
+      "Elvressa",
+      "Elvirra",
+      "Elvissa"
+    ]
+  },
+  "Genevieve": {
+    "replacements": [
+      "Gelvara",
+      "Genvessa",
+      "Gelvira",
+      "Genvenna",
+      "Gelvessa",
+      "Genvala",
+      "Gelvinna",
+      "Genvira",
+      "Gelvressa",
+      "Genvissa"
+    ]
+  },
+  "Penelope": {
+    "replacements": [
+      "Pelvara",
+      "Penvessa",
+      "Pelvira",
+      "Penvenna",
+      "Pelvessa",
+      "Penvala",
+      "Pelvinna",
+      "Penvira",
+      "Pelvressa",
+      "Penvissa"
+    ]
+  },
+  "Diana": {
+    "replacements": [
+      "Delvara",
+      "Divessa",
+      "Delvira",
+      "Divenna",
+      "Delvessa",
+      "Divala",
+      "Delvinna",
+      "Divira",
+      "Delvressa",
+      "Divissa"
+    ]
+  },
+  "Ophelia": {
+    "replacements": [
+      "Olvara",
+      "Ophvessa",
+      "Olvira",
+      "Ophvenna",
+      "Olvessa",
+      "Ophvala",
+      "Olvinna",
+      "Ophvira",
+      "Olvressa",
+      "Ophvissa"
+    ]
+  },
+  "Cassandra": {
+    "replacements": [
+      "Kelvara",
+      "Casvessa",
+      "Kelvira",
+      "Casvenna",
+      "Kelvessa",
+      "Casvala",
+      "Kelvinna",
+      "Casvira",
+      "Kelvressa",
+      "Casvissa"
+    ]
+  },
+  "Pandora": {
+    "replacements": [
+      "Pelvara",
+      "Panvessa",
+      "Pelvira",
+      "Panvenna",
+      "Pelvessa",
+      "Panvala",
+      "Pelvinna",
+      "Panvira",
+      "Pelvressa",
+      "Panvissa"
+    ]
+  },
+  "Athena": {
+    "replacements": [
+      "Alvara",
+      "Athvessa",
+      "Alvira",
+      "Athvenna",
+      "Alvessa",
+      "Athvala",
+      "Alvinna",
+      "Athvira",
+      "Alvressa",
+      "Athvissa"
+    ]
+  },
+  "Liam": {
+    "replacements": [
+      "Lelvorn",
+      "Liavek",
+      "Lelvald",
+      "Liavoss",
+      "Lelvrik",
+      "Liavorek",
+      "Lelvarn",
+      "Liaveld",
+      "Lelvik",
+      "Liaven"
+    ]
+  },
+  "Noah": {
+    "replacements": [
+      "Nolvorn",
+      "Noavek",
+      "Nolvald",
+      "Noavoss",
+      "Nolvrik",
+      "Noavorek",
+      "Nolvarn",
+      "Noaveld",
+      "Nolvik",
+      "Noaven"
+    ]
+  },
+  "Logan": {
+    "replacements": [
+      "Lolvorn",
+      "Logvek",
+      "Lolvald",
+      "Logvoss",
+      "Lolvrik",
+      "Logvorek",
+      "Lolvarn",
+      "Logveld",
+      "Lolvik",
+      "Logven"
+    ]
+  },
+  "Aiden": {
+    "replacements": [
+      "Aelvorn",
+      "Aidvek",
+      "Aelvald",
+      "Aidvoss",
+      "Aelvrik",
+      "Aidvorek",
+      "Aelvarn",
+      "Aidveld",
+      "Aelvik",
+      "Aidven"
+    ]
+  },
+  "Avery": {
+    "replacements": [
+      "Alvorn",
+      "Avvek",
+      "Alvald",
+      "Avvoss",
+      "Alvrik",
+      "Avvorek",
+      "Alvarn",
+      "Avveld",
+      "Alvik",
+      "Avven"
+    ]
+  },
+  "Riley": {
+    "replacements": [
+      "Relvorn",
+      "Rilvek",
+      "Relvald",
+      "Rilvoss",
+      "Relvrik",
+      "Rilvorek",
+      "Relvarn",
+      "Rilveld",
+      "Relvik",
+      "Rilven"
+    ]
+  },
+  "Jordan": {
+    "replacements": [
+      "Jolvorn",
+      "Jorvek",
+      "Jolvald",
+      "Jorvoss",
+      "Jolvrik",
+      "Jorvorek",
+      "Jolvarn",
+      "Jorveld",
+      "Jolvik",
+      "Jorven"
+    ]
+  },
+  "Casey": {
+    "replacements": [
+      "Kelvorn",
+      "Casvek",
+      "Kelvald",
+      "Casvoss",
+      "Kelvrik",
+      "Casvorek",
+      "Kelvarn",
+      "Casveld",
+      "Kelvik",
+      "Casven"
+    ]
+  },
+  "Alex": {
+    "replacements": [
+      "Alvorn",
+      "Alexvek",
+      "Alvald",
+      "Alexvoss",
+      "Alvrik",
+      "Alexvorek",
+      "Alvarn",
+      "Alexveld",
+      "Alvik",
+      "Alexven"
+    ]
+  },
+  "Charlie": {
+    "replacements": [
+      "Chelvorn",
+      "Charvek",
+      "Chelvald",
+      "Charvoss",
+      "Chelvrik",
+      "Charvorek",
+      "Chelvarn",
+      "Charveld",
+      "Chelvik",
+      "Charven"
+    ]
+  },
+  "Sam": {
+    "replacements": [
+      "Selvorn",
+      "Samvek",
+      "Selvald",
+      "Samvoss",
+      "Selvrik",
+      "Samvorek",
+      "Selvarn",
+      "Samveld",
+      "Selvik",
+      "Samven"
+    ]
+  },
+  "Margaret": {
+    "replacements": [
+      "Marvessa",
+      "Malvira",
+      "Marvenna",
+      "Malvella",
+      "Marvara",
+      "Malvora",
+      "Marvanna",
+      "Malvika",
+      "Marressa",
+      "Malvinna"
+    ]
+  },
+  "Yusuf": {
+    "replacements": [
+      "Yulvorek",
+      "Yulvandren",
+      "Yulvessen",
+      "Yulvadik",
+      "Yulvoran",
+      "Yulvassen",
+      "Yulvorik",
+      "Yulvandek",
+      "Yulvossen",
+      "Yulvallen"
+    ]
+  },
+  "Leila": {
+    "replacements": [
+      "Leilvira",
+      "Lelvessa",
+      "Leilvenna",
+      "Lelvolla",
+      "Leilvara",
+      "Lelvira",
+      "Leilvanna",
+      "Lelvika",
+      "Leilressa",
+      "Lelvossa"
+    ]
+  },
+  "Sana": {
+    "replacements": [
+      "Sanvira",
+      "Salvessa",
+      "Sanvenna",
+      "Salvella",
+      "Sanvara",
+      "Salvora",
+      "Sanvanna",
+      "Salvika",
+      "Sanressa",
+      "Salvinna"
+    ]
+  },
+  "Koji": {
+    "replacements": [
+      "Kolvorek",
+      "Kolvandren",
+      "Kolvessen",
+      "Kolvadik",
+      "Kolvoran",
+      "Kolvassen",
+      "Kolvorik",
+      "Kolvandek",
+      "Kolvossen",
+      "Kolvallen"
+    ]
+  },
+  "Parker": {
+    "replacements": [
+      "Luxaryn",
+      "Kathvar",
+      "Ravello",
+      "Nivarek",
+      "Orvantis",
+      "Varriko",
+      "Caldris",
+      "Valcoro",
+      "Meravil",
+      "Caelthorn"
+    ]
+  },
+  "Megan": {
+    "replacements": [
+      "Melvira",
+      "Megvessa",
+      "Melvenna",
+      "Megvella",
+      "Melvara",
+      "Megvora",
+      "Melvanna",
+      "Megvika",
+      "Melressa",
+      "Megvinna"
+    ]
+  },
+  "Ava": {
+    "replacements": [
+      "Avvira",
+      "Avvessa",
+      "Avvenna",
+      "Avvella",
+      "Avvara",
+      "Avvora",
+      "Avvanna",
+      "Avvika",
+      "Avressa",
+      "Avvinna"
+    ]
+  },
+  "Jasmine": {
+    "replacements": [
+      "Jasvira",
+      "Jelvessa",
+      "Jasvenna",
+      "Jelvella",
+      "Jasvara",
+      "Jelvora",
+      "Jasvanna",
+      "Jelvika",
+      "Jasressa",
+      "Jelvinna"
+    ]
+  },
+  "Eva": {
+    "replacements": [
+      "Evvira",
+      "Evvessa",
+      "Evvenna",
+      "Evvella",
+      "Evvara",
+      "Evvora",
+      "Evvanna",
+      "Evvika",
+      "Evressa",
+      "Evvinna"
+    ]
+  },
+  "Maya": {
+    "replacements": [
+      "Mayvira",
+      "Melvessa",
+      "Mayvenna",
+      "Melvella",
+      "Mayvara",
+      "Melvora",
+      "Mayvanna",
+      "Melvika",
+      "Mayressa",
+      "Melvinna"
+    ]
+  },
+  "Clara": {
+    "replacements": [
+      "Klarvira",
+      "Klelvessa",
+      "Klarvenna",
+      "Klelvella",
+      "Klarvara",
+      "Klelvora",
+      "Klarvanna",
+      "Klelvika",
+      "Klarressa",
+      "Klelvinna"
+    ]
+  },
+  "Roland": {
+    "replacements": [
+      "Rolvorek",
+      "Rolvandren",
+      "Rolvessen",
+      "Rolvadik",
+      "Rolvoran",
+      "Rolvassen",
+      "Rolvorik",
+      "Rolvandek",
+      "Rolvossen",
+      "Rolvallen"
+    ]
+  },
+  "Damien": {
+    "replacements": [
+      "Dalvorek",
+      "Dalvandren",
+      "Dalvessen",
+      "Dalvadik",
+      "Dalvoran",
+      "Dalvassen",
+      "Dalvorik",
+      "Dalvandek",
+      "Dalvossen",
+      "Dalvallen"
+    ]
+  },
+  "Sebastian": {
+    "replacements": [
+      "Selvoran",
+      "Selvandrek",
+      "Selvorik",
+      "Selvadiken",
+      "Selvorassen",
+      "Selvandelen",
+      "Selvorikan",
+      "Selvandoken",
+      "Selvossaren",
+      "Selvallenek"
+    ]
+  },
+  "Nikolai": {
+    "replacements": [
+      "Nikvorek",
+      "Nilvandren",
+      "Nikvessen",
+      "Nilvadik",
+      "Nikvoran",
+      "Nilvassen",
+      "Nikvorik",
+      "Nilvandek",
+      "Nikvossen",
+      "Nilvallen"
+    ]
+  },
+  "Elise": {
+    "replacements": [
+      "Elsvira",
+      "Elsvessa",
+      "Elsvenna",
+      "Elsvella",
+      "Elsvara",
+      "Elsvora",
+      "Elsvanna",
+      "Elsvika",
+      "Elsressa",
+      "Elsvinna"
+    ]
+  },
+  "Adrian": {
+    "replacements": [
+      "Adrivorek",
+      "Adrelvandren",
+      "Adrivessen",
+      "Adrelvadik",
+      "Adrivoran",
+      "Adrelvassen",
+      "Adrivorik",
+      "Adrelvandek",
+      "Adrivossen",
+      "Adrelvallen"
+    ]
+  }
+}

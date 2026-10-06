@@ -1,0 +1,625 @@
+{
+  "characterCreationTrackId": "CharacterCreationFantasy",
+  "tracks": {
+    "CharacterCreationFantasy": {
+      "cues": [
+        "character-creation"
+      ],
+      "variants": [
+        {
+          "url": "https://images.aidungeon.com/user_content/65802571/music/uploads/7f57a46b-bfb4-46bb-9f6c-957f58bf495a.mp3"
+        }
+      ]
+    },
+    "CharacterCreationFuturistic": {
+      "cues": [
+        "character-creation"
+      ],
+      "variants": [
+        {
+          "url": "https://images.aidungeon.com/user_content/65802571/music/uploads/7f57a46b-bfb4-46bb-9f6c-957f58bf495a.mp3"
+        }
+      ]
+    },
+    "Investigatory": {
+      "matchTags": [
+        "investigation",
+        "searching",
+        "clues",
+        "hidden",
+        "sneaking",
+        "spying",
+        "detective",
+        "tracking"
+      ],
+      "variants": [
+        {
+          "narrationUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/8c0fc464-1004-4d21-9fe4-93cc18d2f160.mp3",
+          "gameplayUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/8c0fc464-1004-4d21-9fe4-93cc18d2f160.mp3"
+        },
+        {
+          "narrationUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/5b177930-c736-4df3-904a-8ccffe01c496.mp3",
+          "gameplayUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/5b177930-c736-4df3-904a-8ccffe01c496.mp3"
+        },
+        {
+          "narrationUrl": "https://files.catbox.moe/enwsly.mp3",
+          "gameplayUrl": "https://files.catbox.moe/enwsly.mp3"
+        },
+        {
+          "narrationUrl": "https://files.catbox.moe/alf824.mp3",
+          "gameplayUrl": "https://files.catbox.moe/alf824.mp3"
+        }
+      ]
+    },
+    "Apprehensive": {
+      "matchTags": [
+        "dread",
+        "ominous",
+        "lurking",
+        "danger",
+        "warning",
+        "threatening",
+        "tense",
+        "anxious",
+        "uneasy",
+        "foreboding",
+        "suspicious",
+        "nervous"
+      ],
+      "variants": [
+        {
+          "narrationUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/db39060e-4964-42bf-b940-9c6ad53ea5f1.mp3",
+          "gameplayUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/db39060e-4964-42bf-b940-9c6ad53ea5f1.mp3"
+        },
+        {
+          "narrationUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/3f26c870-17d3-4030-ab55-98db8a7f82b2.mp3",
+          "gameplayUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/3f26c870-17d3-4030-ab55-98db8a7f82b2.mp3"
+        },
+        {
+          "narrationUrl": "https://files.catbox.moe/c5byfh.mp3",
+          "gameplayUrl": "https://files.catbox.moe/c5byfh.mp3"
+        },
+        {
+          "narrationUrl": "https://files.catbox.moe/ff5hvo.mp3",
+          "gameplayUrl": "https://files.catbox.moe/ff5hvo.mp3"
+        }
+      ]
+    },
+    "Awestruck": {
+      "matchTags": [
+        "wonder",
+        "magnificent",
+        "ancient",
+        "revelation",
+        "sacred",
+        "overwhelming",
+        "majestic",
+        "vast",
+        "breathtaking",
+        "awe",
+        "mystical",
+        "divine",
+        "grandeur",
+        "discovery"
+      ],
+      "variants": [
+        {
+          "narrationUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/b9c369bc-68ed-40a4-82e3-3d2a4294ba2a.mp3",
+          "gameplayUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/b9c369bc-68ed-40a4-82e3-3d2a4294ba2a.mp3"
+        },
+        {
+          "narrationUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/0488f453-c2b2-49a7-8f22-20b4d09e9658.mp3",
+          "gameplayUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/0488f453-c2b2-49a7-8f22-20b4d09e9658.mp3"
+        },
+        {
+          "narrationUrl": "https://files.catbox.moe/7mh72c.mp3",
+          "gameplayUrl": "https://files.catbox.moe/7mh72c.mp3"
+        },
+        {
+          "narrationUrl": "https://files.catbox.moe/c9z9im.mp3",
+          "gameplayUrl": "https://files.catbox.moe/c9z9im.mp3"
+        }
+      ]
+    },
+    "Calm": {
+      "matchTags": [
+        "peaceful",
+        "safe",
+        "rest",
+        "serene",
+        "tranquil",
+        "relaxed",
+        "shelter",
+        "stillness",
+        "meditative",
+        "comfort"
+      ],
+      "variants": [
+        {
+          "narrationUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/648e993e-5c6b-4520-b512-16d1163bdf3b.mp3",
+          "gameplayUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/648e993e-5c6b-4520-b512-16d1163bdf3b.mp3"
+        },
+        {
+          "narrationUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/1ba7a145-1274-4b5c-8332-11db69ed0717.mp3",
+          "gameplayUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/1ba7a145-1274-4b5c-8332-11db69ed0717.mp3"
+        },
+        {
+          "narrationUrl": "https://files.catbox.moe/9a3af7.mp3",
+          "gameplayUrl": "https://files.catbox.moe/9a3af7.mp3"
+        },
+        {
+          "narrationUrl": "https://files.catbox.moe/ndlfxy.mp3",
+          "gameplayUrl": "https://files.catbox.moe/ndlfxy.mp3"
+        }
+      ]
+    },
+    "Dead": {
+      "matchTags": [
+        "death",
+        "killed",
+        "fallen",
+        "tragedy",
+        "grief",
+        "devastating",
+        "perished",
+        "fatal"
+      ],
+      "cues": [
+        "dead"
+      ],
+      "variants": [
+        {
+          "url": "https://images.aidungeon.com/user_content/65802571/music/uploads/985a0c52-2c71-40c9-ad2d-73d9684b3a56.mp3",
+          "narrationUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/985a0c52-2c71-40c9-ad2d-73d9684b3a56.mp3",
+          "gameplayUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/985a0c52-2c71-40c9-ad2d-73d9684b3a56.mp3"
+        },
+        {
+          "url": "https://files.catbox.moe/o6cc95.mp3",
+          "narrationUrl": "https://files.catbox.moe/o6cc95.mp3",
+          "gameplayUrl": "https://files.catbox.moe/o6cc95.mp3"
+        },
+        {
+          "url": "https://files.catbox.moe/9yj8o0.mp3",
+          "narrationUrl": "https://files.catbox.moe/9yj8o0.mp3",
+          "gameplayUrl": "https://files.catbox.moe/9yj8o0.mp3"
+        },
+        {
+          "url": "https://files.catbox.moe/4rbjpu.mp3",
+          "narrationUrl": "https://files.catbox.moe/4rbjpu.mp3",
+          "gameplayUrl": "https://files.catbox.moe/4rbjpu.mp3"
+        }
+      ]
+    },
+    "Distraught": {
+      "matchTags": [
+        "distress",
+        "turmoil",
+        "betrayal",
+        "anguish",
+        "conflict",
+        "desperate",
+        "troubled",
+        "dilemma",
+        "confrontation",
+        "argument",
+        "tension",
+        "accusation",
+        "rejection",
+        "bitter"
+      ],
+      "variants": [
+        {
+          "narrationUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/5d4be856-e6fc-4eb2-a609-6fb126059721.mp3",
+          "gameplayUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/5d4be856-e6fc-4eb2-a609-6fb126059721.mp3"
+        },
+        {
+          "narrationUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/a1f2922d-8fe0-4855-844a-500fdd0bdb98.mp3",
+          "gameplayUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/a1f2922d-8fe0-4855-844a-500fdd0bdb98.mp3"
+        },
+        {
+          "narrationUrl": "https://files.catbox.moe/9aixqj.mp3",
+          "gameplayUrl": "https://files.catbox.moe/9aixqj.mp3"
+        },
+        {
+          "narrationUrl": "https://files.catbox.moe/nuwpu9.mp3",
+          "gameplayUrl": "https://files.catbox.moe/nuwpu9.mp3"
+        }
+      ]
+    },
+    "Eulogizing": {
+      "matchTags": [
+        "mourning",
+        "memorial",
+        "funeral",
+        "tribute",
+        "remembrance",
+        "farewell",
+        "honoring",
+        "grave"
+      ],
+      "variants": [
+        {
+          "narrationUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/334ea686-6be3-485f-9d6a-85cdd1b19401.mp3",
+          "gameplayUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/334ea686-6be3-485f-9d6a-85cdd1b19401.mp3"
+        },
+        {
+          "narrationUrl": "https://files.catbox.moe/uzm60h.mp3",
+          "gameplayUrl": "https://files.catbox.moe/uzm60h.mp3"
+        },
+        {
+          "narrationUrl": "https://files.catbox.moe/03t2aw.mp3",
+          "gameplayUrl": "https://files.catbox.moe/03t2aw.mp3"
+        },
+        {
+          "narrationUrl": "https://files.catbox.moe/xwz9qi.mp3",
+          "gameplayUrl": "https://files.catbox.moe/xwz9qi.mp3"
+        }
+      ]
+    },
+    "Exuberant": {
+      "matchTags": [
+        "excitement",
+        "energetic",
+        "wild",
+        "celebration",
+        "dancing",
+        "festival",
+        "jubilant",
+        "excited",
+        "revelry",
+        "exhilarating",
+        "raucous",
+        "festive"
+      ],
+      "variants": [
+        {
+          "narrationUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/5a620209-bad6-4b12-b1b2-21289bb5b2c8.mp3",
+          "gameplayUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/5a620209-bad6-4b12-b1b2-21289bb5b2c8.mp3"
+        },
+        {
+          "narrationUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/f976e375-fac5-4f81-8fe7-305a004eafd8.mp3",
+          "gameplayUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/f976e375-fac5-4f81-8fe7-305a004eafd8.mp3"
+        },
+        {
+          "narrationUrl": "https://files.catbox.moe/yblcqw.mp3",
+          "gameplayUrl": "https://files.catbox.moe/yblcqw.mp3"
+        },
+        {
+          "narrationUrl": "https://files.catbox.moe/g8s9sk.mp3",
+          "gameplayUrl": "https://files.catbox.moe/g8s9sk.mp3"
+        }
+      ]
+    },
+    "Fighting": {
+      "matchTags": [
+        "combat",
+        "battle",
+        "fighting",
+        "attack",
+        "clash",
+        "warfare",
+        "strike",
+        "assault"
+      ],
+      "cues": [
+        "combat"
+      ],
+      "variants": [
+        {
+          "narrationUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/989ef51f-72fa-467e-a6ac-20b870ad8fa1.mp3",
+          "gameplayUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/989ef51f-72fa-467e-a6ac-20b870ad8fa1.mp3"
+        },
+        {
+          "narrationUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/8390fc7e-7bd9-4bc2-adc1-91fc8627bba4.mp3",
+          "gameplayUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/8390fc7e-7bd9-4bc2-adc1-91fc8627bba4.mp3"
+        },
+        {
+          "narrationUrl": "https://files.catbox.moe/nnpzmw.mp3",
+          "gameplayUrl": "https://files.catbox.moe/nnpzmw.mp3"
+        },
+        {
+          "narrationUrl": "https://files.catbox.moe/pghmsl.mp3",
+          "gameplayUrl": "https://files.catbox.moe/pghmsl.mp3"
+        }
+      ]
+    },
+    "Happy": {
+      "matchTags": [
+        "cheerful",
+        "pleasant",
+        "friendly",
+        "lighthearted",
+        "warm",
+        "kind",
+        "reunion",
+        "welcome",
+        "hopeful",
+        "gentle",
+        "tender"
+      ],
+      "variants": [
+        {
+          "narrationUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/84731ea8-49d8-4196-8814-80f8f8b5b3d1.mp3",
+          "gameplayUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/84731ea8-49d8-4196-8814-80f8f8b5b3d1.mp3"
+        },
+        {
+          "narrationUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/a11c6a2d-92eb-4e83-8a42-e520031e9ab6.mp3",
+          "gameplayUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/a11c6a2d-92eb-4e83-8a42-e520031e9ab6.mp3"
+        },
+        {
+          "narrationUrl": "https://files.catbox.moe/3uiyjf.mp3",
+          "gameplayUrl": "https://files.catbox.moe/3uiyjf.mp3"
+        },
+        {
+          "narrationUrl": "https://files.catbox.moe/d670f7.mp3",
+          "gameplayUrl": "https://files.catbox.moe/d670f7.mp3"
+        }
+      ]
+    },
+    "Morose": {
+      "matchTags": [
+        "melancholy",
+        "somber",
+        "gloomy",
+        "lonely",
+        "bleak",
+        "empty",
+        "weary",
+        "sorrowful",
+        "resigned",
+        "loss",
+        "regret",
+        "desolate"
+      ],
+      "variants": [
+        {
+          "url": "https://images.aidungeon.com/user_content/65802571/music/uploads/9605d785-aaee-408e-994f-5a4a0dd8d770.mp3",
+          "narrationUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/9605d785-aaee-408e-994f-5a4a0dd8d770.mp3",
+          "gameplayUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/9605d785-aaee-408e-994f-5a4a0dd8d770.mp3"
+        },
+        {
+          "url": "https://files.catbox.moe/a1emw3.mp3",
+          "narrationUrl": "https://files.catbox.moe/a1emw3.mp3",
+          "gameplayUrl": "https://files.catbox.moe/a1emw3.mp3"
+        },
+        {
+          "url": "https://images.aidungeon.com/user_content/65802571/music/uploads/1487c12d-ee5c-4537-8c47-d2623c72154e.mp3",
+          "narrationUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/1487c12d-ee5c-4537-8c47-d2623c72154e.mp3",
+          "gameplayUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/1487c12d-ee5c-4537-8c47-d2623c72154e.mp3"
+        },
+        {
+          "url": "https://images.aidungeon.com/user_content/65802571/music/uploads/b2e0f1b6-71d6-47e0-a9b7-4533528962a8.mp3",
+          "narrationUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/b2e0f1b6-71d6-47e0-a9b7-4533528962a8.mp3",
+          "gameplayUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/b2e0f1b6-71d6-47e0-a9b7-4533528962a8.mp3"
+        }
+      ]
+    },
+    "Pursued": {
+      "matchTags": [
+        "chase",
+        "fleeing",
+        "escape",
+        "pursuit",
+        "hunted",
+        "running",
+        "urgent",
+        "panic",
+        "frantic"
+      ],
+      "variants": [
+        {
+          "narrationUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/518e7a92-d4a1-42ef-ba08-7a6dab1922a1.mp3",
+          "gameplayUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/518e7a92-d4a1-42ef-ba08-7a6dab1922a1.mp3"
+        },
+        {
+          "narrationUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/514ad649-9baa-4d2d-8a3c-b1f11e0bec51.mp3",
+          "gameplayUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/514ad649-9baa-4d2d-8a3c-b1f11e0bec51.mp3"
+        },
+        {
+          "narrationUrl": "https://files.catbox.moe/8n7v83.mp3",
+          "gameplayUrl": "https://files.catbox.moe/8n7v83.mp3"
+        },
+        {
+          "narrationUrl": "https://files.catbox.moe/wqmtlh.mp3",
+          "gameplayUrl": "https://files.catbox.moe/wqmtlh.mp3"
+        }
+      ]
+    },
+    "Spooked": {
+      "matchTags": [
+        "horror",
+        "supernatural",
+        "haunted",
+        "eerie",
+        "ghost",
+        "creepy",
+        "cursed",
+        "unnatural",
+        "sinister",
+        "macabre",
+        "unsettling"
+      ],
+      "variants": [
+        {
+          "narrationUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/ee381547-5b3a-465c-bd05-3c6f7bcd8eb8.mp3",
+          "gameplayUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/ee381547-5b3a-465c-bd05-3c6f7bcd8eb8.mp3"
+        },
+        {
+          "narrationUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/2457b39b-031e-4a12-b678-3619f69d54d7.mp3",
+          "gameplayUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/2457b39b-031e-4a12-b678-3619f69d54d7.mp3"
+        },
+        {
+          "narrationUrl": "https://files.catbox.moe/szz2yg.mp3",
+          "gameplayUrl": "https://files.catbox.moe/szz2yg.mp3"
+        },
+        {
+          "narrationUrl": "https://files.catbox.moe/ehe6r8.mp3",
+          "gameplayUrl": "https://files.catbox.moe/ehe6r8.mp3"
+        }
+      ]
+    },
+    "Triumphant": {
+      "matchTags": [
+        "victory",
+        "triumph",
+        "heroic",
+        "conquered",
+        "achievement",
+        "glory",
+        "champion",
+        "winning",
+        "victorious",
+        "glorious",
+        "legendary",
+        "celebrated"
+      ],
+      "variants": [
+        {
+          "narrationUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/e32e5455-31ea-4dbd-9994-a8aa8291b1f7.mp3",
+          "gameplayUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/e32e5455-31ea-4dbd-9994-a8aa8291b1f7.mp3"
+        },
+        {
+          "narrationUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/ce2adada-b3c2-44bb-bb3c-560463c49eb2.mp3",
+          "gameplayUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/ce2adada-b3c2-44bb-bb3c-560463c49eb2.mp3"
+        },
+        {
+          "narrationUrl": "https://files.catbox.moe/ck709q.mp3",
+          "gameplayUrl": "https://files.catbox.moe/ck709q.mp3"
+        },
+        {
+          "narrationUrl": "https://files.catbox.moe/rwj91y.mp3",
+          "gameplayUrl": "https://files.catbox.moe/rwj91y.mp3"
+        }
+      ]
+    },
+    "Unconscious": {
+      "matchTags": [
+        "dream",
+        "unconscious",
+        "vision",
+        "trance",
+        "ethereal",
+        "floating",
+        "surreal",
+        "sleep"
+      ],
+      "variants": [
+        {
+          "narrationUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/71ae0aea-7d94-4ca2-a08e-41441432eef8.mp3",
+          "gameplayUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/71ae0aea-7d94-4ca2-a08e-41441432eef8.mp3"
+        },
+        {
+          "narrationUrl": "https://files.catbox.moe/qkgk2m.mp3",
+          "gameplayUrl": "https://files.catbox.moe/qkgk2m.mp3"
+        },
+        {
+          "narrationUrl": "https://files.catbox.moe/nmede2.mp3",
+          "gameplayUrl": "https://files.catbox.moe/nmede2.mp3"
+        },
+        {
+          "narrationUrl": "https://files.catbox.moe/gdbvyb.mp3",
+          "gameplayUrl": "https://files.catbox.moe/gdbvyb.mp3"
+        }
+      ]
+    },
+    "Travelling": {
+      "matchTags": [
+        "journey",
+        "travel",
+        "road",
+        "adventure",
+        "exploring",
+        "trek",
+        "wandering",
+        "path",
+        "expedition",
+        "voyage",
+        "roaming"
+      ],
+      "cues": [
+        "travel"
+      ],
+      "variants": [
+        {
+          "narrationUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/9182cb5b-8ce0-41f9-bb5e-3e9895f6ff8e.mp3",
+          "gameplayUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/9182cb5b-8ce0-41f9-bb5e-3e9895f6ff8e.mp3"
+        },
+        {
+          "narrationUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/789deb5a-71e5-4d17-9cf7-99884d2660c9.mp3",
+          "gameplayUrl": "https://images.aidungeon.com/user_content/65802571/music/uploads/789deb5a-71e5-4d17-9cf7-99884d2660c9.mp3"
+        },
+        {
+          "narrationUrl": "https://files.catbox.moe/mbk3pw.mp3",
+          "gameplayUrl": "https://files.catbox.moe/mbk3pw.mp3"
+        },
+        {
+          "narrationUrl": "https://files.catbox.moe/oaqan5.mp3",
+          "gameplayUrl": "https://files.catbox.moe/oaqan5.mp3"
+        }
+      ]
+    },
+    "Near_Dead": {
+      "cues": [
+        "near-death"
+      ],
+      "variants": [
+        {
+          "url": "https://images.aidungeon.com/user_content/65802571/music/uploads/57a3f78e-e993-4ef0-b7db-d38ab726455f.mp3"
+        },
+        {
+          "url": "https://files.catbox.moe/dkijv9.mp3"
+        },
+        {
+          "url": "https://files.catbox.moe/n03jdx.mp3"
+        },
+        {
+          "url": "https://files.catbox.moe/49fa82.mp3"
+        }
+      ]
+    },
+    "Dying": {
+      "cues": [
+        "dying"
+      ],
+      "variants": [
+        {
+          "url": "https://images.aidungeon.com/user_content/65802571/music/uploads/bf247684-950e-4f49-bade-d66c6c1459fe.mp3"
+        },
+        {
+          "url": "https://files.catbox.moe/38iy5z.mp3"
+        },
+        {
+          "url": "https://files.catbox.moe/c315jk.mp3"
+        },
+        {
+          "url": "https://files.catbox.moe/xc77j3.mp3"
+        },
+        {
+          "url": "https://files.catbox.moe/x8fxst.mp3"
+        },
+        {
+          "url": "https://files.catbox.moe/74wkta.mp3"
+        }
+      ]
+    },
+    "Recover": {
+      "cues": [
+        "recovery"
+      ],
+      "variants": [
+        {
+          "url": "https://images.aidungeon.com/user_content/65802571/music/uploads/878fff56-fe0c-427c-8745-b6e2a2edf698.mp3"
+        },
+        {
+          "url": "https://images.aidungeon.com/user_content/65802571/music/uploads/e9f7eb73-d578-4ae3-b540-51a02d33043c.mp3"
+        },
+        {
+          "url": "https://files.catbox.moe/tdfyny.mp3"
+        },
+        {
+          "url": "https://files.catbox.moe/d12bca.mp3"
+        }
+      ]
+    }
+  }
+}

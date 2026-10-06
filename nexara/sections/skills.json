@@ -1,0 +1,1304 @@
+{
+  "Climbing": {
+    "name": "Climbing",
+    "attribute": "strength",
+    "type": "utility",
+    "description": "Covers: ascending or descending walls, rock, rigging and structures using real grips, bodily capacity and available support such as ropes or harnesses. Not: sustained travel over rough ground on foot, which is Hiking. Primary Attribute: Strength.",
+    "startingItems": []
+  },
+  "Running": {
+    "name": "Running",
+    "attribute": "endurance",
+    "type": "utility",
+    "description": "Covers: sustaining ground travel at a demanding pace: sprints, chases and long runs within the body's actual capabilities and footing. Not: pacing multi-day travel over difficult terrain, which is Hiking. Primary Attribute: Endurance.",
+    "startingItems": []
+  },
+  "Swimming": {
+    "name": "Swimming",
+    "attribute": "endurance",
+    "type": "utility",
+    "description": "Covers: propelling and supporting the body through water under the actual current, temperature and load, including surface rescue swims. Not: controlling a watercraft, which is Boating. Primary Attribute: Endurance.",
+    "startingItems": []
+  },
+  "Hiking": {
+    "name": "Hiking",
+    "attribute": "endurance",
+    "type": "utility",
+    "description": "Covers: pacing sustained travel over difficult ground, choosing footing and managing load and rest so the party arrives able to work. Not: finding the route or fixing position, which is Navigation. Primary Attribute: Endurance.",
+    "startingItems": []
+  },
+  "Acrobatics": {
+    "name": "Acrobatics",
+    "attribute": "agility",
+    "type": "utility",
+    "description": "Covers: balance, tumbling, vaults, rolls, controlled falls and changes of body position on narrow or moving surfaces. Not: evading a specific observed attack, which is Dodging. Primary Attribute: Agility.",
+    "startingItems": []
+  },
+  "Stealth": {
+    "name": "Stealth",
+    "attribute": "agility",
+    "type": "utility",
+    "description": "Covers: moving or remaining concealed from plausible observers using actual cover, light, noise and timing. Not: manipulating small objects unseen, which is Sleight of Hand. Primary Attribute: Agility.",
+    "startingItems": []
+  },
+  "Dodging": {
+    "name": "Dodging",
+    "attribute": "agility",
+    "type": "combat",
+    "description": "Covers: evading an observed threat within the available reaction time and movement space, including sidesteps, ducks and dives. Not: meeting a blow with a guard or shield, which is Blocking. Primary Attribute: Agility.",
+    "startingItems": []
+  },
+  "Lifting": {
+    "name": "Lifting",
+    "attribute": "strength",
+    "type": "utility",
+    "description": "Covers: raising, shifting or repositioning a heavy object with controlled force within real capacity, including short carries. Not: carrying a manageable load over time, which is Loadbearing. Primary Attribute: Strength.",
+    "startingItems": []
+  },
+  "Loadbearing": {
+    "name": "Loadbearing",
+    "attribute": "endurance",
+    "type": "utility",
+    "description": "Covers: sustaining the carriage of an already manageable load over distance and time without injury or dropped cargo. Not: the initial raising of something heavy, which is Lifting. Primary Attribute: Endurance.",
+    "startingItems": []
+  },
+  "Sleight of Hand": {
+    "name": "Sleight of Hand",
+    "attribute": "agility",
+    "type": "utility",
+    "description": "Covers: manipulating small objects discreetly through practiced manual coordination: palming, switching, concealing, picking a pocket. Not: keeping the whole body unseen, which is Stealth. Primary Attribute: Agility.",
+    "startingItems": []
+  },
+  "Concentration": {
+    "name": "Concentration",
+    "attribute": "resolve",
+    "type": "utility",
+    "description": "Covers: maintaining attention on a chosen task through ordinary competing distractions, discomfort or pressure. Not: noticing a sensory detail in the surroundings, which is Perception. Primary Attribute: Resolve.",
+    "startingItems": []
+  },
+  "Perception": {
+    "name": "Perception",
+    "attribute": "awareness",
+    "type": "utility",
+    "description": "Covers: noticing an immediate sensory detail within the body's actual senses, such as a movement, an object out of place or a change in a room, without identifying its hidden cause. Not: methodically combing an area, which is Search. Primary Attribute: Awareness.",
+    "startingItems": []
+  },
+  "Fishing": {
+    "name": "Fishing",
+    "attribute": "awareness",
+    "type": "utility",
+    "description": "Covers: reading supported aquatic conditions and using appropriate tackle to catch an organism that is actually present. Not: maintaining a cultivated aquatic system, which is Aquaculture. Primary Attribute: Awareness.",
+    "startingItems": []
+  },
+  "Hunting": {
+    "name": "Hunting",
+    "attribute": "awareness",
+    "type": "utility",
+    "description": "Covers: judging an observed quarry's behaviour and planning an approach, stand or stalk within the known ecology. Not: following its physical traces, which is Tracking. Primary Attribute: Awareness.",
+    "startingItems": []
+  },
+  "Tracking": {
+    "name": "Tracking",
+    "attribute": "awareness",
+    "type": "utility",
+    "description": "Covers: following physical traces such as prints, breaks and residue while distinguishing observation from assumption about their source. Not: planning the approach to the quarry, which is Hunting. Primary Attribute: Awareness.",
+    "startingItems": []
+  },
+  "Foraging": {
+    "name": "Foraging",
+    "attribute": "awareness",
+    "type": "utility",
+    "description": "Covers: locating and identifying familiar useful wild materials, food, fuel and fibre without assuming unknown organisms are edible. Not: growing and tending crops, which is Cultivation. Primary Attribute: Awareness.",
+    "startingItems": []
+  },
+  "Trapping": {
+    "name": "Trapping",
+    "attribute": "intellect",
+    "type": "utility",
+    "description": "Covers: placing, baiting and maintaining an appropriate capture device for a known quarry and checking it safely, without granting its construction expertise. Not: building the device from raw stock, which is Carpentry. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Sheltercraft": {
+    "name": "Sheltercraft",
+    "attribute": "intellect",
+    "type": "utility",
+    "description": "Covers: choosing a site and assembling a workable field shelter from actual materials and environmental knowledge. Not: establishing and managing fire, which is Firecraft. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Firecraft": {
+    "name": "Firecraft",
+    "attribute": "intellect",
+    "type": "utility",
+    "description": "Covers: establishing and managing a controlled fire where fuel, conditions and permission allow, including safe extinguishing. Not: building the shelter around it, which is Sheltercraft. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Weather Reading": {
+    "name": "Weather Reading",
+    "attribute": "awareness",
+    "type": "utility",
+    "description": "Covers: interpreting observable weather signs, wind, cloud and pressure to judge the coming hours without predicting inaccessible information. Not: fixing a route or position, which is Navigation. Primary Attribute: Awareness.",
+    "startingItems": []
+  },
+  "Animal Handling": {
+    "name": "Animal Handling",
+    "attribute": "presence",
+    "type": "utility",
+    "description": "Covers: guiding a familiar animal's immediate behaviour with learned cues, posture and its actual receptiveness. Not: routine feeding and husbandry, which is Animal Care. Primary Attribute: Presence.",
+    "startingItems": []
+  },
+  "Animal Care": {
+    "name": "Animal Care",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: routine husbandry for familiar animals: feeding, housing, grooming and recognising common ailments within established biological knowledge. Not: directing an animal in the moment, which is Animal Handling. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Field Dressing": {
+    "name": "Field Dressing",
+    "attribute": "agility",
+    "type": "utility",
+    "description": "Covers: preparing a legally obtained familiar carcass for transport or processing within known safety requirements. Not: portioning it for the table, which is Butchery. Primary Attribute: Agility.",
+    "startingItems": []
+  },
+  "Navigation": {
+    "name": "Navigation",
+    "attribute": "awareness",
+    "type": "utility",
+    "description": "Covers: determining a route and current position from available maps, landmarks, instruments and known transit. Not: measuring positions to record them, which is Surveying. Primary Attribute: Awareness.",
+    "startingItems": []
+  },
+  "Field Survey": {
+    "name": "Field Survey",
+    "attribute": "awareness",
+    "type": "utility",
+    "description": "Covers: recording observable terrain, cover, water and environmental conditions without declaring unseen causes as facts. Not: measuring exact positions and dimensions, which is Surveying. Primary Attribute: Awareness.",
+    "startingItems": []
+  },
+  "Search": {
+    "name": "Search",
+    "attribute": "awareness",
+    "type": "utility",
+    "description": "Covers: examining a defined area methodically for a person or object using available clues, patterns and elimination. Not: the incidental noticing of a detail, which is Perception. Primary Attribute: Awareness.",
+    "startingItems": []
+  },
+  "Rescue": {
+    "name": "Rescue",
+    "attribute": "strength",
+    "type": "utility",
+    "description": "Covers: the physical recovery or extraction of someone from water, rubble, height or a vehicle using actual equipment and capacity. Not: treating their injuries afterwards, which is First Aid. Primary Attribute: Strength.",
+    "startingItems": []
+  },
+  "Persuasion": {
+    "name": "Persuasion",
+    "attribute": "charisma",
+    "type": "social",
+    "description": "Covers: making a reasoned personal appeal, request or argument that another person remains free to reject. Not: presenting a deliberately misleading account, which is Deception. Primary Attribute: Charisma.",
+    "startingItems": []
+  },
+  "Bargaining": {
+    "name": "Bargaining",
+    "attribute": "charisma",
+    "type": "social",
+    "description": "Covers: negotiating price, terms and trade concessions in an exchange without compelling agreement. Not: negotiating relations between parties with authority, which is Diplomacy. Primary Attribute: Charisma.",
+    "startingItems": []
+  },
+  "Deception": {
+    "name": "Deception",
+    "attribute": "charisma",
+    "type": "social",
+    "description": "Covers: presenting a deliberately misleading account, cover story or bluff, subject to evidence and the listener's judgement. Not: portraying a role openly on stage, which is Acting. Primary Attribute: Charisma.",
+    "startingItems": []
+  },
+  "Intimidation": {
+    "name": "Intimidation",
+    "attribute": "presence",
+    "type": "social",
+    "description": "Covers: applying a credible threat or imposing manner to change behaviour without guaranteeing compliance. Not: rallying willing people to a cause, which is Leadership. Primary Attribute: Presence.",
+    "startingItems": []
+  },
+  "Leadership": {
+    "name": "Leadership",
+    "attribute": "presence",
+    "type": "social",
+    "description": "Covers: rallying willing participants around a shared undertaking, setting direction and holding morale without creating institutional rank. Not: coordinating agreed tactical actions in a fight, which is Command. Primary Attribute: Presence.",
+    "startingItems": []
+  },
+  "Diplomacy": {
+    "name": "Diplomacy",
+    "attribute": "charisma",
+    "type": "social",
+    "description": "Covers: negotiating relations between parties with distinct interests and actual authority, framing terms both can carry home. Not: helping two willing parties settle a specific dispute, which is Mediation. Primary Attribute: Charisma.",
+    "startingItems": []
+  },
+  "Teaching": {
+    "name": "Teaching",
+    "attribute": "presence",
+    "type": "social",
+    "description": "Covers: directing clear practice, explanation and feedback in a subject the teacher actually knows. Not: helping someone articulate personal concerns, which is Counseling. Primary Attribute: Presence.",
+    "startingItems": []
+  },
+  "Counseling": {
+    "name": "Counseling",
+    "attribute": "charisma",
+    "type": "social",
+    "description": "Covers: helping someone articulate concerns and choices without diagnosing unfamiliar conditions or controlling their feelings. Not: structured practice and correction, which is Teaching. Primary Attribute: Charisma.",
+    "startingItems": []
+  },
+  "Etiquette": {
+    "name": "Etiquette",
+    "attribute": "awareness",
+    "type": "social",
+    "description": "Covers: recognising and following learned social conventions of dress, address, precedence and hospitality in their actual cultural context. Not: winning agreement through argument, which is Persuasion. Primary Attribute: Awareness.",
+    "startingItems": []
+  },
+  "Public Speaking": {
+    "name": "Public Speaking",
+    "attribute": "presence",
+    "type": "social",
+    "description": "Covers: addressing a group clearly, structuring a speech and holding attention without ensuring agreement, such as briefings, toasts, rallies and testimony. Not: performing a scripted role, which is Acting. Primary Attribute: Presence.",
+    "startingItems": []
+  },
+  "Interviewing": {
+    "name": "Interviewing",
+    "attribute": "charisma",
+    "type": "social",
+    "description": "Covers: eliciting an account through appropriate questions, sequencing and listening, without revealing facts the speaker withholds. Not: examining physical clues and contradictions, which is Investigation. Primary Attribute: Charisma.",
+    "startingItems": []
+  },
+  "Mediation": {
+    "name": "Mediation",
+    "attribute": "charisma",
+    "type": "social",
+    "description": "Covers: helping willing parties resolve a specific dispute while preserving each person's choices and face. Not: negotiating between institutions with authority, which is Diplomacy. Primary Attribute: Charisma.",
+    "startingItems": []
+  },
+  "Cooking": {
+    "name": "Cooking",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: preparing familiar meals from compatible ingredients using safe methods, timing and seasoning for the actual species at table. Not: dough, batter and oven processes, which is Baking. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Baking": {
+    "name": "Baking",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: controlling dough, batter, proving and heat processes for familiar baked foods, such as bread, pastry, Terva loaves and set desserts. Not: general meal preparation, which is Cooking. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Housekeeping": {
+    "name": "Housekeeping",
+    "attribute": "awareness",
+    "type": "profession",
+    "description": "Covers: maintaining clean, orderly domestic spaces, laundry, stores and routines while recognising practical household needs. Not: receiving guests and service, which is Hospitality. Primary Attribute: Awareness.",
+    "startingItems": []
+  },
+  "Hospitality": {
+    "name": "Hospitality",
+    "attribute": "charisma",
+    "type": "profession",
+    "description": "Covers: receiving guests, seating, service and resolving ordinary service problems within the establishment's capacity. Not: the domestic cleaning and upkeep behind it, which is Housekeeping. Primary Attribute: Charisma.",
+    "startingItems": []
+  },
+  "Food Preservation": {
+    "name": "Food Preservation",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: keeping familiar food safe through supported storage, drying, curing, sealing and cold methods. Not: managing a controlled fermentation, which is Fermentation. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Fermentation": {
+    "name": "Fermentation",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: managing a known fermentation process for drink, bread or preserved food within established material and food-safety limits. Not: other preservation methods, which is Food Preservation. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Drink Mixing": {
+    "name": "Drink Mixing",
+    "attribute": "agility",
+    "type": "profession",
+    "description": "Covers: measuring and combining compatible beverages to a known preparation with speed and consistent presentation. Not: extraction and service of Cyrra, which is Cyrra Brewing. Primary Attribute: Agility.",
+    "startingItems": []
+  },
+  "Cyrra Brewing": {
+    "name": "Cyrra Brewing",
+    "attribute": "awareness",
+    "type": "profession",
+    "description": "Covers: judging and adjusting the extraction, strength and serving of Cyrra within familiar equipment, including grind, water, timing and pour. Not: mixed drinks in general, which is Drink Mixing. Primary Attribute: Awareness.",
+    "startingItems": []
+  },
+  "Cultivation": {
+    "name": "Cultivation",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: growing and tending known crops using their established needs, seasons and available methods. Not: delivering water to the growing system, which is Irrigation. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Irrigation": {
+    "name": "Irrigation",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: managing water delivery, timing and drainage for a known growing system without replacing plumbing competence. Not: repairing domestic pipe systems, which is Plumbing. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Aquaculture": {
+    "name": "Aquaculture",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: maintaining an established aquatic cultivation system for organisms whose care is known, including water quality and feeding. Not: catching wild organisms, which is Fishing. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Butchery": {
+    "name": "Butchery",
+    "attribute": "agility",
+    "type": "profession",
+    "description": "Covers: portioning and processing familiar food animals with suitable tools and known anatomy, including breaking down Korrin, Selka or Pelli carcasses. Not: preparing a carcass in the field, which is Field Dressing. Primary Attribute: Agility.",
+    "startingItems": []
+  },
+  "Food Testing": {
+    "name": "Food Testing",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: interpreting supported food-quality and contamination tests without inventing universal cross-species compatibility. Not: analysing substances in general, which is Chemistry. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Tailoring": {
+    "name": "Tailoring",
+    "attribute": "agility",
+    "type": "profession",
+    "description": "Covers: fitting, mending and altering garments for known anatomy and compatible fabric, including hems, seams, closures and species-specific fits. Not: designing garments from a brief, which is Fashion Design. Primary Attribute: Agility.",
+    "startingItems": []
+  },
+  "Weaving": {
+    "name": "Weaving",
+    "attribute": "agility",
+    "type": "profession",
+    "description": "Covers: constructing textile structures with a practiced material and weaving method, from cloth to cord. Not: colouring the finished material, which is Dyeing. Primary Attribute: Agility.",
+    "startingItems": []
+  },
+  "Dyeing": {
+    "name": "Dyeing",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: preparing and applying compatible colour treatments to known materials with proper fixing and safety. Not: constructing the textile itself, which is Weaving. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Carpentry": {
+    "name": "Carpentry",
+    "attribute": "agility",
+    "type": "profession",
+    "description": "Covers: shaping and assembling known wood or analogous workable stock with suitable tools, including joints, frames, fittings and repairs. Not: shaping metal stock, which is Metalworking. Primary Attribute: Agility.",
+    "startingItems": []
+  },
+  "Metalworking": {
+    "name": "Metalworking",
+    "attribute": "strength",
+    "type": "profession",
+    "description": "Covers: shaping known metal stock through supported force, forming, cutting and finishing processes. Not: joining materials with a powered process, which is Welding. Primary Attribute: Strength.",
+    "startingItems": []
+  },
+  "Welding": {
+    "name": "Welding",
+    "attribute": "agility",
+    "type": "profession",
+    "description": "Covers: joining compatible materials with an appropriate powered process and controlled alignment and heat, including seam preparation, heat control and post-weld checks. Not: general metal shaping, which is Metalworking. Primary Attribute: Agility.",
+    "startingItems": []
+  },
+  "Glassworking": {
+    "name": "Glassworking",
+    "attribute": "agility",
+    "type": "profession",
+    "description": "Covers: forming or finishing familiar glass with supported tools and thermal controls. Not: building layered composite structures, which is Composite Fabrication. Primary Attribute: Agility.",
+    "startingItems": []
+  },
+  "Composite Fabrication": {
+    "name": "Composite Fabrication",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: building a specified composite structure with known constituents, layup and curing requirements. Not: producing precise machined parts, which is Machining. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Machining": {
+    "name": "Machining",
+    "attribute": "agility",
+    "type": "profession",
+    "description": "Covers: producing precise parts through the controlled operation of a known machine process, including setup, tolerances and finishing passes. Not: fitting the parts together, which is Assembly. Primary Attribute: Agility.",
+    "startingItems": []
+  },
+  "Assembly": {
+    "name": "Assembly",
+    "attribute": "agility",
+    "type": "profession",
+    "description": "Covers: fitting compatible components to a known mechanical arrangement and tolerance, in order and to specification. Not: diagnosing why the assembly fails, which is Mechanics. Primary Attribute: Agility.",
+    "startingItems": []
+  },
+  "Structural Design": {
+    "name": "Structural Design",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: planning load-bearing arrangements within known materials, loads and engineering scope. Not: testing whether a material meets its rating, which is Materials Testing. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Surface Finishing": {
+    "name": "Surface Finishing",
+    "attribute": "agility",
+    "type": "profession",
+    "description": "Covers: preparing and finishing an existing surface with coatings, polish or texture without changing its underlying structural rating. Not: applying colour to textiles, which is Dyeing. Primary Attribute: Agility.",
+    "startingItems": []
+  },
+  "Armor Fitting": {
+    "name": "Armor Fitting",
+    "attribute": "agility",
+    "type": "profession",
+    "description": "Covers: adjusting compatible protective equipment to the wearer's body, movement and attachments without manufacturing new protection. Not: adjusting a weapon's handling, which is Weapon Fitting. Primary Attribute: Agility.",
+    "startingItems": []
+  },
+  "Weapon Fitting": {
+    "name": "Weapon Fitting",
+    "attribute": "agility",
+    "type": "profession",
+    "description": "Covers: adjusting a known weapon's grip, balance and handling within its actual mechanism, including grip replacement, balance and sight adjustment. Not: adjusting protective equipment, which is Armor Fitting. Primary Attribute: Agility.",
+    "startingItems": []
+  },
+  "Materials Testing": {
+    "name": "Materials Testing",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: evaluating known material properties through supported tests and interpreting their limits. Not: recognising visible defects on site, which is Inspection. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Plumbing": {
+    "name": "Plumbing",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: diagnosing and repairing familiar water and waste pipe systems within safe isolation procedures. Not: operating a treatment process, which is Water Treatment. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Electrical Work": {
+    "name": "Electrical Work",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: servicing known electrical circuits, connections and protective devices within demonstrated competence. Not: generation and storage installations, which is Power Systems. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Power Systems": {
+    "name": "Power Systems",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: operating and diagnosing a supported power-generation or storage installation, including cells, converters, loads and safe isolation. Not: wiring and circuits downstream, which is Electrical Work. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Water Treatment": {
+    "name": "Water Treatment",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: operating a known treatment process and judging its supported output tests, including cartridges, dosing and contamination checks. Not: the pipework that carries it, which is Plumbing. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Climate Systems": {
+    "name": "Climate Systems",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: servicing familiar environmental-control equipment for air, humidity and filtration without assuming every atmosphere is compatible. Not: heat-transfer plant, which is Thermal Systems. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Thermal Systems": {
+    "name": "Thermal Systems",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: operating and servicing known heat-transfer equipment within its rated limits, including exchangers, geothermal taps and safe shutdown. Not: room air and atmosphere control, which is Climate Systems. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Mechanics": {
+    "name": "Mechanics",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: diagnosing and repairing familiar moving mechanisms, drives and linkages without granting every fabrication process. Not: electronic components and boards, which is Electronics. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Electronics": {
+    "name": "Electronics",
+    "attribute": "agility",
+    "type": "profession",
+    "description": "Covers: repairing and assembling compatible electronic components and boards with controlled precision, including boards, connectors, leads and small devices. Not: moving mechanical parts, which is Mechanics. Primary Attribute: Agility.",
+    "startingItems": []
+  },
+  "Diagnostics": {
+    "name": "Diagnostics",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: isolating faults by interpreting supported device measurements and controlled comparisons. Not: sequencing the repair afterwards, which is Repair Planning. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Inspection": {
+    "name": "Inspection",
+    "attribute": "awareness",
+    "type": "profession",
+    "description": "Covers: recognising observable defects, wear and non-conformance and stating what remains unverified. Not: laboratory property testing, which is Materials Testing. Primary Attribute: Awareness.",
+    "startingItems": []
+  },
+  "Repair Planning": {
+    "name": "Repair Planning",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: sequencing supported repair work and estimating its actual parts, risks and dependencies. Not: scheduling preventive service, which is Maintenance Planning. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Maintenance Planning": {
+    "name": "Maintenance Planning",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: scheduling known preventive service around condition, workload and real support availability. Not: planning a specific repair, which is Repair Planning. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Salvage": {
+    "name": "Salvage",
+    "attribute": "awareness",
+    "type": "profession",
+    "description": "Covers: assessing recoverable equipment for condition and practical reuse without granting ownership. Not: recovering raw material from waste streams, which is Reclamation. Primary Attribute: Awareness.",
+    "startingItems": []
+  },
+  "Reclamation": {
+    "name": "Reclamation",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: recovering usable material from known waste streams through supported processing, including sorting, separation and safe handling. Not: assessing whole equipment for reuse, which is Salvage. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Programming": {
+    "name": "Programming",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: writing or modifying software within actually learned languages and accessible systems. Not: configuring a repeatable process on a supported system, which is Automation. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Data Analysis": {
+    "name": "Data Analysis",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: transforming and interpreting accessible data while preserving uncertainty and provenance. Not: keeping records and storage in order, which is Data Management. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Data Management": {
+    "name": "Data Management",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: maintaining records, storage and recoverable changes within systems the user can access. Not: drawing conclusions from the data, which is Data Analysis. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Networking": {
+    "name": "Networking",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: configuring and diagnosing supported communications networks and links, including relays, slates, routing and coverage gaps. Not: defending a system against intrusion, which is Cybersecurity. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Cybersecurity": {
+    "name": "Cybersecurity",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: assessing and defending a known digital system without universal access or automatic compromise. Not: the mathematics of ciphers and keys, which is Cryptography. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Cryptography": {
+    "name": "Cryptography",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: applying or analysing learned cryptographic methods without bypassing unavailable keys by assertion. Not: system-wide defence and intrusion, which is Cybersecurity. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Interface Design": {
+    "name": "Interface Design",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: designing an understandable control interface for actual users and supported functions, including layout, feedback, labels and error states. Not: writing the software behind it, which is Programming. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Drone Piloting": {
+    "name": "Drone Piloting",
+    "attribute": "agility",
+    "type": "utility",
+    "description": "Covers: directing a compatible drone's movement and immediate controls through the available link. Not: assigning tasks across several units, which is Drone Coordination. Primary Attribute: Agility.",
+    "startingItems": []
+  },
+  "Drone Coordination": {
+    "name": "Drone Coordination",
+    "attribute": "awareness",
+    "type": "utility",
+    "description": "Covers: assigning and monitoring complementary tasks across compatible units without perfect remote knowledge. Not: flying one unit by hand, which is Drone Piloting. Primary Attribute: Awareness.",
+    "startingItems": []
+  },
+  "Robotics": {
+    "name": "Robotics",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: designing or repairing supported robotic mechanisms and control relationships, including actuators, sensors and control loops. Not: configuring a fixed repeatable process, which is Automation. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Automation": {
+    "name": "Automation",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: configuring a supported system to execute a defined repeatable process, including triggers, sequences, limits and monitoring. Not: designing the mechanism it drives, which is Robotics. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Augmentation": {
+    "name": "Augmentation",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: calibrating or maintaining known augmentation functions within the operator's actual engineering remit. Not: fitting assistive devices to a patient, which is Prosthetics. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Reservoir Handling": {
+    "name": "Reservoir Handling",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: operating a compatible Elyri reservoir and its actual support connection without creating charge or repairing a core. Not: servicing aether-based technology, which is Resonance Engineering. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Resonance Engineering": {
+    "name": "Resonance Engineering",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: servicing known aether-based technology using the required equipment, knowledge and support. Not: operating an Elyri support reservoir, which is Reservoir Handling. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "First Aid": {
+    "name": "First Aid",
+    "attribute": "awareness",
+    "type": "utility",
+    "description": "Covers: recognising immediate injury needs and providing assistance within actual training and species knowledge. Not: ranking several casualties by urgency, which is Triage. Primary Attribute: Awareness.",
+    "startingItems": []
+  },
+  "Triage": {
+    "name": "Triage",
+    "attribute": "awareness",
+    "type": "utility",
+    "description": "Covers: prioritising immediate care needs among several casualties from available observations without diagnosing every condition. Not: identifying the underlying condition, which is Diagnosis. Primary Attribute: Awareness.",
+    "startingItems": []
+  },
+  "Diagnosis": {
+    "name": "Diagnosis",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: evaluating a patient's findings within the practitioner's actual clinical and species expertise. Not: performing or reading laboratory tests, which is Clinical Testing. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Clinical Testing": {
+    "name": "Clinical Testing",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: performing or interpreting supported clinical tests within the trained role, including samples, readers, calibration and reporting. Not: forming the clinical judgement, which is Diagnosis. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Nursing": {
+    "name": "Nursing",
+    "attribute": "agility",
+    "type": "profession",
+    "description": "Covers: delivering trained procedural care and treatment support within the actual authorised role, including dressings, medication, monitoring and patient handling. Not: operative procedures, which is Surgery. Primary Attribute: Agility.",
+    "startingItems": []
+  },
+  "Surgery": {
+    "name": "Surgery",
+    "attribute": "agility",
+    "type": "profession",
+    "description": "Covers: performing a specifically trained operative procedure with appropriate facilities and species expertise. Not: ward and procedural care, which is Nursing. Primary Attribute: Agility.",
+    "startingItems": []
+  },
+  "Pharmacology": {
+    "name": "Pharmacology",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: evaluating known therapeutic substances, doses and interactions within actual clinical knowledge. Not: general substance analysis, which is Chemistry. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Rehabilitation": {
+    "name": "Rehabilitation",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: planning and guiding supported recovery practice matched to the person's observed capabilities, including exercises, pacing, aids and progress checks. Not: fitting assistive devices, which is Prosthetics. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Prosthetics": {
+    "name": "Prosthetics",
+    "attribute": "agility",
+    "type": "profession",
+    "description": "Covers: fitting and adjusting a supported prosthetic or assistive device using actual feedback and limits. Not: calibrating augmentation functions, which is Augmentation. Primary Attribute: Agility.",
+    "startingItems": []
+  },
+  "Clinical Records": {
+    "name": "Clinical Records",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: maintaining accurate care histories and handoffs within actual access and privacy obligations. Not: general institutional records, which is Administration. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Core Stabilization": {
+    "name": "Core Stabilization",
+    "attribute": "resolve",
+    "type": "profession",
+    "description": "Covers: performing a specifically learned Elyri stabilisation procedure with compatible support and real clinical competence. Not: operating the reservoir hardware, which is Reservoir Handling. Primary Attribute: Resolve.",
+    "startingItems": []
+  },
+  "Singing": {
+    "name": "Singing",
+    "attribute": "charisma",
+    "type": "profession",
+    "description": "Covers: performing a practiced vocal piece with the voice and range the character actually has, including breath, pitch, phrasing and stage presence. Not: playing an instrument, which is Musicianship. Primary Attribute: Charisma.",
+    "startingItems": []
+  },
+  "Dancing": {
+    "name": "Dancing",
+    "attribute": "agility",
+    "type": "profession",
+    "description": "Covers: performing practiced rhythmic movement within actual anatomy and mobility, including rhythm, partnering, floor patterns and stamina. Not: tumbling and balance feats, which is Acrobatics. Primary Attribute: Agility.",
+    "startingItems": []
+  },
+  "Acting": {
+    "name": "Acting",
+    "attribute": "charisma",
+    "type": "profession",
+    "description": "Covers: portraying a role through practiced expression and timing without conferring a false identity, including voice, movement, cues and improvisation. Not: lying to deceive off stage, which is Deception. Primary Attribute: Charisma.",
+    "startingItems": []
+  },
+  "Drawing": {
+    "name": "Drawing",
+    "attribute": "agility",
+    "type": "profession",
+    "description": "Covers: representing an observed or imagined subject through controlled drawn marks, including line, proportion, shading and quick studies. Not: pigment and surface work, which is Painting. Primary Attribute: Agility.",
+    "startingItems": []
+  },
+  "Painting": {
+    "name": "Painting",
+    "attribute": "agility",
+    "type": "profession",
+    "description": "Covers: building a visual work through practiced pigment or equivalent surface application, including colour mixing, layering, brushwork and finish. Not: line and mark work, which is Drawing. Primary Attribute: Agility.",
+    "startingItems": []
+  },
+  "Musicianship": {
+    "name": "Musicianship",
+    "attribute": "agility",
+    "type": "profession",
+    "description": "Covers: performing on an actually learned instrument without mastery of every instrument family, including technique, tuning, sight-reading and ensemble play. Not: writing the music, which is Composition. Primary Attribute: Agility.",
+    "startingItems": []
+  },
+  "Composition": {
+    "name": "Composition",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: developing a coherent musical work within learned forms and notation or recording methods, including melody, harmony, arrangement and structure. Not: performing it, which is Musicianship. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Sculpture": {
+    "name": "Sculpture",
+    "attribute": "agility",
+    "type": "profession",
+    "description": "Covers: shaping a visual form in a practiced material with suitable tools, including carving, modelling, casting and surface finish in stone, clay, metal or composite. Not: forming glass, which is Glassworking. Primary Attribute: Agility.",
+    "startingItems": []
+  },
+  "Writing": {
+    "name": "Writing",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: constructing coherent written expression in an actually learned language and genre, including reports, letters, fiction, lyrics and clear instructions. Not: rendering meaning between languages, which is Translation. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Photography": {
+    "name": "Photography",
+    "attribute": "awareness",
+    "type": "profession",
+    "description": "Covers: composing and capturing images with an available camera and observable light, including framing, exposure, focus and timing. Not: drawing the subject by hand, which is Drawing. Primary Attribute: Awareness.",
+    "startingItems": []
+  },
+  "Sound Design": {
+    "name": "Sound Design",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: constructing or modifying recorded sound through familiar production methods, including recording, mixing, effects and playback formats. Not: composing the music, which is Composition. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Fashion Design": {
+    "name": "Fashion Design",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: developing garment designs appropriate to actual materials, anatomy and intended use, including silhouette, pattern, fabric choice and fit trials. Not: cutting and fitting the garment, which is Tailoring. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Research": {
+    "name": "Research",
+    "attribute": "intellect",
+    "type": "utility",
+    "description": "Covers: evaluating a question through available sources and defensible methods, including finding, weighing and citing what the sources support. Not: examining an incident's physical clues, which is Investigation. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Investigation": {
+    "name": "Investigation",
+    "attribute": "awareness",
+    "type": "utility",
+    "description": "Covers: examining an incident's clues and contradictions without treating inference as proof, including scene examination, timelines and testing alibis. Not: questioning a witness, which is Interviewing. Primary Attribute: Awareness.",
+    "startingItems": []
+  },
+  "History": {
+    "name": "History",
+    "attribute": "intellect",
+    "type": "utility",
+    "description": "Covers: recalling and interpreting studied historical material without resolving protected mysteries, including events, institutions, precedents and their sources. Not: interpreting a jurisdiction's rules, which is Law. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Law": {
+    "name": "Law",
+    "attribute": "intellect",
+    "type": "utility",
+    "description": "Covers: interpreting rules of an actually studied jurisdiction without granting legal office, including statutes, procedure, rights and how a case is argued. Not: drafting the agreement itself, which is Contracting. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Ecology": {
+    "name": "Ecology",
+    "attribute": "intellect",
+    "type": "utility",
+    "description": "Covers: explaining observed relationships within known ecosystems without inventing species or habitats. Not: the workings of a specified organism, which is Biology. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Biology": {
+    "name": "Biology",
+    "attribute": "intellect",
+    "type": "utility",
+    "description": "Covers: applying learned knowledge of specified organisms without universal clinical qualification, including anatomy, physiology and species-specific needs. Not: ecosystem relationships, which is Ecology. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Chemistry": {
+    "name": "Chemistry",
+    "attribute": "intellect",
+    "type": "utility",
+    "description": "Covers: analysing familiar substances and processes with suitable tests and equipment, including reactions, purity, hazards and identification. Not: therapeutic substances in patients, which is Pharmacology. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Geology": {
+    "name": "Geology",
+    "attribute": "intellect",
+    "type": "utility",
+    "description": "Covers: interpreting accessible mineral and landform evidence without inventing deposits or map placement. Not: measuring positions and dimensions, which is Surveying. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Mathematics": {
+    "name": "Mathematics",
+    "attribute": "intellect",
+    "type": "utility",
+    "description": "Covers: modelling and solving problems within the character's learned mathematical methods, including calculation, estimation, geometry and probability. Not: interpreting a dataset's provenance, which is Data Analysis. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Translation": {
+    "name": "Translation",
+    "attribute": "intellect",
+    "type": "utility",
+    "description": "Covers: rendering meaning between actually learned languages while preserving ambiguity, including idiom, register, tone and technical vocabulary. Not: composing original text, which is Writing. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Archiving": {
+    "name": "Archiving",
+    "attribute": "intellect",
+    "type": "utility",
+    "description": "Covers: organising and retrieving accessible source material with its provenance intact, including cataloguing, indexing, storage and retrieval. Not: evaluating a question from sources, which is Research. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Appraisal": {
+    "name": "Appraisal",
+    "attribute": "awareness",
+    "type": "utility",
+    "description": "Covers: estimating an object's likely quality and value from supported evidence and market familiarity, including authenticity, condition, maker marks and demand. Not: negotiating the price, which is Bargaining. Primary Attribute: Awareness.",
+    "startingItems": []
+  },
+  "Administration": {
+    "name": "Administration",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: organising schedules, procedures and paperwork within actual institutional authority, including rosters, filing, permits and meeting records. Not: reconciling money, which is Accounting. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Accounting": {
+    "name": "Accounting",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: reconciling financial records and obligations against available evidence, including ledgers, invoices, wages and reconciliations. Not: arranging purchases, which is Procurement. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Logistics": {
+    "name": "Logistics",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: planning the movement of real supplies and people through available services, including routes, carriers, timing and storage. Not: planning what to pack for a journey, which is Provisioning. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Procurement": {
+    "name": "Procurement",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: arranging suitable purchases or requisitions within an actual budget and mandate, including specifications, quotes, suppliers and delivery terms. Not: haggling the price face to face, which is Bargaining. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Merchandising": {
+    "name": "Merchandising",
+    "attribute": "awareness",
+    "type": "profession",
+    "description": "Covers: arranging stock and presentation around observed demand without guaranteeing sales, including displays, price tags, stock rotation and promotion. Not: judging an object's value, which is Appraisal. Primary Attribute: Awareness.",
+    "startingItems": []
+  },
+  "Event Planning": {
+    "name": "Event Planning",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: coordinating a gathering's real space, service and timing requirements, including venues, catering, schedules and contingencies. Not: receiving the guests on the day, which is Hospitality. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Dispatch": {
+    "name": "Dispatch",
+    "attribute": "presence",
+    "type": "utility",
+    "description": "Covers: issuing clear operational assignments through an actual communication and authority structure. Not: transmitting messages by a signal system, which is Signaling. Primary Attribute: Presence.",
+    "startingItems": []
+  },
+  "Contracting": {
+    "name": "Contracting",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: drafting and reconciling an agreement's obligations within actual legal knowledge without compelling acceptance. Not: interpreting the law itself, which is Law. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Driving": {
+    "name": "Driving",
+    "attribute": "agility",
+    "type": "utility",
+    "description": "Covers: controlling a learned class of ground vehicle in traffic, terrain and weather without granting ownership or access. Not: atmospheric aircraft, which is Piloting. Primary Attribute: Agility.",
+    "startingItems": []
+  },
+  "Piloting": {
+    "name": "Piloting",
+    "attribute": "agility",
+    "type": "utility",
+    "description": "Covers: controlling a learned class of atmospheric aircraft within its actual performance envelope, including takeoff, navigation aids, weather and landing. Not: spacecraft, which is Spaceflight. Primary Attribute: Agility.",
+    "startingItems": []
+  },
+  "Boating": {
+    "name": "Boating",
+    "attribute": "agility",
+    "type": "utility",
+    "description": "Covers: controlling a learned class of watercraft using actual conditions and equipment, including handling, mooring, currents and load. Not: moving the body through water, which is Swimming. Primary Attribute: Agility.",
+    "startingItems": []
+  },
+  "Spaceflight": {
+    "name": "Spaceflight",
+    "attribute": "agility",
+    "type": "utility",
+    "description": "Covers: operating a learned spacecraft class where a supported scenario supplies the vessel and setting, including docking, manoeuvres and system checks. Not: atmospheric aircraft, which is Piloting. Primary Attribute: Agility.",
+    "startingItems": []
+  },
+  "Rigging": {
+    "name": "Rigging",
+    "attribute": "intellect",
+    "type": "utility",
+    "description": "Covers: securing and balancing a load through appropriate attachment arrangements, knots and anchors. Not: the physical moving of cargo, which is Freight Handling. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Freight Handling": {
+    "name": "Freight Handling",
+    "attribute": "strength",
+    "type": "utility",
+    "description": "Covers: moving and transferring cargo within actual bodily and equipment capacity, including loading, stacking, transfer and safe lifts. Not: securing and balancing it, which is Rigging. Primary Attribute: Strength.",
+    "startingItems": []
+  },
+  "Provisioning": {
+    "name": "Provisioning",
+    "attribute": "intellect",
+    "type": "utility",
+    "description": "Covers: planning compatible travel supplies against actual needs, duration and uncertainty, including food, water, fuel, spares and rationing. Not: moving the supplies, which is Logistics. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Signaling": {
+    "name": "Signaling",
+    "attribute": "presence",
+    "type": "utility",
+    "description": "Covers: transmitting clear practical messages through an available learned signal system, including lights, flags, codes and relay protocols. Not: issuing operational orders, which is Dispatch. Primary Attribute: Presence.",
+    "startingItems": []
+  },
+  "Surveying": {
+    "name": "Surveying",
+    "attribute": "intellect",
+    "type": "profession",
+    "description": "Covers: measuring positions and dimensions with available instruments without authoring new canon geography. Not: recording terrain conditions, which is Field Survey. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Route Coordination": {
+    "name": "Route Coordination",
+    "attribute": "intellect",
+    "type": "utility",
+    "description": "Covers: arranging multiple travel legs and handoffs using known transport availability, including timetables, connections, bookings and delays. Not: finding the way once travelling, which is Navigation. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Striking": {
+    "name": "Striking",
+    "attribute": "strength",
+    "type": "combat",
+    "description": "Covers: trained unarmed blows: punches, kicks, elbows and knees with controlled force within actual biology, including guard, footwork and target selection. Not: holds and leverage, which is Grappling. Primary Attribute: Strength.",
+    "startingItems": []
+  },
+  "Grappling": {
+    "name": "Grappling",
+    "attribute": "strength",
+    "type": "combat",
+    "description": "Covers: controlling an opponent through holds, throws and leverage subject to their actual resistance, including takedowns, pins, joint control and escapes from holds. Not: blows, which is Striking. Primary Attribute: Strength.",
+    "startingItems": []
+  },
+  "Swordsmanship": {
+    "name": "Swordsmanship",
+    "attribute": "agility",
+    "type": "combat",
+    "description": "Covers: an actually trained sword class through its supported offensive and defensive movements, including Wayline and Veltrax styles once learned. Not: short blades, which is Knife Fighting. Primary Attribute: Agility.",
+    "startingItems": []
+  },
+  "Staff Fighting": {
+    "name": "Staff Fighting",
+    "attribute": "agility",
+    "type": "combat",
+    "description": "Covers: an actually trained staff or pole weapon within its reach and mechanics, including strikes, sweeps, blocks and thrusts at reach. Not: hammers, batons and other impact weapons, which is Blunt Weapons. Primary Attribute: Agility.",
+    "startingItems": []
+  },
+  "Blunt Weapons": {
+    "name": "Blunt Weapons",
+    "attribute": "strength",
+    "type": "combat",
+    "description": "Covers: a trained impact-weapon class such as hammers, batons and mallets, without ignoring armour or material limits. Not: pole weapons, which is Staff Fighting. Primary Attribute: Strength.",
+    "startingItems": []
+  },
+  "Knife Fighting": {
+    "name": "Knife Fighting",
+    "attribute": "agility",
+    "type": "combat",
+    "description": "Covers: a trained short-blade class within its actual reach and risks, including grip, guard, close-quarters cuts and thrusts, and retention under pressure. Not: throwing the blade, which is Throwing. Primary Attribute: Agility.",
+    "startingItems": []
+  },
+  "Firearms": {
+    "name": "Firearms",
+    "attribute": "agility",
+    "type": "combat",
+    "description": "Covers: aiming and operating an actually learned firearm class with real ammunition and handling limits, including stance, aim, reload and malfunction handling. Not: bows and tension-launchers, which is Archery. Primary Attribute: Agility.",
+    "startingItems": []
+  },
+  "Throwing": {
+    "name": "Throwing",
+    "attribute": "agility",
+    "type": "combat",
+    "description": "Covers: placing a thrown object along a physically plausible trajectory within actual capacity, including knives, weighted tools and improvised objects. Not: launching from a bow, which is Archery. Primary Attribute: Agility.",
+    "startingItems": []
+  },
+  "Archery": {
+    "name": "Archery",
+    "attribute": "agility",
+    "type": "combat",
+    "description": "Covers: operating a trained bow or analogous tension-launcher where the story supplies one, including draw, anchor, release and arrow selection. Not: firearms, which is Firearms. Primary Attribute: Agility.",
+    "startingItems": []
+  },
+  "Assisted Gloves": {
+    "name": "Assisted Gloves",
+    "attribute": "agility",
+    "type": "combat",
+    "description": "Covers: timing and controlling the actual assistance of equipped gloves within their response and energy limits, including activation timing, force scaling and charge management. Not: unaided blows, which is Striking. Primary Attribute: Agility.",
+    "startingItems": []
+  },
+  "Blocking": {
+    "name": "Blocking",
+    "attribute": "strength",
+    "type": "combat",
+    "description": "Covers: meeting or redirecting a threat with a suitable body position or real protective object, including guards, parries, shields and improvised cover. Not: moving out of its path, which is Dodging. Primary Attribute: Strength.",
+    "startingItems": []
+  },
+  "Escorting": {
+    "name": "Escorting",
+    "attribute": "awareness",
+    "type": "combat",
+    "description": "Covers: positioning with another person to manage their exposure to observed threats, cover and exits. Not: coordinating a group's agreed actions, which is Command. Primary Attribute: Awareness.",
+    "startingItems": []
+  },
+  "Tactics": {
+    "name": "Tactics",
+    "attribute": "intellect",
+    "type": "combat",
+    "description": "Covers: evaluating immediate conflict options using available information and actual participant capabilities, including positioning, timing, cover and when to disengage. Not: issuing the orders, which is Command. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Command": {
+    "name": "Command",
+    "attribute": "presence",
+    "type": "combat",
+    "description": "Covers: coordinating an actual group's agreed tactical actions without guaranteeing compliance, including orders, signals, formation and regrouping. Not: inspiring people to join, which is Leadership. Primary Attribute: Presence.",
+    "startingItems": []
+  },
+  "Restraint Escape": {
+    "name": "Restraint Escape",
+    "attribute": "agility",
+    "type": "combat",
+    "description": "Covers: working free of a supported physical restraint within actual anatomy and material limits, including cuffs, bindings, holds and confined spaces. Not: hiding objects on the body, which is Sleight of Hand. Primary Attribute: Agility.",
+    "startingItems": []
+  },
+  "Starian Flight": {
+    "name": "Starian Flight",
+    "attribute": "agility",
+    "type": "utility",
+    "description": "Covers: refining a Starian's innate aerial movement, such as speed, turns, landings and load, without unlocking or removing baseline flight. Not: ground acrobatics, which is Acrobatics. Primary Attribute: Agility.",
+    "startingItems": []
+  },
+  "Affinity Control": {
+    "name": "Affinity Control",
+    "attribute": "resolve",
+    "type": "magic",
+    "description": "Covers: refining the character's one established personal affinity expression without acquiring unrelated affinities. Not: learned external workings, which is Channeling. Primary Attribute: Resolve.",
+    "startingItems": []
+  },
+  "Listening": {
+    "name": "Listening",
+    "attribute": "awareness",
+    "type": "utility",
+    "description": "Covers: directing attention to audible information within the body's actual hearing and noise limits, including voices through walls, footsteps and machinery notes. Not: scent, which is Scenting. Primary Attribute: Awareness.",
+    "startingItems": []
+  },
+  "Scenting": {
+    "name": "Scenting",
+    "attribute": "awareness",
+    "type": "utility",
+    "description": "Covers: differentiating accessible scent information within the body's actual olfactory capability, including tracks, smoke, chemicals and individual signatures. Not: sound, which is Listening. Primary Attribute: Awareness.",
+    "startingItems": []
+  },
+  "Fine Handling": {
+    "name": "Fine Handling",
+    "attribute": "agility",
+    "type": "utility",
+    "description": "Covers: coordinating delicate visible manual work without replacing a trade's specialised knowledge, including small parts, threads, seals and delicate instruments. Not: concealed manipulation, which is Sleight of Hand. Primary Attribute: Agility.",
+    "startingItems": []
+  },
+  "Reshaping": {
+    "name": "Reshaping",
+    "attribute": "resolve",
+    "type": "magic",
+    "description": "Covers: controlling an Olyth's bounded compression and shape within mass, core-pattern and fatigue limits, including compression, extension and sustained holds. Not: Elyri embodied practice, which is Embodiment. Primary Attribute: Resolve.",
+    "startingItems": []
+  },
+  "Embodiment": {
+    "name": "Embodiment",
+    "attribute": "resolve",
+    "type": "magic",
+    "description": "Covers: controlling an Elyri's specifically established embodied practices within their own core and field limits. Not: learned traditional magic, which is Channeling. Primary Attribute: Resolve.",
+    "startingItems": []
+  },
+  "Field Perception": {
+    "name": "Field Perception",
+    "attribute": "awareness",
+    "type": "magic",
+    "description": "Covers: sensing and comparing ambient magical conditions through actual sustained training, including density, disturbance and residue of workings. Not: a learned detection working, which is Arcane Detection. Primary Attribute: Awareness.",
+    "startingItems": []
+  },
+  "Channeling": {
+    "name": "Channeling",
+    "attribute": "resolve",
+    "type": "magic",
+    "description": "Covers: shaping an already learned external working while paying its real Vitality cost, including its shape, duration, intensity and safe release. Not: preparing a working in a medium, which is Inscription. Primary Attribute: Resolve.",
+    "startingItems": []
+  },
+  "Inscription": {
+    "name": "Inscription",
+    "attribute": "intellect",
+    "type": "magic",
+    "description": "Covers: preparing a known working in compatible media while paying the making cost, including media choice, marking, stabilising and decay planning. Not: activating a prepared working, which is Invocation. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Invocation": {
+    "name": "Invocation",
+    "attribute": "intellect",
+    "type": "magic",
+    "description": "Covers: recognising and activating a compatible prepared working without gaining its construction knowledge, including reading its marks, triggering it and judging remaining use. Not: making the working, which is Inscription. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Arcane Inspection": {
+    "name": "Arcane Inspection",
+    "attribute": "awareness",
+    "type": "magic",
+    "description": "Covers: recognising observable decay or disruption in a working within learned competence, including fading marks, disruption and remaining life. Not: renewing it, which is Arcane Upkeep. Primary Attribute: Awareness.",
+    "startingItems": []
+  },
+  "Arcane Upkeep": {
+    "name": "Arcane Upkeep",
+    "attribute": "intellect",
+    "type": "magic",
+    "description": "Covers: renewing an already learned working using its actual materials and Vitality requirements, including renewal timing, media replacement and stabilising. Not: judging its condition, which is Arcane Inspection. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Lightcraft": {
+    "name": "Lightcraft",
+    "attribute": "resolve",
+    "type": "magic",
+    "description": "Covers: controlling learned external illumination or signal workings without acquiring them from the skill label. Not: heat and cold workings, which is Thermal Magic. Primary Attribute: Resolve.",
+    "startingItems": []
+  },
+  "Thermal Magic": {
+    "name": "Thermal Magic",
+    "attribute": "resolve",
+    "type": "magic",
+    "description": "Covers: controlling learned thermal workings within actual field, material and Vitality limits, including heating, cooling, containment and safe release. Not: directed force, which is Forcecraft. Primary Attribute: Resolve.",
+    "startingItems": []
+  },
+  "Forcecraft": {
+    "name": "Forcecraft",
+    "attribute": "resolve",
+    "type": "magic",
+    "description": "Covers: controlling learned directed-force workings without overriding their actual target and load limits, including push, hold, deflect and controlled release. Not: protective workings, which is Warding. Primary Attribute: Resolve.",
+    "startingItems": []
+  },
+  "Warding": {
+    "name": "Warding",
+    "attribute": "resolve",
+    "type": "magic",
+    "description": "Covers: controlling a learned protective working without granting universal protection, including scope, duration, placement and renewal of the ward. Not: containment of a target, which is Binding. Primary Attribute: Resolve.",
+    "startingItems": []
+  },
+  "Binding": {
+    "name": "Binding",
+    "attribute": "resolve",
+    "type": "magic",
+    "description": "Covers: controlling a learned containment working subject to its target, escape and preparation limits, including anchoring, holding, tightening and safe release. Not: protective barriers, which is Warding. Primary Attribute: Resolve.",
+    "startingItems": []
+  },
+  "Arcane Detection": {
+    "name": "Arcane Detection",
+    "attribute": "awareness",
+    "type": "magic",
+    "description": "Covers: using a learned detection working within its actual sensing scope, including range, sensitivity and what the working can and cannot reveal. Not: untrained ambient sensing, which is Field Perception. Primary Attribute: Awareness.",
+    "startingItems": []
+  },
+  "Arcane Preservation": {
+    "name": "Arcane Preservation",
+    "attribute": "intellect",
+    "type": "magic",
+    "description": "Covers: applying a learned preservation working to compatible materials without granting indefinite storage. Not: non-magical storage methods, which is Food Preservation. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Arcane Healing": {
+    "name": "Arcane Healing",
+    "attribute": "intellect",
+    "type": "magic",
+    "description": "Covers: performing a learned healing working within species knowledge and actual medical limits without reversing death. Not: physical first response, which is First Aid. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Route Marking": {
+    "name": "Route Marking",
+    "attribute": "intellect",
+    "type": "magic",
+    "description": "Covers: applying a learned magical route mark or movement aid without creating transport access or unknown geography. Not: finding the route, which is Navigation. Primary Attribute: Intellect.",
+    "startingItems": []
+  },
+  "Sealcraft": {
+    "name": "Sealcraft",
+    "attribute": "intellect",
+    "type": "magic",
+    "description": "Covers: constructing or servicing a learned authentication working without granting access or infallibility, including marks, verification, renewal and tamper signs. Not: protective wards, which is Warding. Primary Attribute: Intellect.",
+    "startingItems": []
+  }
+}

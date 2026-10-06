@@ -1,0 +1,91 @@
+{
+  "startingCharacterLevelUpRequirement": 600,
+  "extraRequiredXPPerCharacterLevel": 100,
+  "maxCharacterLevel": 100,
+  "abilityPointEveryLevels": 2,
+  "abilityPointsPerGrant": 1,
+  "attributePointEveryLevels": 4,
+  "attributePointsPerGrant": 2,
+  "maxAttributeValue": 30,
+  "traitPickEveryLevels": 5,
+  "traitPicksPerGrant": 1,
+  "locationDiscoveryXP": 10,
+  "levelUpTraitPool": [
+    "Adaptive Engagement",
+    "Affinity Refinement",
+    "Archival Competence",
+    "Authority Projection",
+    "Battlefield Composure",
+    "Channeling Endurance",
+    "Crisis Decision",
+    "Defensive Reading",
+    "Diplomatic Bearing",
+    "Emergency Treatment",
+    "Endurance Conditioning",
+    "Field Awareness",
+    "Group Combat Awareness",
+    "House Fluency",
+    "Investigative Method",
+    "Mentorship Practice",
+    "Network Cultivation",
+    "Nonlethal Control",
+    "Operational Awareness",
+    "Pain Tolerance",
+    "Professional Standard",
+    "Quick Recovery Protocol",
+    "Resource Efficiency",
+    "Restraint Under Provocation",
+    "Social Perception",
+    "Strike Discipline",
+    "Targeted Precision",
+    "Technical Aptitude",
+    "Urban Orientation",
+    "Working Discipline"
+  ],
+  "milestoneTitles": [
+    {
+      "levelGranted": 1,
+      "title": "Unnamed"
+    },
+    {
+      "levelGranted": 10,
+      "title": "Known Face"
+    },
+    {
+      "levelGranted": 20,
+      "title": "Established"
+    },
+    {
+      "levelGranted": 30,
+      "title": "Recognized"
+    },
+    {
+      "levelGranted": 40,
+      "title": "Respected"
+    },
+    {
+      "levelGranted": 50,
+      "title": "Notable"
+    },
+    {
+      "levelGranted": 60,
+      "title": "Authority"
+    },
+    {
+      "levelGranted": 70,
+      "title": "Prominent"
+    },
+    {
+      "levelGranted": 80,
+      "title": "Distinguished"
+    },
+    {
+      "levelGranted": 90,
+      "title": "Eminent"
+    },
+    {
+      "levelGranted": 100,
+      "title": "Sovereign"
+    }
+  ]
+}

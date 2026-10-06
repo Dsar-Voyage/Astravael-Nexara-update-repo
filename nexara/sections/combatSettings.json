@@ -1,0 +1,75 @@
+{
+  "minCombatXP": 1,
+  "baseCombatXP": 100,
+  "abilityCooldown": 20,
+  "abilityBonus": 10,
+  "npcDailyHealingAmount": 999,
+  "damageTypes": [
+    "piercing",
+    "slashing",
+    "bludgeoning",
+    "poisoning",
+    "fire",
+    "lightning",
+    "wind",
+    "water",
+    "arcane",
+    "light",
+    "dark",
+    "psychic",
+    "plasma",
+    "energy",
+    "ballistic",
+    "heavy-ballistic"
+  ],
+  "damageTypePresentation": {
+    "piercing": {
+      "emoji": "🗡️"
+    },
+    "slashing": {
+      "emoji": "⚔️"
+    },
+    "bludgeoning": {
+      "emoji": "🔨"
+    },
+    "poisoning": {
+      "emoji": "☠️"
+    },
+    "fire": {
+      "emoji": "🔥"
+    },
+    "lightning": {
+      "emoji": "⚡"
+    },
+    "wind": {
+      "emoji": "🌪️"
+    },
+    "water": {
+      "emoji": "🌊"
+    },
+    "arcane": {
+      "emoji": "✨"
+    },
+    "light": {
+      "emoji": "☀️"
+    },
+    "dark": {
+      "emoji": "🌑"
+    },
+    "psychic": {
+      "emoji": "🧠"
+    },
+    "plasma": {
+      "emoji": "☄️"
+    },
+    "energy": {
+      "emoji": "🔆"
+    },
+    "ballistic": {
+      "emoji": "🔫"
+    },
+    "heavy-ballistic": {
+      "emoji": "💥"
+    }
+  }
+}

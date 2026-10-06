@@ -1,0 +1,53 @@
+{
+  "health": {
+    "name": "health",
+    "initialValue": 100,
+    "maxValue": 100,
+    "rechargeRate": 0,
+    "restRechargeMultiplier": 0.25,
+    "color": "#ef4444",
+    "gainPerLevel": 4,
+    "isHealth": true,
+    "usageInstructions": "### Health\nInjury capacity. Base 100 plus species: Starian +125, Human +20, Kharai +20, Rivani +10, Olyth +30, Zencadian +0, Elyri +40; Chorus keeps its host's.\n### Deduct only for a resolved injury\n- Minor wound: 5-15% of maximum\n- Serious wound: 15-35% of maximum (a clean plasma, energy or heavy-caliber hit to an unarmored body)\n- Near-fatal: down to 1-10% of maximum\n### Do not deduct when\n- An existing wound or pain is described again\n- The character is unconscious, carried or stabilized\n- Growth raises the maximum (no refill)\n### Recovery\nNo per-turn regeneration; a full rest restores a quarter of the maximum, and treatment, doctors and suitable healing magic add to that through actual care. Nothing reverses confirmed death. Growth per level: Starian 9, Human/Kharai 5, Rivani/Zencadian 4, Olyth 6, Elyri 7, plus the engine's five-level milestone.\n### Thresholds\nDefeat allows withdrawal, surrender, rescue or capture; arena defeat is nonlethal; never narrate death then call it hospitalization."
+  },
+  "stamina": {
+    "name": "stamina",
+    "initialValue": 150,
+    "maxValue": 150,
+    "rechargeRate": 5,
+    "restRechargeMultiplier": 1,
+    "color": "#22c55e",
+    "gainPerLevel": 0,
+    "usageInstructions": "### Stamina\nResolved bodily exertion. Maximum is the bar's base plus 5 per Endurance point above 10; no level growth. Walking, commuting flight, talk and ordinary work cost 0.\n### Cost (charge once)\n- Brief meaningful exertion: 3\n- Demanding maneuver or technique: 6\n- Heavy exertion or difficult rescue: 12\n- Extreme burst near current limits: 20\nA leap, strike and landing is one charge; sustained work follows real duration, not sentence count.\n### Do not deduct when\n- A power is mentioned, observed or intended, not performed\n- The effort is already on another bar; affinity has no fuel pool\n- Rest is redeclared without elapsed time\n### Recovery\nStamina returns 5 per turn of ordinary activity and fully on rest; do not narrate exhaustion that the bar no longer shows. A safe breather restores about a quarter.\n### Thresholds\nLow Stamina limits feasible effort; recovery heals no injury."
+  },
+  "Vitality": {
+    "name": "Vitality",
+    "initialValue": 50,
+    "maxValue": 50,
+    "rechargeRate": 1,
+    "restRechargeMultiplier": 0.5,
+    "color": "#8b5cf6",
+    "gainPerLevel": 0,
+    "usageInstructions": "### Vitality\nReserve of a trained traditional-magic practitioner, not permission to cast. Maximum is the bar's base plus 5 per Resolve point above 10; no level growth. Unspent without a learned discipline; any biological species can learn.\n### Cost (charge once)\n- Light: 5\n- Demanding: 10\n- Heavy: 20\n- Exceptional: as accepted\nInscription pays at making; invocation does not repay that debt.\n### Do not deduct when\n- Magic is mentioned, observed or discussed\n- Starian affinity or Elyri embodiment is used (never Vitality)\n### Recovery\nVitality returns 1 per turn and half of the maximum on a full rest; heavy debt still takes days of rest and no working repays it early. Overdraft injury needs care.\n### Thresholds\nNear 25 % warn of further heavy use. At 0 safe use stops. Overdraft brings supported strain, injury or death; no free casting, universal backlash or invented penalty."
+  },
+  "Core Stability": {
+    "name": "Core Stability",
+    "initialValue": 100,
+    "maxValue": 100,
+    "rechargeRate": 2,
+    "restRechargeMultiplier": 1,
+    "color": "#38bdf8",
+    "gainPerLevel": 0,
+    "usageInstructions": "### Core Stability\nAn Elyri's embodied stability. 100 maximum, no level growth; control makes work safer, not the pool bigger. Only Elyri embodiment spends it; learned magic uses Vitality.\n### Cost (charge once)\n- Light: 5\n- Demanding: 10\n- Heavy: 20\n- Exceptional: as supported\nEqual cost is not equal output.\n### Do not deduct when\n- Stable existence or ordinary dialogue\n- Already charged to another bar\n### Recovery\nOn Nexara an Elyri's stability returns 2 per turn of ordinary existence and fully on rest; off Nexara it depends on the actual support in use. Any affinity Starian can recharge an Elyri, tiring until rest; Elyri can share packs.\n### Thresholds\nNear 25 % warn; at 0 safe use stops. Overdraft: dimmed eyes, flickering channels, weakness, lost fine control, transparency, leakage or fracture; no universal backlash. Distinct from Reservoir Charge; no numeric dormancy threshold."
+  },
+  "Reservoir Charge": {
+    "name": "Reservoir Charge",
+    "initialValue": 100,
+    "maxValue": 100,
+    "rechargeRate": 0,
+    "restRechargeMultiplier": 0,
+    "color": "#f59e0b",
+    "gainPerLevel": 0,
+    "usageInstructions": "### Reservoir Charge\nPercentage of the equipped external support device's capacity; 100 is that device full, not a universal quantity. Without a real reservoir the bar is irrelevant.\n### Drain when\n- Actual support use and elapsed time under that device's specification; devices differ at the same percentage\n### Do not deduct when\n- A turn passes (no per-turn tax or one-day capacity)\n- Portrait or trait text changes (no refill either)\n- A trip is merely booked; custody decides pack use\n### Recovery\nOnly a recharge, sharing or replacement restores it, recorded once. Nexara and Aethrys sustain Elyri; Terra, Xeon and Chorus planets need external support.\n### Thresholds\nZero is not automatically dormancy or death. At true critical depletion an Elyri goes immobile and emits a distress signal; unrecharged, it dies one year after dormancy (never converted to turns). Recharge repairs no core."
+  }
+}

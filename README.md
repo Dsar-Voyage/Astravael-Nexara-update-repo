@@ -30,6 +30,32 @@ Full provenance, byte counts and SHA-256 hashes are in [`nexara/MANIFEST.json`](
 | `nexara/Astravael_Nexara.studio.json` | `initialGameState` only: the V36 world JSON exactly as the Studio editor presents a world. Use this for a paste-import into Studio. | [raw](https://raw.githubusercontent.com/Dsar-Voyage/Astravael-Nexara-update-repo/ccr-33d24ab8-74agcd/nexara/Astravael_Nexara.studio.json) |
 | `nexara/MANIFEST.json` | Release metadata, source commit and SHA-256 hashes. | [raw](https://raw.githubusercontent.com/Dsar-Voyage/Astravael-Nexara-update-repo/ccr-33d24ab8-74agcd/nexara/MANIFEST.json) |
 
+## Per-section files (copy and paste)
+
+The world is also split into **one file per section** under
+[`nexara/sections/`](nexara/sections/). Each file holds exactly the value of that
+section, so you can open it, copy everything, and paste it into the matching section of
+the Studio editor without touching the rest of your save.
+
+- [`nexara/SECTIONS.md`](nexara/SECTIONS.md) — every section with its category, size,
+  and whether it changed in the last update or since the previous release. **Only paste
+  `content` and `settings` sections. Never paste `state` or `meta` sections**, those are
+  your save's own runtime data.
+- [`nexara/CHANGES.md`](nexara/CHANGES.md) — release notes naming the sections each
+  release changed, why, and the minimum set of files to paste.
+- `nexara/releases/*.hashes.json` — per-section SHA-256 for each release, so a future
+  release can list exactly what changed.
+
+Sections updated in the current release (2026-10-05b): `abilities`,
+`progressionSettings`, `worldLore`, `quests`, `questTriggers`, `triggers`, `locations`,
+`factions`, `aiInstructions`, `gameplayMusicSettings`.
+
+Raw URL pattern for a single section:
+
+```
+https://raw.githubusercontent.com/Dsar-Voyage/Astravael-Nexara-update-repo/ccr-33d24ab8-74agcd/nexara/sections/<section>.json
+```
+
 ## Test procedure: pull the update into a private save
 
 1. Open the save (or the private copy of the world) in Voyage Studio.
@@ -53,9 +79,19 @@ sha256sum Astravael_Nexara.json
 
 ## Updating this repository
 
-Each new production release replaces the two JSON files and `MANIFEST.json` in one
-commit. The manifest records the private source commit so every public release can be
-traced back to the exact state that was published to Voyage.
+1. Copy the new production `Astravael_Nexara.json` over `nexara/Astravael_Nexara.json`.
+2. Run the build script with the new label and the previous release's hash file:
+
+   ```sh
+   python3 tools/build_release.py --label <YYYY-MM-DD> \
+       --previous nexara/releases/<previous-label>.hashes.json \
+       --previous-doc /path/to/previous/Astravael_Nexara.json
+   ```
+
+   It rewrites the Studio variant, every `sections/*.json`, `SECTIONS.md` and the new
+   `releases/<label>.hashes.json`, and prints which sections and entries changed.
+3. Add a release entry to `nexara/CHANGES.md` and update `nexara/MANIFEST.json`.
+4. Commit everything in one commit.
 
 ## Notes
 

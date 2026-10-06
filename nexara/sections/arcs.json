@@ -1,0 +1,14 @@
+{
+  "nexara_dust_on_the_route": {
+    "id": "nexara_dust_on_the_route",
+    "title": "Dust On The Route",
+    "theme": "Supply, independence, custody and competing needs in Dustfall",
+    "surfacePremise": "a Corsair shipment carrying Contair equipment intended for Grit and Supply has failed to arrive",
+    "expectedConclusion": "The cargo is recovered, divided, traded, exposed or damaged according to actual evidence and player choices; competing civilian needs and the real aftermath remain.",
+    "minQuestsForConclusion": 1,
+    "status": "dormant",
+    "secrets": [],
+    "escalationLevel": 0,
+    "creationTick": -1
+  }
+}

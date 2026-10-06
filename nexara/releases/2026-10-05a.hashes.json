@@ -1,0 +1,332 @@
+{
+  "label": "2026-10-05a",
+  "worldShortId": "W1KX_CXxd4JS",
+  "creatorApiRevision": "wbwaTvZgEk5ZuORTMkkO3-8hqdV7UWXnrzYACc_ky6g",
+  "sections": {
+    "heroesVersion": {
+      "sha256": "a4b2c5db15348c29451e18b8307e5ef81625ea638e807935f39ceaa8d9ac7758",
+      "bytes": 3,
+      "entries": 1
+    },
+    "gameConfig": {
+      "sha256": "57d5aa53f95ac0ae3a98e8d5b3d0a1b5cb5dd4413cfe009f69befad50cc07214",
+      "bytes": 884,
+      "entries": 21
+    },
+    "mods": {
+      "sha256": "7c710786c76b6aa1dc44e1d32d9f7a94541e38a43af6e0f1e2e239ca8e6350d2",
+      "bytes": 60,
+      "entries": 1
+    },
+    "engineState": {
+      "sha256": "4d86d6f99251cdbabe683c39cf0fc083b2d33c6ffa093fe19fa2935b7f4ffddc",
+      "bytes": 119,
+      "entries": 6
+    },
+    "uiState": {
+      "sha256": "8b525e708e837c5dd5059f4813f163715ecbd82301296be805e3388be3d7574f",
+      "bytes": 5834,
+      "entries": 2
+    },
+    "itemTypes": {
+      "sha256": "a6c1e5944539041e5c5476edb0d6504534554f2f68ef44c22ebccd0099a079b3",
+      "bytes": 256526,
+      "entries": 343
+    },
+    "realms": {
+      "sha256": "e70333b37a362fcc1300e507fc6c242355bd227dd31eb20d9d81131849543614",
+      "bytes": 8242,
+      "entries": 1
+    },
+    "regions": {
+      "sha256": "050e890f38a680c95142555a2b03675774173f49d9f462b39846ca0788fc8920",
+      "bytes": 586238,
+      "entries": 400
+    },
+    "locations": {
+      "sha256": "a199d2dd00dd6fac73f49dac1a40e711c05979a45e939081b28c2e94a565c577",
+      "bytes": 2424140,
+      "entries": 164
+    },
+    "factions": {
+      "sha256": "394a3f7fc0794679af99fe4d5ec01d5ab87bd44b9472097570752089931fedf8",
+      "bytes": 97618,
+      "entries": 36
+    },
+    "npcs": {
+      "sha256": "563ed0b0e09212fc2d9bf12146888efc4ba09467cd68286907c61e0148f27600",
+      "bytes": 2077162,
+      "entries": 379
+    },
+    "characters": {
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "bytes": 3,
+      "entries": 0
+    },
+    "npcTypes": {
+      "sha256": "6dd7d82e1969e21476c0697a102a4a3db047dbf0ca883a5d5dda31fae3554262",
+      "bytes": 219701,
+      "entries": 61
+    },
+    "partyState": {
+      "sha256": "b44bf102c94cb8844c61bf3d1d7f686a1d40b44bb1b930811870d3a38ef47d4b",
+      "bytes": 451,
+      "entries": 18
+    },
+    "triggers": {
+      "sha256": "678e3797c4f90234c2b28c52588154a0bd5af9649f7d598ace02a730c5c0d919",
+      "bytes": 2244727,
+      "entries": 2030
+    },
+    "worldLore": {
+      "sha256": "424c59a7d20d7037961ed92da2d8b0e09693f499090b0e1415c8b9c9153ff9e5",
+      "bytes": 911209,
+      "entries": 629
+    },
+    "memoryBank": {
+      "sha256": "6a25cb145dfef2bd5000bd43d3aee51bc3c80a0f98452036bb9a226c4082e8fa",
+      "bytes": 21,
+      "entries": 1
+    },
+    "summaryState": {
+      "sha256": "e0e8e816e827fa63c4c5c77dc8e2b28c943fba79085fec2f70891d32990f190f",
+      "bytes": 110,
+      "entries": 2
+    },
+    "embeddings": {
+      "sha256": "c39ddc209a83bf0e7c5f5c961dff22257f679accfe1042d86557939ea45c93df",
+      "bytes": 36057,
+      "entries": 2003
+    },
+    "triggerWritable": {
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "bytes": 3,
+      "entries": 0
+    },
+    "gameSettings": {
+      "sha256": "c41ff0c760475b518f6b94964896422670f39220257e13c54fea52f99d141028",
+      "bytes": 127,
+      "entries": 5
+    },
+    "systemResults": {
+      "sha256": "57d72a0073ba7909a6d709a2fcff5f9d833c8f950a597398d0907dd58f95df45",
+      "bytes": 127,
+      "entries": 8
+    },
+    "turnData": {
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3,
+      "entries": 0
+    },
+    "quests": {
+      "sha256": "9e8b901a66ac92c0dc5d39a6f0f1c222ea09c7536b053a3ee17dfc6a90b8a6be",
+      "bytes": 99527,
+      "entries": 58
+    },
+    "questTriggers": {
+      "sha256": "7978850781492e9e88ee9f81738099dce36aad43f24805dcff65e5dab50521c1",
+      "bytes": 35443,
+      "entries": 57
+    },
+    "arcs": {
+      "sha256": "73907fc83e8ce50842507dbd6877fde82d8b26605683690b507141fd1dfe0310",
+      "bytes": 631,
+      "entries": 1
+    },
+    "narrativeEvents": {
+      "sha256": "26c8c9eda673da0217f78d1661d8aaec6695ddc853ddff44ca228aca3ae6e83a",
+      "bytes": 70790,
+      "entries": 36
+    },
+    "chatLog": {
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3,
+      "entries": 0
+    },
+    "skillSettings": {
+      "sha256": "b187d96c4500114b8e502568619752e7ec4ac7d1c70a772911225e805697ee3a",
+      "bytes": 606,
+      "entries": 14
+    },
+    "attributeSettings": {
+      "sha256": "9dbd5a7eb7d852e0f3d2c25950f622683c50bf21221ebe0700f31d015fe742e5",
+      "bytes": 1050,
+      "entries": 10
+    },
+    "combatSettings": {
+      "sha256": "59d7620151e999f7627250f30e74fdd08b5332a99bc080517e4f07efe5e21f9b",
+      "bytes": 1178,
+      "entries": 7
+    },
+    "locationSettings": {
+      "sha256": "6c1493357f622acd5d9d6d260a4e8b58bacd4e780c91e95bda801c2e24b03e75",
+      "bytes": 261,
+      "entries": 9
+    },
+    "itemSettings": {
+      "sha256": "5ffb26d158194c532be087b26389f5f86ccc397643efeec8fe1ea425b6a03704",
+      "bytes": 1234,
+      "entries": 4
+    },
+    "otherSettings": {
+      "sha256": "00837897e6302c1de18ad392213ecca9d23a7403318569a2ad15899e0fa6e65e",
+      "bytes": 52,
+      "entries": 2
+    },
+    "progressionSettings": {
+      "sha256": "fcd13df0ee8bb136a6460fe91da0f30126d7f6f821226508314a4f97b993d439",
+      "bytes": 1948,
+      "entries": 13
+    },
+    "tipSettings": {
+      "sha256": "4ca92947ca7c7c3b312c93d5ffdc299ef464d79959c034161b24002e5b46ee6c",
+      "bytes": 6195,
+      "entries": 5
+    },
+    "resourceSettings": {
+      "sha256": "5860518e1dffcaafe97b247f7d68f012d0099c3eefa57852b620d11dc0009955",
+      "bytes": 5804,
+      "entries": 5
+    },
+    "storySettings": {
+      "sha256": "c8ccac8415bff929ddf9edc292faba9e3c717e19ca80f48fac368f20b97acdca",
+      "bytes": 6441,
+      "entries": 2
+    },
+    "skills": {
+      "sha256": "35bb8f1f3e3b5ab95e6a55d5a1c409fbe3e129c858dd31b6df3c4d2f5db51ffd",
+      "bytes": 68779,
+      "entries": 186
+    },
+    "abilities": {
+      "sha256": "973ee14013e90a16fae74b1021d9b48caeaad42e469141080c12ab3cf3bc4671",
+      "bytes": 716417,
+      "entries": 841
+    },
+    "storyStarts": {
+      "sha256": "2f711e4f573c380c599d0303244fd781047c900276dbd63b37b8c52234ac0171",
+      "bytes": 404013,
+      "entries": 94
+    },
+    "narratorStyle": {
+      "sha256": "38447c3d6e6c3cc87e2150aca3b40050417e0423acde80c1f2ad9433ece4a829",
+      "bytes": 2019,
+      "entries": 1
+    },
+    "gameModes": {
+      "sha256": "4399e73fd7825ea804bf34432a046c821c8749781be95559568b20183ccea450",
+      "bytes": 99678,
+      "entries": 14
+    },
+    "encounterElements": {
+      "sha256": "78affa41621b178fcf6012b2c4ddb85e084291f13c42dacacaa05ed526f801d0",
+      "bytes": 15774,
+      "entries": 48
+    },
+    "traits": {
+      "sha256": "4640cc026547f5e21ef9b3a4eac6a34c0bb7a4c24b946192ed03726ba8601ce0",
+      "bytes": 1856741,
+      "entries": 1826
+    },
+    "traitCategories": {
+      "sha256": "42997640733a7c99e2080623817a90426c340821c836a20f13d14d7a91b9f16d",
+      "bytes": 45269,
+      "entries": 14
+    },
+    "characterCreationSettings": {
+      "sha256": "f08c8122c384d7bef42c65ee6c9f652fbbd8182f022c1b979b82da31f72039e3",
+      "bytes": 35,
+      "entries": 1
+    },
+    "premadeCharacters": {
+      "sha256": "9391dc3f9f84c1b9d7f1662f38100b0f3073f94b910caed92f5dbe261d94b7fd",
+      "bytes": 33957,
+      "entries": 20
+    },
+    "randomNames": {
+      "sha256": "f4d4cd7937367c949102149a932b848ee8d8425340c570a2ef30c9d8d9cc3f55",
+      "bytes": 10556,
+      "entries": 2
+    },
+    "relationshipStages": {
+      "sha256": "f107e9ba289110c6292a3767906280e37f3a00f391f29d2d4f756318a307f3ec",
+      "bytes": 506,
+      "entries": 7
+    },
+    "death": {
+      "sha256": "5850468ea06f57a0e34742ed474a775dabd539b0867754d212a777212b0aecba",
+      "bytes": 3950,
+      "entries": 2
+    },
+    "endGame": {
+      "sha256": "c9c26aae77127fd8d57859510a4db572f414460126bb1ec445b4ae486c80ca06",
+      "bytes": 539,
+      "entries": 3
+    },
+    "aiInstructions": {
+      "sha256": "4d3e744a95e1c02286ee29862c60d42d292d30f1e7130ed99cf1f57b4f1cf8c0",
+      "bytes": 375657,
+      "entries": 18
+    },
+    "nameFilterSettings": {
+      "sha256": "bd3aea3e32c1ab3d7ccfbbe31c43e50fb31e6dfade5883f7f6106faddd96ab4e",
+      "bytes": 78860,
+      "entries": 366
+    },
+    "authorSeeds": {
+      "sha256": "01cd07dd7577015b8ad0a3ad4ecdd370fb83cfa8885df714bd0bdc8357cd1fba",
+      "bytes": 6415,
+      "entries": 19
+    },
+    "characterArchetypes": {
+      "sha256": "7c10a01052f022b55e8e444ad04f17b883b589137aaa6762449f5d9f451a9ee8",
+      "bytes": 10327,
+      "entries": 22
+    },
+    "locationArchetypes": {
+      "sha256": "76fa90d491738b4606ade93c4e97282240f0881b83bc9f913a4dec922cff3c8a",
+      "bytes": 9297,
+      "entries": 18
+    },
+    "regionArchetypes": {
+      "sha256": "50ac3beed32c31f7f4a3eaae225a108f82ac912db69c024756a548ebc8db2441",
+      "bytes": 16764,
+      "entries": 23
+    },
+    "characterCreationMusic": {
+      "sha256": "c027db125671f39ead51275d916bf626e4bb5a4126e023eab4dd192259c9a0b1",
+      "bytes": 10,
+      "entries": 1
+    },
+    "gameplayMusicSettings": {
+      "sha256": "93d64859f8523656fe6a81cddf31c7528a9651452fcdfeb4917f122fcc0923be",
+      "bytes": 27123,
+      "entries": 2
+    },
+    "imagePromptConfiguration": {
+      "sha256": "bec42d242c1ec164871528be87b70a78816a343fbe66d11c7c169ac3493a6cbd",
+      "bytes": 14974,
+      "entries": 4
+    },
+    "embeddingDimension": {
+      "sha256": "eac49b0badacd9a2b90dda6621d141162732bf83418d0d76cc4c422f28eb4f1d",
+      "bytes": 4,
+      "entries": 1
+    },
+    "imageModelSource": {
+      "sha256": "f98be69931e598956b139a9b4dc8edc7ebbb3292bb6293a23347fbaaf2f9aa4a",
+      "bytes": 20,
+      "entries": 1
+    },
+    "stateEdited": {
+      "sha256": "a17fcf0a2f50e2d495e4f90ce263410edc183add6c62699a2facbccf60410f74",
+      "bytes": 5,
+      "entries": 1
+    },
+    "successLevelSettings": {
+      "sha256": "dd0ae6f814dc73e7330386b0b7b1e414b8dfcbcdee26703c14f16fa73f51bdca",
+      "bytes": 6965,
+      "entries": 2
+    }
+  }
+}

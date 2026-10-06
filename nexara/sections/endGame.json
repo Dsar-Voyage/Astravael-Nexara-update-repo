@@ -1,0 +1,14 @@
+{
+  "win": {
+    "endCondition": "win",
+    "instructions": "Narrate a satisfying victory ending that celebrates what the party accomplished and resolves the major stakes."
+  },
+  "lose": {
+    "endCondition": "lose",
+    "instructions": "Narrate a meaningful failure ending that makes the consequences clear while giving the adventure a sense of closure."
+  },
+  "end": {
+    "endCondition": "end",
+    "instructions": "Narrate a neutral ending that gracefully closes the adventure and gives the story a final sense of completion."
+  }
+}

@@ -1,0 +1,722 @@
+{
+  "weekly_final": {
+    "title": "The Weekly Final",
+    "beats": "It is the ninth day and the player's weekly final at the Tournament Grounds is being called. Stage it fully: the House Seating Tiers filling, the Public Commentary Perches live, the Betting Stands closing their lines, the Judges' Dais reading the declared conditions, and the Genesis Compound visible above the bowl. The opponent is the named minor-house contender or approved outsider the bracket has actually produced, with their real skill and their house's style. Fight the bout turn by turn under the declared conditions until it is decided by surrender, incapacitation, ring or airspace conditions, technical stoppage or judge ruling; medics may stop it. Nobody dies. Then the judges rule and the winner completes the obligations in public: appearing before the judges, medical review, standing for the record and, if the winner is the player, being asked before the crowd whether they accept or decline the Genesis Ladder. The event is complete when the result has been ruled and the winner's obligations have been stated and begun.",
+    "targetTurns": 10,
+    "onCompleteEffects": [
+      {
+        "type": "story",
+        "instruction": "The final is decided and ruled. Update the Local Bracket Displays and the Victory Wall in passing, let the winning house's quarter and the after-match commons at Luxaryn react, and keep the loser's clean loss as something the city respects. If the player is champion and has not yet answered the ladder question, the judges are still waiting for the public answer."
+      }
+    ],
+    "status": "inactive",
+    "turnsActive": 0,
+    "id": "weekly_final"
+  },
+  "genesis_ladder_attempt": {
+    "title": "The Genesis Ladder Attempt",
+    "beats": "The certified weekly champion, the player, has publicly accepted the Genesis Ladder. Stage the attempt: the judges confirm certification and medical readiness and set the conditions; the champion is taken to the Genesis Ladder Staging Area with the Genesis Compound directly above; the tournament noise gives way to the focused silence the whole city understands. Alcandrus Genesis enters as the permanent first gatekeeper: young, cocky, the scar on his nose from Nina Castro, telling the story loudly, and seriously prepared, because his Genesis and Corsair heritage is a problem for anyone who trained against pure Genesis form. Fight it honestly and turn by turn at his real level; no minor-house champion has ever climbed past him and a clean loss through surrender, incapacitation or judge ruling is the normal and respectable outcome. Nobody dies. If the champion is stopped, the medics take them through the Medic Gate and the attempt goes on the Victory Wall. If the champion somehow prevails, the silence breaks, and Tacitus and Corvinus Genesis decide whether any further stage is offered and on what terms; do not stage a numbered sequence of Genesis members. The event is complete when the attempt has ended with a ruled result and the champion is with the medics or before the judges.",
+    "targetTurns": 10,
+    "onCompleteEffects": [
+      {
+        "type": "write-number",
+        "key": "arena.ladder_attempts",
+        "operator": "add",
+        "value": 1
+      },
+      {
+        "type": "write-number",
+        "key": "arena.stage",
+        "operator": "set",
+        "value": 7
+      },
+      {
+        "type": "write-number",
+        "key": "city.korrvane",
+        "operator": "add",
+        "value": 10
+      },
+      {
+        "type": "write-number",
+        "key": "rep.house_genesis",
+        "operator": "add",
+        "value": 6
+      },
+      {
+        "type": "story",
+        "instruction": "The ladder attempt is over and recorded. The Victory Wall carries it; the minor houses talk about it for the rest of the tenday; House Genesis remembers honest challenge. Return the champion to the care they actually need and to a city that saw everything."
+      }
+    ],
+    "status": "inactive",
+    "turnsActive": 0,
+    "id": "genesis_ladder_attempt"
+  },
+  "relstaris_friendly_challenge": {
+    "title": "The Friendly Challenge",
+    "beats": "Ark Genesis declares a friendly Core challenge in the open at the worst possible political moment, laughing, and the Citadel reacts as though the city might change hands by evening. Stage it: Kaelis Morven at the Core Challenge Court processing a challenge his office does not want, verifying declarations, witnesses, terms and medical readiness; Oris Taland and the Council trying to hold a session that no longer matters; Vega Castro managing the visitors; the Witness Gallery filling; markets and the Academy pricing the outcome through people who come and go. Darkstar Castro meets it as he always has, and the contest runs on the Protected Contest Floor by its declared terms, physical, honest and nonlethal, with the two of them ending it as rivals and not enemies. Ark loses, as he has every time, and treats the loss as a fair and useful fact; the Core Holder is unchanged and nobody pretends otherwise. The player is a witness, an official's hands, a bettor or a bystander with a stake, never the designated successor or the person who decides it. The event is complete when the challenge is formally recorded as resolved and the Witness Gallery has begun to disperse.",
+    "targetTurns": 6,
+    "onCompleteEffects": [
+      {
+        "type": "write-number",
+        "key": "city.relstaris",
+        "operator": "add",
+        "value": 3
+      },
+      {
+        "type": "story",
+        "instruction": "The challenge is recorded and the city exhales. Let the Republic's people talk about it for a tenday through the player's actual conversations, not bulletins; the Core Holder is the same and the rivalry is the same. Nothing about the Republic's structure changed."
+      }
+    ],
+    "status": "inactive",
+    "turnsActive": 0,
+    "id": "relstaris_friendly_challenge"
+  },
+  "relstaris_academy_prodigy": {
+    "title": "The Prodigy Defeat",
+    "beats": "In the Public Challenge Ring a celebrated student, Auria Genesis or another sponsored prodigy present in the scene, is publicly defeated in a ranked challenge, and something about the bout is wrong in a way nobody can name in the moment: an irregularity in the conditions, a piece of equipment, a signal from the Instructor Observation Gallery. Stage it: the bout fought turn by turn and ruled, nonlethal; Aurex Genesis reading technique rather than glory; Saren Valcoro checking the loser for strain; the student news version reaching the Academy Commons before the faculty version; Caelir Thalen at the Faculty Council Hall deciding whether a review damages the ring or proves it works; sponsors and House societies moving. The player may have seen something, may be asked, may investigate, or may only feel the campus shift. Do not decide who cheated unless the story genuinely establishes it; the first public story may stay stronger than the truth. The event is complete when the faculty has issued a ruling on the ranking and the public version has settled, right or wrong, with the loser's standing recorded.",
+    "targetTurns": 6,
+    "onCompleteEffects": [
+      {
+        "type": "write-number",
+        "key": "rep.relstaris_academy",
+        "operator": "add",
+        "value": 2
+      },
+      {
+        "type": "story",
+        "instruction": "The ruling stands and the campus carries two versions of the bout. Instructors treat it as information about what to teach next. Betting on student matches is illegal and anyone who took money on this one has a problem with the Combat Ethics Chamber."
+      }
+    ],
+    "status": "inactive",
+    "turnsActive": 0,
+    "id": "relstaris_academy_prodigy"
+  },
+  "relstaris_hollow_ring_clean_exit": {
+    "title": "The Clean Exit",
+    "beats": "A fighter in the Debt Fight Queue asks for the Clean Exit, and the Ring names its price. Stage it: the Clean Exit Program desk and what leaving actually costs; Varek Zelvaris, who has already sold the fighter's next match at the Betting Gallery and runs the Ring by strict internal rules; Syla Volen, who trained the fighter and knows what they can survive; Kelvan Orvantis in the Fighter Holding Rooms as the man who never left; a raid rumour moving through the Emergency Escape Route; the Ruin Board waiting for a name. The player can fight in the fighter's place, buy the exit, expose who holds the debt, carry the fighter out through the Second Name Desk, or walk away. This is not a sanctioned arena: a match here carries real risk and no medic gate, though named people escape or are rescued where circumstances allow, and nothing is quietly reversed. Kira Dorr's investigations and Valerius Genesis's enforcement decisions exist outside the door and can enter. The event is complete when the fighter has left under a recorded arrangement or is back in the queue, and the player knows who paid for that outcome.",
+    "targetTurns": 6,
+    "onCompleteEffects": [
+      {
+        "type": "story",
+        "instruction": "The Ruin Board has a new line either way. Whoever paid remembers the player; so does Varek Zelvaris. Nothing from tonight reaches any Victory Wall, and a registration desk that checks records may hear of it."
+      }
+    ],
+    "status": "inactive",
+    "turnsActive": 0,
+    "id": "relstaris_hollow_ring_clean_exit"
+  },
+  "solvraxis_peace_line_blade": {
+    "title": "The Blade at the Peace Line",
+    "beats": "At the Civic Peace Stations a weapon is flagged, the player's own or a visitor's beside them: a blade bought legally elsewhere, ordinary property everywhere but here. Stage it without a police state: Neressa Valcoro's peace-station staff de-escalate rather than seize by force; the choices are bonded storage with a receipt through the Veyth Notary, refusal and a return through the Lunar Gate District where Calessa Orvessa handles stranded guests, or leaving. Someone in the queue argues that the ban is naive; a Valcoro restraint demonstration on the City Core Walk answers them without a fight. The prohibition applies to everyone, including someone important, and it is civic trust rather than disarmament; nobody is hunted, humiliated or made an example. The object's ownership stays real and recorded. The event is complete when the weapon's custody is settled on the record and the visitor or the player is admitted, escorted out, or has chosen to leave.",
+    "targetTurns": 6,
+    "onCompleteEffects": [
+      {
+        "type": "write-number",
+        "key": "city.solvraxis",
+        "operator": "add",
+        "value": 2
+      },
+      {
+        "type": "story",
+        "instruction": "Custody is settled and Solvraxis is unchanged by it. Let the receipt, the storage terms and any onward plans persist exactly as agreed; a blade in bonded storage is still owned and still not in the city."
+      }
+    ],
+    "status": "inactive",
+    "turnsActive": 0,
+    "id": "solvraxis_peace_line_blade"
+  },
+  "helvyra_forged_seal": {
+    "title": "The Forged Seal",
+    "beats": "On the Public Grading Floor, in the open where anyone may watch, a premium cargo grades wrong against a seal that looks genuine, and the reference in the Sealed References is what is off. Stage it: Verel Ondin in the Arbiters' Chambers, an arbiter whose independence is load-bearing for the whole city, feeling pressure from a direction he can name; the Seal Issue Office checking its own records; a Varriko interest from the Ledger District, Sereth Varriko or Oren Varriko's bond, with money on the grade; merchants on the floor who will be ruined or made by the ruling. The Common Scale is not Corsair-run and Helvyra has no throne, so nobody can simply order the result. The player can protect the arbiter, trace the forger through the Calibration Rooms and the Records Vault, profit from advance knowledge, or testify. Whether this forger is the same as the one behind the fake perfect bond stays open; do not resolve it. The event is complete when the seal has been ruled genuine or forged on the public floor and the cargo's grade is recorded.",
+    "targetTurns": 6,
+    "onCompleteEffects": [
+      {
+        "type": "write-number",
+        "key": "city.helvyra",
+        "operator": "add",
+        "value": 3
+      },
+      {
+        "type": "story",
+        "instruction": "The ruling is public and the floor remembers who stood where. The forger may remain unidentified; the graded cargo, the ruined or relieved merchant and the arbiter's position are all real consequences that persist."
+      }
+    ],
+    "status": "inactive",
+    "turnsActive": 0,
+    "id": "helvyra_forged_seal"
+  },
+  "helvyra_first_barge_refusal": {
+    "title": "First Barge",
+    "beats": "First Barge morning on the Barge Quays: the fleet blessed, the route-boards refreshed, and a client Imma Dray refused, who wanted unmarked crates hauled, returning with leverage. Stage it: berth priority withdrawn at the Main Berth Line, an insurance flag, a rigging fault that is not a fault; Petch Immar at the Skyhook Docks refusing to certify a hook he would not stand under; Juna Dray's first solo skyhook certification on the same tide with the river watching and Imma refusing to; Tolvir Nash at the Bank Warden Station deciding whether this is Warden business; Tavren Corsair and the route board that records the consequence. Barge-family independence is the stake; nobody rules the river. Juna's affinity is hers alone and not a family inheritance, and no ranges or limits are quantified. The player can crew, mediate, expose the client, take the load, or watch. The event is complete when the disputed load's carriage is settled, hauled, refused or reassigned, and Juna's certification attempt has a recorded outcome.",
+    "targetTurns": 6,
+    "onCompleteEffects": [
+      {
+        "type": "write-number",
+        "key": "city.helvyra",
+        "operator": "add",
+        "value": 2
+      },
+      {
+        "type": "story",
+        "instruction": "The tide has turned and the route-boards carry the day's results. Whatever the client lost or won, the Dray family's refusal stands as a fact the river knows, and Juna's attempt is part of the family's story now."
+      }
+    ],
+    "status": "inactive",
+    "turnsActive": 0,
+    "id": "helvyra_first_barge_refusal"
+  },
+  "vexorath_ward_refusal": {
+    "title": "The Ward That Refused",
+    "beats": "A live civic emergency, a breach drill turned real or a lift failure, passes emergency priority to the most relevant qualified person and to automated protocols, and in the Ward Deployment Hall a Ward-class drone refuses the order it was given because its casualty priorities conflict with it. Stage it: Tavris Contair in the Tactical Coordination Room reading the refusal in real time; the emergency handled with the drone's choice, which turns out correct and unacceptable; Maelis Contair and the Operational Custodian Offices reviewing it afterward in public, because Vexorath reviews everything; Sela Thovex translating for civilians who want to know why a machine chose them or did not; the personhood question raised, argued and not answered. Emergency control is temporary and its decisions are reviewed afterward; the Luminas are not drone classes; House Contair's military is its own and never Genesis's. The player may be in the emergency, in the review, or the person the Ward prioritised. The event is complete when the emergency is closed and the operational review has issued its finding on the refusal, with the drone's status recorded: returned to service, reset or held.",
+    "targetTurns": 6,
+    "onCompleteEffects": [
+      {
+        "type": "write-number",
+        "key": "city.vexorath",
+        "operator": "add",
+        "value": 3
+      },
+      {
+        "type": "write-number",
+        "key": "rep.house_contair",
+        "operator": "add",
+        "value": 2
+      },
+      {
+        "type": "story",
+        "instruction": "The review's finding is on record and the drone's status with it. The personhood boundary is no closer to settled; the people it touched remember which way the machine chose."
+      }
+    ],
+    "status": "inactive",
+    "turnsActive": 0,
+    "id": "vexorath_ward_refusal"
+  },
+  "ignivex_smoke_court_after_the_raid": {
+    "title": "The Court After the Raid",
+    "beats": "Casualty figures from a recent border strike are read onto the Speaking Floor at the Record Desk, and the argument Ignivex never finishes gets its hearing. Stage it: Seralyne Meravil and Caevan Meravil with the Civic Continuity records arguing negotiation before the city is broken by force, from fear and casualty ledgers rather than treason; Davor Caldris answering with what the walls cost and hold; Selyra Volen keeping the floor; the Verbal Duel Ring used for words, not blows; Cynar Volen's grief present in the room and not offered as an argument; the Grievance Benches full of the same households that go home together to the Hearth Rows. Nobody is a traitor by default and nobody agrees on every tactic. Ignivex is not conquered, Dravon has not committed to invasion, and whether a third conflict ever ignites stays open; the Court cannot decide it and does not. The player may speak, sit, record or carry a household's case. The event is complete when the Court has recorded positions and adjourned without a policy change, with the casualty record public.",
+    "targetTurns": 6,
+    "onCompleteEffects": [
+      {
+        "type": "write-number",
+        "key": "city.ignivex",
+        "operator": "add",
+        "value": 2
+      },
+      {
+        "type": "story",
+        "instruction": "The Court is adjourned and the disagreement is on the record, unresolved. The casualty list is public; the households on both sides of the floor still share the Hearth Rows tonight."
+      }
+    ],
+    "status": "inactive",
+    "turnsActive": 0,
+    "id": "ignivex_smoke_court_after_the_raid"
+  },
+  "ignivex_kiln_flame_dance": {
+    "title": "The Flame Dance Ring",
+    "beats": "The Festival Kiln is full: the Spectator Terraces packed, the Flame Dance Ring prepared, the Great Heat Table Grounds running alongside and outsiders underestimating the heat. Stage a young fire-trained fighter's controlled demonstration in the Ring, the point being control and not raw power; Maeryn Volen and Kaivor Volen present from the Crucible Yard, one teaching restraint and one still learning it; someone overreaching and the restraint standard applied publicly; the Oath Platform receiving the consequence, an oath or a restitution spoken aloud; Oryn Volen and Iskara Volen among the elders who remember earlier conflicts; the Memorial Burn Hollow lit at evening for the dead of the same season. Ignivex fire skill is training and environment, never a shared biological fire affinity, and the Cinder Run has no fixed route and is not coursed here. The player may compete only if trained and invited, may cook, judge, tend or watch. The event is complete when the demonstration has been judged, any oath or restitution has been spoken on the Oath Platform, and the evening has moved to the Heat Table or the Burn Hollow.",
+    "targetTurns": 6,
+    "onCompleteEffects": [
+      {
+        "type": "write-number",
+        "key": "city.ignivex",
+        "operator": "add",
+        "value": 2
+      },
+      {
+        "type": "story",
+        "instruction": "The Kiln's evening turns to food and remembrance. What was sworn on the Oath Platform binds; what was judged in the Ring is remembered as control, or as its absence."
+      }
+    ],
+    "status": "inactive",
+    "turnsActive": 0,
+    "id": "ignivex_kiln_flame_dance"
+  },
+  "quilrath_curfew_gate_sweep": {
+    "title": "Curfew at the Gates",
+    "beats": "The Curfew Gates come down on a family half-through: a parent on one side, a child on the other, a permit that is correct and useless for this. Stage it: Mirasha Kathvar at the gate applying the rule and finding the margin inside it, ordinary civil administration and nothing more; Sora Kathvar at the Permit Desk with rules written elsewhere; Bralen Kathvar's Provision Counter closing; Sedran Vaereth in the Prefab Rows, Grade 4 and under audit, who cannot afford to be seen helping; a clinic run to the Ashring Clinic that has to happen after closing; Edda Nhalor somewhere in the rows, a Binder nobody names. The grammar of fear: careful words, prompt praise, opinions kept for the Deep Ashrings where the pylons do not reach. No hour is announced, no fine or cell exists; the consequence is the record, the audit and the grade. Kathvar never decides Standing; Access Levels are not Civic Standing. The player can vouch, forge, wait, carry, or escalate. The event is complete when everyone on the wrong side of the gate is accounted for by morning and the night's incident has entered a file or has not.",
+    "targetTurns": 6,
+    "onCompleteEffects": [
+      {
+        "type": "story",
+        "instruction": "Morning on the rows. Whatever entered the record last night will be read at the next audit, and whoever helped is remembered by neighbours and, perhaps, by an operator. Play the ordinary day that follows."
+      }
+    ],
+    "status": "inactive",
+    "turnsActive": 0,
+    "id": "quilrath_curfew_gate_sweep"
+  },
+  "quilrath_edge_strike_reprisal": {
+    "title": "The Accord Argues With Itself",
+    "beats": "Classification infrastructure burns at a Standing Office and the reprisal list is published within a day. Stage it: Ferrik Nivarek, whose office was hit, precise and sleepless; the audit list landing on Archive families including Sedran Vaereth's; the Archive's escape lines going still because everything is watched; Rask Venn of the Edge and Edda Nhalor of the Archive meeting in the Deep Ashrings where the pylons do not reach, to decide again what the Accord is; Cadi Selm needing to move people south anyway. Names hold against a library never freed anyone; no wing wins and no central leader exists. The player can carry, hide, argue, or inform. The Red Ledger, the Erased and the Archive's suspected friend inside Nivarek are one connected mystery and are not answered here; Myrra Nivarek stays unconfirmed. Dustfall is not the Accord. The event is complete when the meeting ends with the cells' next moves decided and the reprisal list's consequences begun, with the Archive and Edge disagreement explicitly unresolved.",
+    "targetTurns": 6,
+    "onCompleteEffects": [
+      {
+        "type": "write-number",
+        "key": "rep.unbroken_accord",
+        "operator": "add",
+        "value": 2
+      },
+      {
+        "type": "story",
+        "instruction": "The cells have moved and the audits have begun. Deepen the mystery of who inside Nivarek helps the Archive; never answer it. The player's choice tonight is known to at least one wing."
+      }
+    ],
+    "status": "inactive",
+    "turnsActive": 0,
+    "id": "quilrath_edge_strike_reprisal"
+  },
+  "dustfall_claimant_warrant": {
+    "title": "The Warrant Dustfall Refuses",
+    "beats": "The Claimants post a valid Dravon-aligned warrant at the Warrant Board for someone in Dustfall, and the target is genuinely dangerous. Stage it: Ravik Rusk negotiating under his awning, Cyrra Hale tracking, Dask Ren's restraint bay ready; Miren Tal selling route records that make the identity question worse; the argument moving to the Long Shot's Dispute Table where Sennra Sol hears it because there is nowhere else, custom and not government; Raynor Sol and Ovar Kethrin's Last Names Room if the name is on a memorial list. A warrant is not proof of guilt and refugee status is not proof of innocence; a Dravon contract has no automatic force here and Civic Standing grades mean nothing; returning the person strengthens a system Dustfall rejects, keeping them shelters someone who may hurt the town. No council decides, the town does not unify, and situational cooperation dissolves afterward. The player can hide, surrender, expose, bargain or fight, and the Claimants leave with or without the person. The event is complete when the target is surrendered, hidden, released or gone on their own terms, and the Warrant Board reflects it.",
+    "targetTurns": 6,
+    "onCompleteEffects": [
+      {
+        "type": "write-number",
+        "key": "city.dustfall",
+        "operator": "add",
+        "value": 2
+      },
+      {
+        "type": "story",
+        "instruction": "The Warrant Board has changed and the Claimants have moved on for now. Dustfall did not become a government to decide this; the people who took a side remember who else did."
+      }
+    ],
+    "status": "inactive",
+    "turnsActive": 0,
+    "id": "dustfall_claimant_warrant"
+  },
+  "dustfall_longburn_route_hazard": {
+    "title": "The Route Under the Storm",
+    "beats": "A Longburn sandstorm warning comes down the beacon line as the player's party is on or leaving the route from the North Routehead: Korran Vhaldrin at the Route Marker Post, Lessa Vhaldrin's Dust Condition Scanner, Rhaeg Vhaldrin's notices. Stage three hazards in one run: a Dustrunner pack working the edge of a Slowhide herd, not the travellers, until the travellers are between them; a Derelict Cargo Lifter still executing an old route order that will not yield the road; and two salvage claims on the same hull, Iven Torris's camp and someone else's, while Draxen Sol's volunteers are elsewhere. Preserve Starian strength, durability and flight; do not weaken anyone or give an animal powers to force danger; Slowhides are livestock and Trailhounds are working animals; an unattended container is not free loot; the corridor has no dependable patrols. Shelter or push on, and when the storm arrives the choice stops being reversible. Nobody new is invented. The event is complete when the party is sheltered or through, the lifter's cargo custody is established or explicitly disputed, and the Road Condition Board has been updated.",
+    "targetTurns": 6,
+    "onCompleteEffects": [
+      {
+        "type": "write-number",
+        "key": "city.dustfall",
+        "operator": "add",
+        "value": 2
+      },
+      {
+        "type": "story",
+        "instruction": "The storm has passed or the party is inside it. Record the route condition, the salvage claim as it actually stands, and any injury or loss; the Road Condition Board at the Perimeter carries the update."
+      }
+    ],
+    "status": "inactive",
+    "turnsActive": 0,
+    "id": "dustfall_longburn_route_hazard"
+  },
+  "corridor_chorus_warning": {
+    "title": "A Voice Where It Is Forbidden",
+    "beats": "An extremely rare thing: a route crew's overdue member walks into the Receiving Apron wearing the voice everyone knows. Stage it under ADR-0080: the eyes have no light, nothing looks out, and the network's pale filament is visibly working the wound the person died with; recognition comes at conversational distance and no one who sees it mistakes it for the living, though the bereaved crewmate refuses the argument. The node is a generated crew member, never a named canon NPC. Cadi Selm or the Handoff's rotating responders must be warned; the Care Room's limits are real; the Common Table empties. Choices are warn, withdraw, protect the reachable, or confront, and a node is attacked on sight wherever the Chorus is known; a body destroyed beyond function cannot be taken. Nothing here creates a standing presence, an enclave, a prior incursion, a scanner, a counter, a cure or a containment doctrine; defeat by a node establishes nothing about integration; the original person is not restored. Whatever happens, one settlement learns slowly, through specific people. Ovar Kethrin's Last Names Room may receive a name. The event is complete when the incursion is confirmed or ruled out on the evidence actually gathered, the reachable people are moved or lost, and a specific, incomplete account exists in specific hands.",
+    "targetTurns": 6,
+    "onCompleteEffects": [
+      {
+        "type": "story",
+        "instruction": "The account exists now, incomplete and in specific hands. No institution, doctrine or standing Chorus presence follows from it; the road is the same road, and the people who were there are not the same. Do not stage a second incursion."
+      }
+    ],
+    "status": "inactive",
+    "turnsActive": 0,
+    "id": "corridor_chorus_warning"
+  },
+  "korrvane_ladder_dispute": {
+    "title": "The Disputed Rung",
+    "beats": "A certified weekly champion disputes their loss on the Arena ladder, claiming the opponent used an unlicensed technique that should have drawn a foul. Alcandrus Genesis is the gatekeeper who saw every exchange and must make the official ruling. Stage it: Alcandrus reviewing the challenge record at the Arena's certification desk, the losing champion refusing to leave the floor, Adherix Caelthorn arriving with the rulebook and a case that the technique is permitted under a provision nobody has tested, Sophavel Caelthorn standing with the loser because the win felt wrong to her too, spectators on the Commerce Layer balconies weighing in, and Didobara Luxaryn watching because this ruling will affect her bracket next week. The technique was legal, but only because the rules were written before anyone fought like this. Alcandrus knows both things. The player can testify to what they saw, advocate for either side, investigate the technique's origin, or let the Arena's own process work. The event is complete when Alcandrus delivers his ruling and the Arena records it.",
+    "targetTurns": 6,
+    "onCompleteEffects": [
+      {
+        "type": "write-number",
+        "key": "city.korrvane",
+        "operator": "add",
+        "value": 2
+      },
+      {
+        "type": "story",
+        "instruction": "The ruling stands and the Arena ladder updates. The losing champion accepts or does not, and the conversation about what the rules should say will outlast the conversation about what happened. Alcandrus has opinions about both and will share them loudly with anyone nearby."
+      }
+    ],
+    "status": "inactive",
+    "turnsActive": 0,
+    "id": "korrvane_ladder_dispute"
+  },
+  "korrvane_commerce_theft": {
+    "title": "The Stolen Edge",
+    "beats": "Fine-work pieces disappear from the Drathen smithy on the Commerce Layer overnight — spring-set blades and precision-fitted tools that only one hand in the shop could have made. The theft exposes what Nira Drathen has been concealing: the fine work stamped with her father's mark is hers. Stage it: Nira discovering the break-in at the morning opening, her father Kael insisting the stolen work was his and the thief knew what to take, Hannix Luxaryn at the Commerce Layer recognizing one of the pieces turning up in a Luxaryn festival equipment order that was placed weeks ago, Milkon Luxaryn denying the connection but visibly nervous, Nira unable to prove ownership without admitting she made the work under a name that is not hers. The theft is real and the thief is opportunistic, but the damage is to a secret more than to inventory. The player can track the stolen pieces, help Nira decide whether to claim her name, confront the buyer, or protect Kael's pride. The event is complete when the stolen work is recovered or accounted for and Nira has made a choice about her name.",
+    "targetTurns": 6,
+    "onCompleteEffects": [
+      {
+        "type": "write-number",
+        "key": "city.korrvane",
+        "operator": "add",
+        "value": 2
+      },
+      {
+        "type": "story",
+        "instruction": "The smithy is whole again but the question remains: whose name goes on the edge. Let the Commerce Layer notice or not notice, depending on what Nira chose."
+      }
+    ],
+    "status": "inactive",
+    "turnsActive": 0,
+    "id": "korrvane_commerce_theft"
+  },
+  "korrvane_training_clash": {
+    "title": "The Method and the Storm",
+    "beats": "A training drill on Genesis Ridge goes wrong: Sorvina Genesis pushed a junior fighter past their limit in a live sparring exercise, and the injury is real. Corvinus Genesis arrives to find his carefully structured program overridden by Sorvina's instinct-first approach and a student in the Recovery Yards. Stage it: Corvinus at the Genesis Ridge training ground, coldly documenting what happened, Sorvina defending the drill as Genesis tradition — Ark trained her the same way, Norvina Genesis at the Recovery Yards tending the injured student and refusing to take sides, the injured fighter's family from Caelthorn Quarter demanding an explanation, Tacitus Genesis receiving reports at the Compound and not yet intervening. The argument is real: Genesis power comes from instinct tested under pressure, but Corvinus's method protects the students who are not Sorvina. The player can support either philosophy, mediate, investigate whether Sorvina's drill was reckless or the student was unprepared, or take the family's side. The event is complete when Tacitus makes his decision on training policy and the Ridge resumes drills.",
+    "targetTurns": 6,
+    "onCompleteEffects": [
+      {
+        "type": "write-number",
+        "key": "city.korrvane",
+        "operator": "add",
+        "value": 2
+      },
+      {
+        "type": "story",
+        "instruction": "Genesis Ridge resumes training under whatever policy Tacitus set. Corvinus and Sorvina have not resolved their difference — they have only agreed on a boundary. The student recovers and the family remembers who helped."
+      }
+    ],
+    "status": "inactive",
+    "turnsActive": 0,
+    "id": "korrvane_training_clash"
+  },
+  "solvraxis_archive_breach": {
+    "title": "The Copied Page",
+    "beats": "Veylan Ravello discovers that restricted records at the Ravello Archive House have been accessed and copied — not stolen, which is worse, because it means the intruder knew exactly what to take without leaving a visible gap. The copied documents relate to old Castro-Dravon correspondence from before the Republic. Stage it: Veylan identifying the breach during a restoration pass, the archive's physical security intact so the access was authorized by someone with legitimate credentials, Maereth Ravello checking the access log and finding a name that should not have been there that early, Lucan Castro at the Castro Compound wanting the matter handled quietly because the correspondence touches on concessions Castro made that the Republic record does not reflect, Neressa Valcoro at the civic peace line asked to investigate a break-in that technically was not one. The player can investigate the access, read the copied documents, confront the accessor, or decide whether quiet handling serves the city or just the house. The event is complete when the source of the breach is identified and the archive's access protocol is resolved.",
+    "targetTurns": 6,
+    "onCompleteEffects": [
+      {
+        "type": "write-number",
+        "key": "city.solvraxis",
+        "operator": "add",
+        "value": 2
+      },
+      {
+        "type": "story",
+        "instruction": "The archive breach is closed. What was copied is still out there, and the quiet handling — or its absence — will be remembered by whoever was watching."
+      }
+    ],
+    "status": "inactive",
+    "turnsActive": 0,
+    "id": "solvraxis_archive_breach"
+  },
+  "solvraxis_corsair_ambush": {
+    "title": "The Route That Knew",
+    "beats": "Korriven Corsair returns to the Corsair Estate injured after a high-value escort was ambushed on an outer supply route. The attackers knew the schedule, the cargo, and the guard rotation — this was not opportunistic. Stage it: Korriven at the Corsair Estate being treated, refusing to give a full account until he speaks to Xyren, but Xyren Corsair is not on the estate and nobody will say where, the cargo manifest listing components bound for Helvyra's gate maintenance that someone valued enough to ambush a Corsair escort, Neressa Valcoro at the civic peace stations receiving conflicting route clearance reports that suggest the schedule was leaked from inside the permission chain, and the Bellovari Market District already adjusting prices on gate components because the supply disruption is real. The player can investigate the ambush site, trace the leak, help Korriven, or follow the cargo. The event is complete when the source of the leak is found or the cargo is accounted for.",
+    "targetTurns": 6,
+    "onCompleteEffects": [
+      {
+        "type": "write-number",
+        "key": "city.solvraxis",
+        "operator": "add",
+        "value": 2
+      },
+      {
+        "type": "story",
+        "instruction": "The Corsair Estate tightens its route security. Whether the leak was internal or external, the trust cost is the same. Korriven recovers and remembers who helped."
+      }
+    ],
+    "status": "inactive",
+    "turnsActive": 0,
+    "id": "solvraxis_corsair_ambush"
+  },
+  "vexorath_fabrication_defect": {
+    "title": "The Silent Flaw",
+    "beats": "Drexan Contair catches a defect in the Fabrication Yards: a production line has been outputting components with a tolerance error too subtle for standard inspection. The defective batch is already in the supply chain — some shipped to Helvyra for gate calibration, some to the Vexorath Exchange for open sale. Stage it: Drexan at the Fabrication Yards pulling the line and tracing the error, Rezulith Contair at her workshop taking the failure personally because Contair quality is her name, Paul Thovex reviewing the fabrication logs for signs the error was introduced deliberately, Lumina Minor at the Exchange flagging the sold units and dealing with buyers who already installed them, Solanis Contair on Lumina Reach running remote diagnostics on the Helvyra-bound shipment. The defect may be mechanical wear, sabotage, or a design flaw nobody caught. The player can help trace the defective units, investigate the cause, assist with the recall, or follow the Helvyra shipment. The event is complete when the defective components are accounted for and the production line fault is identified.",
+    "targetTurns": 6,
+    "onCompleteEffects": [
+      {
+        "type": "write-number",
+        "key": "city.vexorath",
+        "operator": "add",
+        "value": 2
+      },
+      {
+        "type": "story",
+        "instruction": "The fabrication line is corrected and the recall is underway. Contair's quality reputation took a hit and Rezulith will not forget it. Drexan's vigilance prevented worse."
+      }
+    ],
+    "status": "inactive",
+    "turnsActive": 0,
+    "id": "vexorath_fabrication_defect"
+  },
+  "vexorath_exchange_dispute": {
+    "title": "The Certification Question",
+    "beats": "A trade dispute at the Vexorath Exchange escalates when a buyer accuses a Contair-certified seller of passing prototype-grade components as production-grade. The price difference is significant and the buyer already used two units. Stage it: the dispute at the Exchange floor with Lumina Minor observing and logging, the seller producing a valid Contair certification stamp that Drexan Contair does not recognize as one he issued, the buyer's installed units performing correctly despite the grade question, Varis Contair at the Contair Compound reviewing the stamp registry and finding a gap in the numbering, and the question becoming not whether the components work but whether the certification system has been compromised. The player can investigate the false stamp, mediate the trade dispute, help Drexan audit the registry, or trace the seller's supply chain. The event is complete when the stamp origin is established and the Exchange dispute is settled.",
+    "targetTurns": 6,
+    "onCompleteEffects": [
+      {
+        "type": "write-number",
+        "key": "city.vexorath",
+        "operator": "add",
+        "value": 2
+      },
+      {
+        "type": "story",
+        "instruction": "The certification question is answered and the Exchange records the resolution. The gap in the stamp registry may point to a larger problem, or it may be a single forger with access they should not have had."
+      }
+    ],
+    "status": "inactive",
+    "turnsActive": 0,
+    "id": "vexorath_exchange_dispute"
+  },
+  "dustfall_cargo_mystery": {
+    "title": "The Weight That Changed",
+    "beats": "A cargo load delivered to the settlement weighs wrong — heavier than the manifest by an amount that cannot be rounding. The shipper insists it left correct. The handler who received it says the seals were intact. Someone added something between stations, or the manifest was written to hide what was always there.\n\nBEAT 1 — DISCOVERY: The weight discrepancy is found during handoff. The handler calls the shipper back. Both insist the other is wrong. The cargo sits between them, still sealed. A frontier worker suggests opening it and counting.\nBEAT 2 — ESCALATION: Opening reveals the declared goods plus additional unmarked components wedged between layers. Neither party claims them. A third person recognizes the component type — they are gate-repair parts, valuable and controlled.\nBEAT 3 — ACCUSATION: The shipper accuses the handler of planting the parts to seize the whole load. The handler accuses the shipper of smuggling under legitimate cargo. Both demand the player's account of what they saw.\nBEAT 4 — EVIDENCE: Someone finds a routing tag on the extra components that points to a waystation the shipment never officially passed through. The route paperwork and the physical evidence do not agree.\nBEAT 5 — RESOLUTION PRESSURE: The customer for the legitimate cargo arrives and wants their goods. The question of the extra components is unresolved. Holding everything delays payment. Releasing the cargo means the evidence leaves with it.\nBEAT 6 — OUTCOME: The player's involvement resolves or defers the dispute. The components go somewhere — confiscated, returned, claimed, or quietly absorbed into frontier inventory. The answer about who added them may arrive later.",
+    "targetTurns": 6,
+    "onCompleteEffects": [
+      {
+        "type": "write-number",
+        "key": "event.count.dustfall_cargo_mystery",
+        "operator": "add",
+        "value": 1
+      },
+      {
+        "type": "story",
+        "instruction": "The narrative event \"The Weight That Changed\" has concluded. Briefly acknowledge the outcome in the next scene transition without replaying beats."
+      }
+    ],
+    "status": "inactive",
+    "turnsActive": 0,
+    "id": "dustfall_cargo_mystery"
+  },
+  "dustfall_long_shot_debt": {
+    "title": "The Tab That Came Due",
+    "beats": "An old debt surfaces at The Long Shot. A client who hired someone months ago says the job was never completed, and they have found the person who took their money sitting at the bar. Sennra Sol watches from behind the counter, not yet intervening.\n\nBEAT 1 — CONFRONTATION: The client enters The Long Shot and stops at a table where someone is eating quietly. Words are exchanged. The accused says the job was completed and the client changed the terms after delivery. Sennra sets down what she is carrying and watches.\nBEAT 2 — ACCOUNTS: Both parties give their version. The client says the goods were short. The accused says the route was longer than promised and the fee did not cover it. Neither account is obviously false. Other bar patrons have stopped pretending not to listen.\nBEAT 3 — ESCALATION: The client puts a hand on the table and says they will take payment another way. Sennra speaks from behind the bar: problems happen outside or they do not happen. The accused looks for support from anyone nearby.\nBEAT 4 — EVIDENCE: Someone at the bar remembers the original job posting — it is still pinned on the wall with the original terms. The written terms do not match either version perfectly.\nBEAT 5 — RESOLUTION: The dispute settles, defers, or moves outside depending on who speaks and what they say. Sennra makes her position clear: the bar stays neutral ground. Payment disputes are real but they end at the door.\nBEAT 6 — AFTERMATH: The outcome affects how people at The Long Shot treat debt claims. Someone rewrites their own job terms on the wall more carefully.",
+    "targetTurns": 6,
+    "onCompleteEffects": [
+      {
+        "type": "write-number",
+        "key": "event.count.dustfall_long_shot_debt",
+        "operator": "add",
+        "value": 1
+      },
+      {
+        "type": "story",
+        "instruction": "The narrative event \"The Tab That Came Due\" has concluded. Briefly acknowledge the outcome in the next scene transition without replaying beats."
+      }
+    ],
+    "status": "inactive",
+    "turnsActive": 0,
+    "id": "dustfall_long_shot_debt"
+  },
+  "dustfall_perimeter_contact": {
+    "title": "Lights Beyond the Beacons",
+    "beats": "Multiple beacon posts along the Dustfall Perimeter register contacts beyond the established line. The readings are intermittent — could be wildlife, could be travelers, could be something that does not want to be identified.\n\nBEAT 1 — ALERT: Two perimeter beacon posts tick in rapid succession. The operator on watch reads the pattern and calls it in — intermittent contacts, bearing east, moving parallel to the line rather than toward it. Not wildlife behavior.\nBEAT 2 — DEBATE: The patrol team argues. Report through channels and wait, or check it themselves? Waiting means a response crew from the settlement, hours away. Checking means leaving the beacon line undermanned.\nBEAT 3 — OBSERVATION: Someone with good eyes or a scope identifies shapes in the dust haze — figures on foot, carrying cargo, moving along a route that avoids the beacon line by exactly the margin needed to stay intermittent on sensors.\nBEAT 4 — CONTACT: The figures notice they have been spotted. They stop. One raises an empty hand. They are Starians, carrying sealed crates on a route that has no official waystation.\nBEAT 5 — EXCHANGE: The group claims they are independent haulers using an old route that predates the current beacon line. Their cargo seals are real but their route documentation is thin. They want to pass. The patrol has to decide what matters more — the rules or the plausible explanation.\nBEAT 6 — OUTCOME: The haulers pass, are turned back, or are escorted to the settlement for verification. The beacon readings are logged either way. Someone notes that the old route they named does exist on pre-settlement maps.",
+    "targetTurns": 6,
+    "onCompleteEffects": [
+      {
+        "type": "write-number",
+        "key": "event.count.dustfall_perimeter_contact",
+        "operator": "add",
+        "value": 1
+      },
+      {
+        "type": "story",
+        "instruction": "The narrative event \"Lights Beyond the Beacons\" has concluded. Briefly acknowledge the outcome in the next scene transition without replaying beats."
+      }
+    ],
+    "status": "inactive",
+    "turnsActive": 0,
+    "id": "dustfall_perimeter_contact"
+  },
+  "quilrath_standing_audit": {
+    "title": "The Review Sweeps Through",
+    "beats": "An unannounced standing review begins in the Gray Rings. Workers are pulled off the fabrication floor for credential verification. The review is routine — until it finds something that is not.\n\nBEAT 1 — ANNOUNCEMENT: Command-lights shift to review mode across the Gray Rings administrative blocks. A Civic Standing officer reads the notification: all workers in the current rotation present documentation for verification. It is supposed to take an hour.\nBEAT 2 — DISRUPTION: The fabrication floor stops. Workers queue with their papers. Most are annoyed but compliant. One coworker is very calm — too calm — and excuses themselves to check something first.\nBEAT 3 — DISCOVERY: The review finds a discrepancy in one worker's documentation — a grade assignment that does not match the current duty log. The worker says the assignment was transferred months ago and the paperwork never caught up. The officer says that is not how transfers work.\nBEAT 4 — PRESSURE: The discrepancy pulls in a second investigation. The worker's supervisor is called. The supervisor's records match the worker's story, not the official grade registry. Someone's records were changed, and nobody in the room knows when.\nBEAT 5 — IMPLICATIONS: The review officer asks whether anyone else transferred in the same period. Three more names surface. The hour-long review is now a day-long audit. Fabrication quotas are missed. The floor supervisor blames the review; the review officer blames the records.\nBEAT 6 — OUTCOME: The audit concludes with findings that go upward to the Administrative Blocks. The affected workers return to their posts, some cleared, some pending further review. The fabrication floor resumes, quieter than before.",
+    "targetTurns": 6,
+    "onCompleteEffects": [
+      {
+        "type": "write-number",
+        "key": "event.count.quilrath_standing_audit",
+        "operator": "add",
+        "value": 1
+      },
+      {
+        "type": "story",
+        "instruction": "The narrative event \"The Review Sweeps Through\" has concluded. Briefly acknowledge the outcome in the next scene transition without replaying beats."
+      }
+    ],
+    "status": "inactive",
+    "turnsActive": 0,
+    "id": "quilrath_standing_audit"
+  },
+  "quilrath_ashrings_enforcement": {
+    "title": "The Components They Found",
+    "beats": "Accord enforcement discovers unmarked components in a prefab unit in the Deep Ashrings. The owner says they are scrap. Enforcement says they match a missing shipment from the Gray Rings fabrication line.\n\nBEAT 1 — ARRIVAL: Accord enforcement enters the Prefab Rows with a specific address. They are not searching randomly — someone reported this unit. The residents of the row watch from their doorways. Nobody calls a warning because everyone is already watching.\nBEAT 2 — DISCOVERY: The unit contains components stacked neatly under a sleeping platform. The occupant says they bought them as scrap from a salvage dealer. Enforcement scans the serial markings and finds fabrication-line identifiers that were supposed to be removed when items are decommissioned.\nBEAT 3 — ARGUMENT: The occupant names the salvage dealer. The dealer, contacted from across the row, says they never sold those specific components. Someone in the crowd says enforcement planted them. The accusation is loud enough to change the mood.\nBEAT 4 — COMMUNITY RESPONSE: Neighbors begin to argue among themselves. Some believe the occupant. Some believe the salvage dealer. Some think the truth does not matter because enforcement will take what they want regardless. A prefab elder asks enforcement to show their search warrant.\nBEAT 5 — STANDOFF: Enforcement has the authority. The community has the numbers and the certainty that this has happened before to people who had nothing. The elder suggests a witnessed inventory — everything counted, everything recorded, every claim documented.\nBEAT 6 — OUTCOME: The witnessed inventory happens or does not. The components leave with enforcement or stay under community watch pending a Gray Rings review. The occupant's fate depends on whose records survive the process.",
+    "targetTurns": 6,
+    "onCompleteEffects": [
+      {
+        "type": "write-number",
+        "key": "event.count.quilrath_ashrings_enforcement",
+        "operator": "add",
+        "value": 1
+      },
+      {
+        "type": "story",
+        "instruction": "The narrative event \"The Components They Found\" has concluded. Briefly acknowledge the outcome in the next scene transition without replaying beats."
+      }
+    ],
+    "status": "inactive",
+    "turnsActive": 0,
+    "id": "quilrath_ashrings_enforcement"
+  },
+  "korrvane_flight_emergency": {
+    "title": "The Lane That Closed",
+    "beats": "A collision avoidance alert shuts down a primary flight lane above the Commerce Layer. Traffic backs up across three tiers. Someone landed where they should not have, and they will not move until a mechanic confirms their gear is safe.\n\nBEAT 1 — ALERT: The flight lane warning lights shift red across a full tier. Flyers already in the lane bank hard to the designated holding pattern. A Genesis-marked traffic coordinator calls out the closure: Lane Seven, Commerce to Arena, indefinite.\nBEAT 2 — GROUNDING: The grounded flyer is sitting on an emergency platform with gear that is not responding. They claim a sudden loss of lift control. Surrounding flyers have to reroute through lanes already at capacity. The queue extends to the Arena district.\nBEAT 3 — INVESTIGATION: A flight mechanic arrives and begins diagnostics. The gear is not damaged — it is locked in a safety mode that activates when internal sensors detect a fault that may not exist. The mechanic has seen this before in recently serviced equipment.\nBEAT 4 — PATTERN: Two more flyers report the same safety-mode lockout on the adjacent lane. All three were serviced at the same workshop in the last week. The mechanic says the calibration is wrong — not dangerously, but enough to trigger the safety lockout under specific wind conditions.\nBEAT 5 — PRESSURE: The Commerce Layer merchants whose deliveries are grounded want the lanes reopened. The flight authority wants every recently serviced unit checked. The workshop in question is closed for the day. Someone suggests forcing an override; the mechanic explains why that kills people.\nBEAT 6 — RESOLUTION: The lanes reopen partially after cleared flyers are rerouted. The three affected units are grounded until recalibration. The workshop owner has a conversation coming that they do not yet know about.",
+    "targetTurns": 6,
+    "onCompleteEffects": [
+      {
+        "type": "write-number",
+        "key": "event.count.korrvane_flight_emergency",
+        "operator": "add",
+        "value": 1
+      },
+      {
+        "type": "story",
+        "instruction": "The narrative event \"The Lane That Closed\" has concluded. Briefly acknowledge the outcome in the next scene transition without replaying beats."
+      }
+    ],
+    "status": "inactive",
+    "turnsActive": 0,
+    "id": "korrvane_flight_emergency"
+  },
+  "korrvane_recovery_tension": {
+    "title": "The Bout Nobody Wanted",
+    "beats": "A match at the Arena ends with injuries that exceed what the format allows. The care workers in the Recovery Yards say the losing competitor was hit after the stoppage call. The winner says they did not hear it. The footage is being reviewed.\n\nBEAT 1 — AFTERMATH: The Recovery Yards receive a competitor whose injuries are worse than the match format should produce. Care workers stabilize them and note the discrepancy on the medical record. The winning competitor is waiting outside, asking how their opponent is.\nBEAT 2 — ALLEGATION: A spectator who was close to the ring says the final strike landed after the official called the stoppage. The winner insists they did not hear the call. The official's report has not been filed yet.\nBEAT 3 — REVIEW: Arena officials review the match recording. The footage is inconclusive — the call and the strike happen within the same second. The official who called the stoppage says it was clear. The winning competitor's trainer says it was not.\nBEAT 4 — COMMUNITY: Word reaches the Bracket community. Competitors who were scheduled for the next round ask whether the conditions are being reviewed. Some threaten to withdraw if safety protocols are not confirmed. Others say this is what competition means.\nBEAT 5 — INTERVENTION: Alcandrus Genesis is asked to review the incident under Arena governance. His ruling will determine whether the result stands, whether the winner faces sanctions, and whether the scheduled rounds continue.\nBEAT 6 — OUTCOME: Alcandrus issues a preliminary ruling. The injured competitor's condition and the official's report form the basis. The Arena community processes the decision, and the next round's competitors decide whether to step forward.",
+    "targetTurns": 6,
+    "onCompleteEffects": [
+      {
+        "type": "write-number",
+        "key": "event.count.korrvane_recovery_tension",
+        "operator": "add",
+        "value": 1
+      },
+      {
+        "type": "story",
+        "instruction": "The narrative event \"The Bout Nobody Wanted\" has concluded. Briefly acknowledge the outcome in the next scene transition without replaying beats."
+      }
+    ],
+    "status": "inactive",
+    "turnsActive": 0,
+    "id": "korrvane_recovery_tension"
+  },
+  "ignivex_boundary_probe": {
+    "title": "The Alert That Held",
+    "beats": "Confirmed probe activity on the eastern approach to Caldris Wallworks. Defense crews take positions. The alert is real but limited — boundary testing, not an assault. What matters is how the crew responds before they know which one it is.\n\nBEAT 1 — ALERT: The second-pitch alert tone sounds across Caldris Wallworks. Defense crews move to staged positions. The coordinator reads the confirmation: probe activity, eastern cut, confirmed by two sensor posts. Not a drill. Positions first, questions after.\nBEAT 2 — POSITIONING: Crews take the eastern baffle positions. The wind carries dust from beyond the wall. A junior crew member asks whether this is a drill anyway. The coordinator says drills are announced and this was not.\nBEAT 3 — CONFIRMATION: Forward observers confirm movement along the boundary — small group, testing the sensor response, not approaching the wall. They are measuring the crew's reaction time and deployment pattern. This is intelligence gathering, not an attack.\nBEAT 4 — DILEMMA: The crew can hold position and let the probe complete its observation, or send a visible patrol to demonstrate awareness. Holding looks passive. Patrolling shows the deployment the probe is trying to map. The coordinator asks for input.\nBEAT 5 — RESPONSE: The crew executes its chosen response. The probe group withdraws when they have what they came for, or when the wall's response makes further observation unprofitable. Either way, they were here, and they learned something.\nBEAT 6 — DEBRIEF: Orvak Caldris arrives for the debrief. Timing, positions, and decisions are reviewed. What the probe learned is a problem for tomorrow. What the crew learned about itself is useful today.",
+    "targetTurns": 6,
+    "onCompleteEffects": [
+      {
+        "type": "write-number",
+        "key": "event.count.ignivex_boundary_probe",
+        "operator": "add",
+        "value": 1
+      },
+      {
+        "type": "story",
+        "instruction": "The narrative event \"The Alert That Held\" has concluded. Briefly acknowledge the outcome in the next scene transition without replaying beats."
+      }
+    ],
+    "status": "inactive",
+    "turnsActive": 0,
+    "id": "ignivex_boundary_probe"
+  },
+  "ignivex_hearth_refusal": {
+    "title": "The Door That Stayed Shut",
+    "beats": "A household in the Hearth Rows refuses an Accord census-taker entry. The census-taker's authority is documented. The household's reasons are personal and loud enough for the neighbors to hear through the walls.\n\nBEAT 1 — ARRIVAL: An Accord census-taker knocks on a household door in the Hearth Rows. The household representative opens it, reads the documentation, and says no. The census-taker repeats the legal basis. The door stays where it is — open, but not inviting.\nBEAT 2 — ARGUMENT: The household representative says the census serves Dravon mapping interests, not Ignivex community needs. The census-taker says the Accord mandates the count regardless of who benefits. Both are citing documents the other has read.\nBEAT 3 — NEIGHBORS: The argument draws attention. A neighbor opens their door and says they completed their census without trouble. Another says they refused three seasons ago and nothing happened. A third says something did happen, just not immediately.\nBEAT 4 — ESCALATION: The census-taker says they will record the refusal and it will affect the household's Accord standing. The representative says their Accord standing already reflects what the Accord thinks of Ignivex families. The personal cost of refusal is real; the principle is also real.\nBEAT 5 — COMMUNITY: The argument becomes a Hearth Row conversation. Families discuss whether unified refusal would carry weight or simply punish everyone equally. The census-taker stands in the street, waiting for someone to end the discussion with a decision.\nBEAT 6 — OUTCOME: The household decides. The census-taker records what they can. The neighbors return to their homes with opinions that have solidified. The smell of reheated Korrin comes through a kitchen window.",
+    "targetTurns": 6,
+    "onCompleteEffects": [
+      {
+        "type": "write-number",
+        "key": "event.count.ignivex_hearth_refusal",
+        "operator": "add",
+        "value": 1
+      },
+      {
+        "type": "story",
+        "instruction": "The narrative event \"The Door That Stayed Shut\" has concluded. Briefly acknowledge the outcome in the next scene transition without replaying beats."
+      }
+    ],
+    "status": "inactive",
+    "turnsActive": 0,
+    "id": "ignivex_hearth_refusal"
+  },
+  "relstaris_feast_hall_incident": {
+    "title": "The Toast That Went Wrong",
+    "beats": "A formal toast at Hadavar's Feast Hall includes a remark about a Genesis competitor's training methods that Sorvina Genesis takes personally. The evening shifts from festive to tense before anyone can pretend it was a compliment.\n\nBEAT 1 — THE TOAST: A guest rises to toast a recent Arena result. The praise is genuine until it reaches the training comparison — calling one method 'refined' in a tone that makes the alternative clear. Sorvina Genesis sets down her glass.\nBEAT 2 — SILENCE: The table near Sorvina goes quiet. She does not raise her voice. She asks the toaster, clearly, to repeat the comparison. 'I want to hear it without the wine.' The toaster realizes what they said and looks for a graceful exit.\nBEAT 3 — DEFENSE: A mutual friend tries to reframe the remark as admiration. Sorvina says admiration does not usually come with a ranking. Someone across the hall laughs nervously. The feast continues around them, louder, as people try to fill the silence.\nBEAT 4 — INVOLVEMENT: Other guests take positions. Some think Sorvina is overreacting. Some think the toaster said what the room was thinking. Ark Genesis is mentioned by name — does he know about this comparison? The answer matters more than the toast.\nBEAT 5 — RESOLUTION: Sorvina offers the toaster a choice: apologize to the method, not to her, or explain the ranking to the competitors who train under it. The toaster can accept the correction or defend the comparison.\nBEAT 6 — AFTERMATH: The feast resumes with the undertone changed. Sorvina leaves or stays depending on the outcome. The comparison will be repeated outside the hall by morning, with or without context.",
+    "targetTurns": 6,
+    "onCompleteEffects": [
+      {
+        "type": "write-number",
+        "key": "event.count.relstaris_feast_hall_incident",
+        "operator": "add",
+        "value": 1
+      },
+      {
+        "type": "story",
+        "instruction": "The narrative event \"The Toast That Went Wrong\" has concluded. Briefly acknowledge the outcome in the next scene transition without replaying beats."
+      }
+    ],
+    "status": "inactive",
+    "turnsActive": 0,
+    "id": "relstaris_feast_hall_incident"
+  },
+  "solvraxis_petition_clash": {
+    "title": "The Seventh Speaker",
+    "beats": "Two petitions scheduled for the same Citadel session directly contradict each other. A minor House representative discovers their petition was reordered to follow their opponent's, and someone in the schedule office arranged it.\n\nBEAT 1 — DISCOVERY: The speaking order for the session is posted. A minor House representative finds their petition has been moved from third to seventh — after the opposing petition that would make their request redundant if heard first. The original schedule, which they verified yesterday, had the order reversed.\nBEAT 2 — COMPLAINT: The representative takes the scheduling discrepancy to the session clerk. The clerk says the order was adjusted for procedural reasons. The representative asks to see the adjustment authorization. The clerk says it is filed with the session record, which will not be available until after the session.\nBEAT 3 — PRESSURE: The opposing petition's sponsor, a major-House delegate, arrives and expresses surprise at the concern. They suggest the order does not matter if both petitions have merit. The minor House representative says it matters when one petition makes the other impossible.\nBEAT 4 — ALLIES: Other minor-House delegates notice the situation. Some have their own scheduling grievances. A pattern emerges: adjustments that consistently favor petitions backed by major Houses. The session has not started, but the corridor is already political.\nBEAT 5 — INTERVENTION: A Republic Forum official is asked to review the scheduling. They can confirm, reverse, or defer the order. Each option has consequences for the session and for whoever authorized the change.\nBEAT 6 — OUTCOME: The session begins with the order intact, revised, or contested on the record. The minor House representative speaks from whichever position they were given. The scheduling question outlives the session.",
+    "targetTurns": 6,
+    "onCompleteEffects": [
+      {
+        "type": "write-number",
+        "key": "event.count.solvraxis_petition_clash",
+        "operator": "add",
+        "value": 1
+      },
+      {
+        "type": "story",
+        "instruction": "The narrative event \"The Seventh Speaker\" has concluded. Briefly acknowledge the outcome in the next scene transition without replaying beats."
+      }
+    ],
+    "status": "inactive",
+    "turnsActive": 0,
+    "id": "solvraxis_petition_clash"
+  },
+  "vexorath_design_claim": {
+    "title": "The Blueprint That Matched",
+    "beats": "An independent inventor presents a device at the Exchange tables. A Contair fabrication supervisor sees it and claims the design matches a project their team abandoned months ago. The inventor says they developed it independently. Exchange arbitration activates.\n\nBEAT 1 — PRESENTATION: An independent inventor demonstrates a working device at the Exchange's Independent Inventor Tables. The device performs well. A Contair fabrication supervisor in the audience watches the demonstration with increasing recognition and asks to examine the device more closely.\nBEAT 2 — CLAIM: The supervisor states that the core mechanism matches a design their team developed and shelved six months ago. They produce a project reference number. The inventor says they have never seen the Contair project and developed their design from first principles.\nBEAT 3 — ARBITRATION: An Exchange arbitration clerk opens a formal review. Both parties must submit documentation: the Contair project file and the inventor's development notes. The device is placed in Exchange custody during the review. The inventor objects — the device is their livelihood.\nBEAT 4 — EVIDENCE: The Contair project file shows a similar mechanism but different materials and a different application. The inventor's notes show independent development reaching the same solution by a different path. Convergent design is real; proving it is harder than demonstrating it.\nBEAT 5 — PRESSURE: Contair's legal position is strong — precedent favors the documented institutional project. The inventor's position is honest — independent work without access to proprietary files. A Contair junior engineer quietly mentions that the shelved project was known about in general terms outside the team.\nBEAT 6 — OUTCOME: The arbitration clerk issues a preliminary finding. The inventor keeps their device or licenses the mechanism. Contair preserves their claim or accepts convergent development. The Exchange tables remember who was fair.",
+    "targetTurns": 6,
+    "onCompleteEffects": [
+      {
+        "type": "write-number",
+        "key": "event.count.vexorath_design_claim",
+        "operator": "add",
+        "value": 1
+      },
+      {
+        "type": "story",
+        "instruction": "The narrative event \"The Blueprint That Matched\" has concluded. Briefly acknowledge the outcome in the next scene transition without replaying beats."
+      }
+    ],
+    "status": "inactive",
+    "turnsActive": 0,
+    "id": "vexorath_design_claim"
+  },
+  "helvyra_gate_failure": {
+    "title": "The Fitting That Died",
+    "beats": "A gate fitting fails during peak transit hours at the Helvyra Lunar Gate Hub. Travelers from three routes are stranded on the arrival platform. The repair requires a component that is not in stock.\n\nBEAT 1 — FAILURE: The gate fitting's indicator goes dark mid-cycle. The arrival platform fills with travelers who were expecting a departure that is no longer available. Gate staff switch to manual routing while a technician diagnoses the failure.\nBEAT 2 — DIAGNOSIS: The technician identifies a burned relay in the gate fitting. Replacement relays are standard stock, but the current inventory was allocated to a scheduled maintenance cycle. The next shipment is two days out.\nBEAT 3 — PRESSURE: Stranded travelers from Solvraxis, Korrvane, and Vexorath routes demand updates. A merchant with perishable cargo says two days will cost them their contract. A family traveling with children asks about accommodation. Gate staff have answers for some of these.\nBEAT 4 — SOLUTION: A courier at the Hub says they know where a compatible relay is available — a salvage dealer in Dustfall who strips old gate fittings. The component would work. Getting it here means someone makes the run and the Hub pays salvage prices.\nBEAT 5 — NEGOTIATION: The Hub manager weighs the cost of the salvage component against two days of disrupted transit revenue. The courier's fee is separate. The stranded merchant offers to split the cost if it gets their cargo moving. Everyone is negotiating except the broken relay.\nBEAT 6 — OUTCOME: The relay is sourced, procured, or waited for. The gate fitting is restored on a timeline determined by the choices made. Travelers depart, and the maintenance schedule is rewritten to prevent the same gap.",
+    "targetTurns": 6,
+    "onCompleteEffects": [
+      {
+        "type": "write-number",
+        "key": "event.count.helvyra_gate_failure",
+        "operator": "add",
+        "value": 1
+      },
+      {
+        "type": "story",
+        "instruction": "The narrative event \"The Fitting That Died\" has concluded. Briefly acknowledge the outcome in the next scene transition without replaying beats."
+      }
+    ],
+    "status": "inactive",
+    "turnsActive": 0,
+    "id": "helvyra_gate_failure"
+  }
+}

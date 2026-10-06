@@ -1,0 +1,47 @@
+{
+  "attributeNames": [
+    "strength",
+    "agility",
+    "endurance",
+    "intellect",
+    "awareness",
+    "resolve",
+    "presence",
+    "charisma"
+  ],
+  "lowAttributeTraits": {
+    "strength": "Physically Diminished",
+    "agility": "Movement Impaired",
+    "endurance": "Constitutionally Fragile",
+    "intellect": "Cognitively Impaired",
+    "awareness": "Perceptually Dulled",
+    "resolve": "Willpower Broken",
+    "presence": "Socially Invisible",
+    "charisma": "Interpersonally Alienating"
+  },
+  "maxStartingAttribute": 17,
+  "lowAttributeThreshold": 2,
+  "attributeBonusModifier": 2.5,
+  "attributeStatModifiers": {
+    "endurance": {
+      "variable": "stamina",
+      "amount": 5
+    },
+    "resolve": {
+      "variable": "Vitality",
+      "amount": 5
+    }
+  },
+  "attributeDamageModifiers": {
+    "strength": 1.5,
+    "intellect": 1,
+    "agility": 0.5
+  },
+  "attributeDamageReductionModifiers": {
+    "endurance": 1,
+    "resolve": 0.5,
+    "awareness": 0.5
+  },
+  "startingAttributeValue": 11,
+  "startingAttributePoints": 0
+}

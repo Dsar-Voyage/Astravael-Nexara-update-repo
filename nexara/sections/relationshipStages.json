@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Despised",
+    "minScore": -100,
+    "maxScore": -71
+  },
+  {
+    "name": "Disliked",
+    "minScore": -70,
+    "maxScore": -31
+  },
+  {
+    "name": "Cold",
+    "minScore": -30,
+    "maxScore": -11
+  },
+  {
+    "name": "Neutral",
+    "minScore": -10,
+    "maxScore": 10
+  },
+  {
+    "name": "Warm",
+    "minScore": 11,
+    "maxScore": 40
+  },
+  {
+    "name": "Valued",
+    "minScore": 41,
+    "maxScore": 80
+  },
+  {
+    "name": "Cherished",
+    "minScore": 81,
+    "maxScore": 100
+  }
+]

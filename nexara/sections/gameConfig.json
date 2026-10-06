@@ -1,0 +1,30 @@
+{
+  "lifecycle": "draft",
+  "activeStudioConversationId": "",
+  "saveId": "",
+  "saveSlot": 0,
+  "startingPlayer": "",
+  "worldId": "55498",
+  "worldShortId": "W1KX_CXxd4JS",
+  "worldTitle": "Astravael: Nexara",
+  "worldPublishedVersion": null,
+  "inviteShortId": "",
+  "hostUserId": "",
+  "users": [],
+  "serverConfig": {
+    "ownerUserId": "",
+    "adminUserIds": [],
+    "maxPlayers": 8,
+    "autoKickMissedTurns": 3,
+    "turnTimerSeconds": 90,
+    "turnPacing": "live"
+  },
+  "worldDescription": "",
+  "worldImage": "https://images.aidungeon.com/user_content/65802571/images/uploads/9ada5218-6953-437a-8a27-718c28f972bf.png",
+  "worldContentRating": "Unrated",
+  "worldUpdatedAt": "Wed Sep 16 2026 18:33:02 GMT+0000 (Coordinated Universal Time)",
+  "ownerUserId": "65802571",
+  "sourceWorldId": "55498",
+  "sourceWorldShortId": "W1KX_CXxd4JS",
+  "sourcePublishedVersion": null
+}

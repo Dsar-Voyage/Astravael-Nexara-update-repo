@@ -1,0 +1,23 @@
+{
+  "actionRandomnessCards": [],
+  "currentLocation": "",
+  "currentRegion": "",
+  "currentRealm": "",
+  "day": 1,
+  "timeOfDay": "",
+  "currentLocationArea": "",
+  "partyMembers": [],
+  "partyShortId": "",
+  "musicMood": "peaceful",
+  "musicTrack": "PositiveOne",
+  "soundAmbience": "",
+  "currentCoordinates": [
+    0,
+    0
+  ],
+  "pendingCommands": {},
+  "restrainedPlayers": [],
+  "nearbyPaths": [],
+  "ridingVehicle": false,
+  "sceneNPCs": []
+}

@@ -1,0 +1,1104 @@
+{
+  "Relstaris — A Shift at the Civic Desk": {
+    "name": "Relstaris — A Shift at the Civic Desk",
+    "questSource": "Relstaris City",
+    "questStatement": "A Relstaris civic office is short a desk worker for the day, and the morning queue of residents, applications and complaints is already forming. The duty supervisor will pay a capable temp to keep it moving.",
+    "mainObjective": "Work a full shift at the Relstaris civic desk and clear the day's queue of applications and complaints.",
+    "detailType": "detailed",
+    "questLocation": "Relstaris City",
+    "questDesignBrief": "A short, repeatable office job and deliberately desk work: forms, stamps, filing and the people behind them. The day brings a resident with the wrong form, a complaint that needs the right office, a stack that must be filed before close and one case that tests the player's judgement. Play the paperwork as the point, briskly and with people's personalities; no hidden plot. Pays: the duty supervisor pays 60–85 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "The player has worked the full shift at the Relstaris civic desk, the day's queue is cleared or handed over at close, and the supervisor has paid them. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "Relstaris — A Shift at the Civic Desk",
+    "definitionKey": "Relstaris — A Shift at the Civic Desk"
+  },
+  "Solvraxis — The Misfiled Box": {
+    "name": "Solvraxis — The Misfiled Box",
+    "questSource": "Ravello Archive House",
+    "questStatement": "Ravello Archive House has a box of records shelved under the wrong family for who knows how long, and an archivist needs a careful pair of hands to sort, catalogue and reshelve it before the reading room opens.",
+    "mainObjective": "Sort and catalogue the misfiled box at Ravello Archive House and get every record back where it belongs.",
+    "detailType": "detailed",
+    "questLocation": "Ravello Archive House",
+    "questDesignBrief": "A short, repeatable archive job and deliberately desk work: reading old hands, matching entries to the catalogue, finding where each record belongs and noting what is damaged or missing. One record in the box is odd, a page in the wrong family's hand or a note in a margin; the player can flag it, and it stays a curiosity, not a new canon secret. Pays: the archivist pays 50–80 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "The misfiled box is sorted, catalogued and reshelved at Ravello Archive House, any odd record is flagged to the archivist, and the archivist has paid the player. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "Solvraxis — The Misfiled Box",
+    "definitionKey": "Solvraxis — The Misfiled Box"
+  },
+  "Korrvane — Arena Night Crew": {
+    "name": "Korrvane — Arena Night Crew",
+    "questSource": "The Arena",
+    "questStatement": "On a bracket night at the Arena, a stall boss is short-handed: crates of food and fighters' gear have to reach the Challenger Waiting Galleries before the next round starts. The crowd is huge and the clock is running.",
+    "mainObjective": "Get the food and gear crates through the arena-night crowd to the galleries before the round begins.",
+    "detailType": "detailed",
+    "questLocation": "The Arena",
+    "questDesignBrief": "A short, repeatable arena-night job; the player works the event and owes no fight. Complication: a crate goes missing in the crush or a rowdy fan picks a scuffle, and the player has to recover it or calm things down before officials stop the round. Arena defeat is nonlethal and officials stop pre-match violence. Pays: the stall boss pays 55–85 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "The crates reached the Challenger Waiting Galleries before the round started and the stall boss paid the player. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "Korrvane — Arena Night Crew",
+    "definitionKey": "Korrvane — Arena Night Crew"
+  },
+  "Helvyra — A Run on the Skyhooks": {
+    "name": "Helvyra — A Run on the Skyhooks",
+    "questSource": "The Grand Waypoint",
+    "questStatement": "A Helvyra freight boss at the Grand Waypoint has a load that has to ride the skyhooks to a waiting ship before its launch window closes. The regular hand quit this morning and the cargo is fragile.",
+    "mainObjective": "Ride the freight up the skyhooks and deliver it to the ship before the launch window closes.",
+    "detailType": "detailed",
+    "questLocation": "The Grand Waypoint",
+    "questDesignBrief": "A short, repeatable freight run. Complication: a snagged line, a gust that swings the load, or a rival hauler who tries to jump the queue at the top; the player keeps the cargo in one piece and on schedule. Pays: the Helvyra freight boss pays 70–110 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "The freight reached the waiting ship intact before launch and the Helvyra freight boss paid the player. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "Helvyra — A Run on the Skyhooks",
+    "definitionKey": "Helvyra — A Run on the Skyhooks"
+  },
+  "Vexorath — The Drone That Won't Land": {
+    "name": "Vexorath — The Drone That Won't Land",
+    "questSource": "Vexorath Exchange",
+    "questStatement": "A stallholder at the Vexorath Exchange has a service drone that has stopped obeying and is circling the market, knocking over goods. Customers are leaving and the drone's battery is not running down.",
+    "mainObjective": "Bring the runaway drone down and get it working again before it wrecks the stall.",
+    "detailType": "detailed",
+    "questLocation": "Vexorath Exchange",
+    "questDesignBrief": "A short, repeatable systems job where a drone misbehaves. Complication: the drone dodges, the market is crowded, and its fault is a bad patch or a looping command; the player catches it, finds the fault and fixes it, or brings it down safely if it cannot be saved. Pays: the stallholder pays 105–150 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "The runaway drone was brought down without anyone hurt, fixed or safely disabled, and the stallholder paid the player. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "Vexorath — The Drone That Won't Land",
+    "definitionKey": "Vexorath — The Drone That Won't Land"
+  },
+  "Ignivex — Keep the Fires Lit": {
+    "name": "Ignivex — Keep the Fires Lit",
+    "questSource": "The Red Forges",
+    "questStatement": "A smith at the Red Forges needs a hand finishing a run of tools on deadline, and halfway through the shift the raid alarm sounds. The fires cannot be left untended and the order is due today.",
+    "mainObjective": "Work the forge shift through the raid alarm and finish the order on time.",
+    "detailType": "detailed",
+    "questLocation": "The Red Forges",
+    "questDesignBrief": "A short, repeatable forge job during a raid alarm. Complication: workers scatter, the hearth threatens to flare out of control and a frightened apprentice needs getting to shelter; the player keeps the forge safe and the work moving. The alarm is a city drill or a passing threat, not a new attack plot. Pays: the smith pays 105–160 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "The tool order was finished on time through the raid alarm, nobody was hurt at the forge, and the smith paid the player. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "Ignivex — Keep the Fires Lit",
+    "definitionKey": "Ignivex — Keep the Fires Lit"
+  },
+  "Quilrath — A Day at the Permit Counter": {
+    "name": "Quilrath — A Day at the Permit Counter",
+    "questSource": "The Gray Rings",
+    "questStatement": "A Kathvar permit counter in the Gray Rings is a hand short, and the morning's movement permits, renewals and work orders will not process themselves. The counter supervisor will pay a steady temp for the shift.",
+    "mainObjective": "Work a shift at a Kathvar permit counter in the Gray Rings and process the day's permits correctly.",
+    "detailType": "detailed",
+    "questLocation": "The Gray Rings",
+    "questDesignBrief": "A short, repeatable office job and deliberately desk work under Dravon procedure: permits, renewals, stamps and the people who need them, with an inspector's eye on the counter. Kathvar processes and never decides Standing; a case that needs a Standing decision is referred, not decided. One applicant tests the player's patience or conscience; how they handle it is the scene. Pays: the counter supervisor pays 60–85 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "The player has worked the shift at the Kathvar permit counter, the day's permits are processed or properly referred, and the supervisor has paid them. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "Quilrath — A Day at the Permit Counter",
+    "definitionKey": "Quilrath — A Day at the Permit Counter"
+  },
+  "Dustfall — Patch It Before Dark": {
+    "name": "Dustfall — Patch It Before Dark",
+    "questSource": "Refit Row",
+    "questStatement": "A Refit Row mechanic has a family's water pump in pieces and a dust storm coming in before dark. The part they need is out on a salvage heap someone else is already picking over.",
+    "mainObjective": "Salvage the missing part and get the pump running before the storm hits.",
+    "detailType": "detailed",
+    "questLocation": "Refit Row",
+    "questDesignBrief": "A short, repeatable salvage and repair job under pressure. Complication: a rival scavenger got to the heap first and wants to trade or fight for the part, and the storm cuts the time short; the player gets the part and the pump runs. Pays: the Refit Row mechanic pays 70–120 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "The pump was running for the family before the storm hit and the Refit Row mechanic paid the player. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "Dustfall — Patch It Before Dark",
+    "definitionKey": "Dustfall — Patch It Before Dark"
+  },
+  "The Handoff — Before the Food Runs Out": {
+    "name": "The Handoff — Before the Food Runs Out",
+    "questSource": "The Handoff",
+    "questStatement": "The Handoff's supply runner has not come back, and the refugee outpost will run out of food tonight. A cart of supplies is stuck at a broken-down vehicle out past the edge of the outpost.",
+    "mainObjective": "Bring the stranded supply cart back to The Handoff before the outpost runs out of food.",
+    "detailType": "detailed",
+    "questLocation": "The Handoff",
+    "questDesignBrief": "A short, repeatable urgent job for the refugee outpost. Complication: the broken vehicle needs a quick fix, the route is rough, and desperate travellers on the road want a share; the player gets the food in and decides who to help along the way. Helping The Handoff puts nobody in debt. Pays: the outpost lead pays 45–70 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "The supply cart reached The Handoff and food was handed out that night, and the outpost lead paid the player. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "The Handoff — Before the Food Runs Out",
+    "definitionKey": "The Handoff — Before the Food Runs Out"
+  },
+  "Dust On The Route": {
+    "name": "Dust On The Route",
+    "questSource": "Veyra Corsair",
+    "detailType": "detailed",
+    "questLocation": "Grit and Supply",
+    "questStatement": "A Corsair shipment of Contair equipment never reached Grit and Supply, and Dustfall is running out of ammunition, medicine, spare parts and Lunar Gate components. No major House is moving fast enough, so Veyra Corsair wants the cargo found and brought home.",
+    "mainObjective": "Track down the missing Corsair shipment and bring its cargo back to Dustfall.",
+    "questDesignBrief": "Follow the trail through Dustfall: Sennra at The Long Shot, Draxen on the Perimeter, parts surfacing on Refit Row, the Iron Jackals auctioning stolen components at Vossan Yard, Black Dust, the Bent Halo's hidden passengers at The Crooked Landing and the Claimants' disputed warrant at the North Routehead, with Dravon patrols and route failures on the way. Cavren Zelvaris, Miren Tal or Veyra's own hidden contract may be behind it; do not force a culprit, and Cavren argues Dustfall is owed more than sympathy. The ending is the player's choice: clean or dirty recovery, a split with Cavren, refugees first, or the Gate saved at the cost of weapons or medicine. Pays: Veyra Corsair pays 450–900 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "The fate of the shipment was settled in play and its cargo, whole or in part, was recovered, split, traded or knowingly given up, with the result brought face to face to Veyra and Dustfall, and Veyra paid the player. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "Dust On The Route",
+    "definitionKey": "Dust On The Route"
+  },
+  "Korrvane — Fighting Your Way In": {
+    "name": "Korrvane — Fighting Your Way In",
+    "questSource": "The Arena",
+    "questStatement": "The player wants a place in Korrvane's Weekly Bracket, and an outsider gets in only with a sponsor's backing or an open-entry slot. A sponsor at the Arena will back a newcomer who can hold their own in a proving bout today.",
+    "mainObjective": "Win a sponsor's backing in a proving bout and claim a qualifier slot in the Weekly Bracket.",
+    "detailType": "detailed",
+    "questLocation": "The Arena",
+    "questDesignBrief": "The registrars and Medic Gate are real hurdles, but the heart of the quest is the proving bout: a competent sparring partner the sponsor picks, fought turn by turn and nonlethal. Complication: a rival hopeful tries to take the slot first or a hidden injury flares up mid-bout. Bostarix Orvantis is House Orvantis's registrar liaison, not the Arena's, and no named tournament authority is invented; a loss sends the player to the next cycle; the player gains no House membership. Pays: The Arena pays a 60–100 Credit showing purse on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "The player fought the proving bout, earned a sponsor's backing or an open-entry slot, and walked out of the Arena entered in a specific Weekly Bracket qualifier with the showing purse in hand. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "Korrvane — Fighting Your Way In",
+    "definitionKey": "Korrvane — Fighting Your Way In"
+  },
+  "Korrvane — The Qualifier": {
+    "name": "Korrvane — The Qualifier",
+    "questSource": "The Arena",
+    "questStatement": "The player fights in a district or open-entry qualifier of Korrvane's Weekly Bracket during the tenday's first six days. One of the main bracket's few open slots is on the line, because the six major minor houses already hold theirs.",
+    "mainObjective": "Fight the qualifier bout to its result and win or lose a place in the main bracket of thirty-two.",
+    "detailType": "detailed",
+    "questLocation": "The Arena",
+    "questDesignBrief": "The bout is on the Tournament Grounds or the Aerial Ring, narrated turn by turn: stance, committed action, impact, the opponent's answer. Judges, stoppages, surrender and medics are enforced, defeat is nonlethal and injuries carry over, and the opponent is a skilled entrant, never a pushover, and the result is fought, not decided in advance. A win puts the player in the main bracket; a loss is a clean loss. Pays: The Arena pays a 50–120 Credit qualifier purse on completion, more for a win.",
+    "completionCondition": {
+      "type": "story",
+      "query": "The player's qualifier bout ended by surrender, incapacitation, ring or airspace conditions, a technical stoppage or the judges' call, and the player knows whether they made the main bracket. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "Korrvane — The Qualifier",
+    "definitionKey": "Korrvane — The Qualifier"
+  },
+  "Korrvane — The Main Bracket": {
+    "name": "Korrvane — The Main Bracket",
+    "questSource": "The Arena",
+    "questStatement": "The player holds one of thirty-two slots in Korrvane's Weekly Bracket: rounds of thirty-two and sixteen on the seventh day, quarterfinals and semifinals on the eighth, the final on market day. The whole city will be watching by the end.",
+    "mainObjective": "Fight through the main bracket round by round until you are knocked out or win the weekly final.",
+    "detailType": "detailed",
+    "questLocation": "The Arena",
+    "questDesignBrief": "Each round is its own bout against a named minor-house contender or approved outsider at full skill, one per house; rookies are not unbeatable and champions are not softened. Complication: Caelthorn fights the seeding, Vorreth wrecks the odds, and suspicious betting lines may point at a fix the player can choose to chase. Arena medics may stop a bout; defeat is nonlethal and injuries carry over; results stand. Pays: The Arena pays a purse of 150–1,200 Credits on completion, rising with each round survived.",
+    "completionCondition": {
+      "type": "story",
+      "query": "The player's main bracket run ended in a ruled loss, a medical or judges' stoppage, or victory in the weekly final. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "Korrvane — The Main Bracket",
+    "definitionKey": "Korrvane — The Main Bracket"
+  },
+  "Korrvane — The Genesis Ladder": {
+    "name": "Korrvane — The Genesis Ladder",
+    "questSource": "The Arena",
+    "questStatement": "As weekly champion, the player accepted the Genesis Ladder before the crowd. In the Genesis Ladder Staging Area, Alcandrus Genesis waits; no minor-house champion has ever beaten him.",
+    "mainObjective": "Face Alcandrus Genesis on the Genesis Ladder and fight the attempt to its end.",
+    "detailType": "detailed",
+    "questLocation": "The Arena",
+    "questDesignBrief": "Alcandrus is always first, at full skill, and his mixed Genesis and Corsair style punishes challengers trained only against Genesis form; a clean loss is normal, while lasting long or forcing him to adapt becomes legend. Any further stage is chosen by Tacitus and Corvinus Genesis from who is present, the champion's condition and safety. The crowd falls silent; the fight is nonlethal, and the result stands and goes on the Victory Wall. Pays: The Arena pays a 600–1,500 Credit ladder purse on completion, whatever the result.",
+    "completionCondition": {
+      "type": "narrative-event-completed",
+      "eventId": "genesis_ladder_attempt"
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "Korrvane — The Genesis Ladder",
+    "definitionKey": "Korrvane — The Genesis Ladder"
+  },
+  "Relstaris — The Sealed Wing": {
+    "name": "Relstaris — The Sealed Wing",
+    "questSource": "Hadrik Vaelith",
+    "questStatement": "Hadrik Vaelith has found families living in a sealed wing of the Vaelith compound on Declining Compound Row, hidden there by Iria Vaereth, the woman he treats as kin. Now word has leaked, the old wing is groaning, and a salvage crew is circling.",
+    "mainObjective": "Get the families in the sealed wing safe, staying or moved, and bring Hadrik Vaelith and Iria Vaereth face to face to agree on it.",
+    "detailType": "detailed",
+    "questLocation": "Hundred Houses Quarter",
+    "questDesignBrief": "Hadrik asks the player to sort it out before it turns ugly; Iria must be found and brought in, and she trusts no one Hadrik sends. Elyss Auren can say which floors still hold, a generated salvage crew wants the wing stripped, and the families (generated, unnamed) either stay in a shored-up wing or move to shelter Ceyra Orvessa's welfare people can open. No forced eviction, the Vaelith name is not sold, Daelor Ravello's question of who owns the wing stays open, and the player gains no property or House standing. Pays: Hadrik Vaelith pays 150–300 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "The families from the sealed wing are safe, either staying in a wing made safe or moved into real shelter, and Hadrik Vaelith and Iria Vaereth have met face to face and agreed on it. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "Relstaris — The Sealed Wing",
+    "definitionKey": "Relstaris — The Sealed Wing"
+  },
+  "Relstaris — The Signed Shift": {
+    "name": "Relstaris — The Signed Shift",
+    "questSource": "Branna Sol",
+    "questStatement": "Branna Sol has brought a stack of gateworker and market-crew contracts to Calia Varriko's Fair Contract Review Office, claiming they were signed under social pressure. Tavik Corsair is offering the cargo crews concessions that could split the workers before the review finishes.",
+    "mainObjective": "Build the case for Branna Sol's contracts and see Calia Varriko's ruling entered with the signers' testimony on the record.",
+    "detailType": "detailed",
+    "questLocation": "Open Contract Hall",
+    "questDesignBrief": "A proper Relstaris office case: find the signers at Shift Change Plaza, the Service Association Rooms and Mara Taar's Worker Food Court, take their statements, check them at the Reputation Verification Desk and present them at the hearing while Tavik's concession offer pulls cargo crews away and Jorin Sol watches the intake side. The ruling may uphold, void or amend the contracts and binds only them; it does not settle whether a strike happens, and the player gains no union post or Varriko standing. Pays: Branna Sol pays 150–300 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "Calia Varriko has heard the signers' testimony and her ruling on Branna Sol's contracts, upheld, voided or amended, is entered on the record. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "Relstaris — The Signed Shift",
+    "definitionKey": "Relstaris — The Signed Shift"
+  },
+  "Relstaris — The Deepways Passenger": {
+    "name": "Relstaris — The Deepways Passenger",
+    "questSource": "Kessa Ruun",
+    "questStatement": "Kessa Ruun needs a second pair of hands to smuggle a passenger who cannot use a legal gate out through the Deepways on Talik Nox's route. The pursuers are close, and the passenger is turning out to be more dangerous than they are.",
+    "mainObjective": "Get Kessa Ruun's passenger through the Deepways to the handoff alive, or decide to hand them over or expose them, and come out the other side.",
+    "detailType": "detailed",
+    "questLocation": "The Vein Market",
+    "questDesignBrief": "Kessa pitches the run at the Hidden Cargo Exchange; the player may refuse. The route runs Hidden Freight Route, Underworld Safe Passage, Old Corsair Passage and The Wrong Turn Residence, with collapses, pursuit, Kira Dorr possibly watching, and a passenger (generated unless already named) who may turn on them; Aelis Myralis only matters if the passenger is a patient. Kessa, Talik and Kira survive; injuries, lost gear and burned routes stick, and the player gains no place in Malk Veyr's network. Pays: Kessa Ruun pays 400–800 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "Kessa Ruun's run is over: the passenger has reached the handoff, been handed over, or been exposed, and the player has come back out of the Deepways with Kessa. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "Relstaris — The Deepways Passenger",
+    "definitionKey": "Relstaris — The Deepways Passenger"
+  },
+  "Solvraxis — Who Left Whom": {
+    "name": "Solvraxis — Who Left Whom",
+    "questSource": "Viaro Bellovari",
+    "questStatement": "Every year Viaro Bellovari's reunion reopens the three-generation fight over whether Arissa Bellovari's branch left Solvraxis or was pushed out. This year Arissa has not answered, the pub is booked, and Viaro wants someone to go get her.",
+    "mainObjective": "Find Arissa Bellovari in Relstaris, bring her to the reunion at the Silver Cup Pub, or bring her refusal back to Viaro in person.",
+    "detailType": "detailed",
+    "questLocation": "Bellovari Market District",
+    "questDesignBrief": "Arissa is somewhere around the Shared Festival Plaza in Relstaris and does not want to be found; the trip runs through the Lunar Gate District, and back home Galen is making it a drama while Liora holds the table and Seressa plans the evening. At the Silver Cup the old argument flares in front of everyone, Nerova watching, and the player has to keep it from blowing apart. Canon does not settle who left whom and play must not either; the player gains no Bellovari standing. Pays: Viaro Bellovari pays 120–220 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "Arissa Bellovari has sat down with Viaro Bellovari at the Silver Cup Pub reunion, or has refused to his face, and the two have said where the old fight now stands. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "Solvraxis — Who Left Whom",
+    "definitionKey": "Solvraxis — Who Left Whom"
+  },
+  "Solvraxis — The Reserve Count": {
+    "name": "Solvraxis — The Reserve Count",
+    "questSource": "Renzo Orvessa",
+    "questStatement": "Renzo Orvessa has ordered the emergency reserves reconciled against his ledgers before they are certified, and Jovian Orvessa, who keeps the real count in his head and refuses help on principle, has to hand it over.",
+    "mainObjective": "Reconcile the emergency reserves with Jovian Orvessa and have Renzo Orvessa enter the certified count, or the shortfall, in the welfare ledger.",
+    "detailType": "detailed",
+    "questLocation": "Orvessa Welfare District",
+    "questDesignBrief": "A counting job and deliberately desk work: the Emergency Shelter Supply Room, the Civilian Welfare Hall and the Family Support Counters, Amara Orvessa's calls on what counts as reserve, and Jovian, whose refusal of help is the first part of the job. The difference turns out to be a misplaced pallet, an unrecorded donation or Elian Orvessa quietly helping someone who is struggling; comedy is welcome but the ledger is real. It changes nobody's office and grants no supply access. Pays: Renzo Orvessa pays 105–195 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "The emergency reserves have been reconciled and Renzo Orvessa has entered the certified count, or the recorded shortfall, in the welfare ledger. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "Solvraxis — The Reserve Count",
+    "definitionKey": "Solvraxis — The Reserve Count"
+  },
+  "Solvraxis — Counting on No One Armed": {
+    "name": "Solvraxis — Counting on No One Armed",
+    "questSource": "Neressa Valcoro",
+    "questStatement": "A stranger Calessa Orvessa flagged at the gate has been shadowing Selene Castro through the Starfall Promenade and the student wards. Neressa Valcoro thinks the visitor is counting on the fact that nobody in Solvraxis carries a weapon.",
+    "mainObjective": "Find out what the stranger following Selene Castro wants and stop them without a weapon, before they make their move.",
+    "detailType": "detailed",
+    "questLocation": "Solvraxis",
+    "questDesignBrief": "Selene moves between Valcoro Academy, the Second-Year Student Houses, the Starfall Promenade and the Gravitic Gardens; Lucera Castro is planning protectively and Caivan Castro can step in as public defender. Weapons are banned in Solvraxis for everyone, the player included; the visitor may be carrying something anyway. End it with no weapon: march them out through Restricted Transit Control, hold them at a Civic Peace Station, or expose them in public; injuries stick. Who sent them stays unknown (Dravon pressure may be suspected, never confirmed), and the player gains no Castro post. Pays: Neressa Valcoro pays 250–450 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "The stranger shadowing Selene Castro has been stopped with no weapon used: escorted out of the city, held at a Civic Peace Station, or exposed in public and driven off. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "Solvraxis — Counting on No One Armed",
+    "definitionKey": "Solvraxis — Counting on No One Armed"
+  },
+  "Korrvane — Under Whose Mark": {
+    "name": "Korrvane — Under Whose Mark",
+    "questSource": "Nira Drathen",
+    "questStatement": "Kael Drathen's hands are failing, his daughter Nira has been doing the fine bracket-week work under his mark without credit, and a commission is due before the next bout that Kael cannot finish alone.",
+    "mainObjective": "Help Nira Drathen finish and deliver the commission on time, and get Kael and Nira to say out loud whose mark it really carries.",
+    "detailType": "detailed",
+    "questLocation": "The Lower Grounds",
+    "questDesignBrief": "The forge on Impact Repair Row runs against the clock while the client presses (a contender's steward such as Bostarix Orvantis, or a generated buyer at the Bracket Supply Market) and the piece has to cross bracket-week crowds to Nira's stall in the Commerce Layer. Kael may get his hands seen at the Impact Clinic or refuse; no cure or fixed prognosis. The credit question ends shared, refused or kept hidden with both knowing; the player gains no smithing credential. Pays: Nira Drathen pays 105–195 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "The commission is in its client's hands on time and Kael and Nira Drathen have said to each other whose mark it carried. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "Korrvane — Under Whose Mark",
+    "definitionKey": "Korrvane — Under Whose Mark"
+  },
+  "Korrvane — Wounds That Don't Match": {
+    "name": "Korrvane — Wounds That Don't Match",
+    "questSource": "Bostarix Orvantis",
+    "questStatement": "Hasdrovex Orvantis came into the Recovery Yards with injuries that do not match his public bout, and Bostarix Orvantis wants to know who hurt him and how. The Betting Stands, the Zelvaris Recovery Annex and Baalrix Caelthorn all have reasons to bury the answer.",
+    "mainObjective": "Find out how Hasdrovex Orvantis was hurt and bring the truth to Bostarix Orvantis face to face, catching whoever did it if someone did.",
+    "detailType": "detailed",
+    "questLocation": "The Recovery Yards",
+    "questDesignBrief": "Leads run through the Impact Clinic, the Trainer Consultation Rooms, Tannivar Zelvaris's combat data and the odd money moving in the Betting Stands, while Baalrix Caelthorn pushes back and a generated bookmaker's runner tries to vanish. The answer may be manipulation, a hidden earlier injury, illegal preparation or nothing provable; Caelthorn is sometimes right and no whole House is guilty. The bout result stands, arena defeat is nonlethal, and Hasdrovex's injuries persist; the player gains no post or House standing. Pays: Bostarix Orvantis pays 300–600 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "The player has told Bostarix Orvantis to his face how Hasdrovex was hurt, with the evidence in hand, and any person responsible has been caught or confronted; if nothing can be proven, Bostarix has heard exactly why. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "Korrvane — Wounds That Don't Match",
+    "definitionKey": "Korrvane — Wounds That Don't Match"
+  },
+  "Korrvane — The Lane Failure": {
+    "name": "Korrvane — The Lane Failure",
+    "questSource": "Yadira Aevon",
+    "questStatement": "A major Flight Lanes corridor has failed mid-tournament with couriers and spectators still in the air. Yadira Aevon's couriers are diverting, Gisqon Aevon blames misuse, and Genesis whispers sabotage.",
+    "mainObjective": "Get everyone out of the failed corridor alive, then find what broke it and tell Yadira Aevon.",
+    "detailType": "detailed",
+    "questLocation": "The Flight Lanes",
+    "questDesignBrief": "Fliers come down through the Emergency Drop Lanes and Lower Descent Routes; non-fliers like Hannoq Aevon at the Non-Flier Waiting Lift must be caught or lifted out, and the hurt carried to the Impact Clinic while Zephyra Genesis runs word to Tacitus. Generated Contair maintenance hands may help, no named Contair is present. The cause is what play finds: impact damage, misuse, suspected sabotage or unknown; never confirm Dravon involvement. Named people survive; injuries and lost cargo stick, and the player gains no lane authority. Pays: Yadira Aevon pays 250–450 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "Everyone caught in the failed corridor is down safely or in care, and the player has told Yadira Aevon what they found about the cause. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "Korrvane — The Lane Failure",
+    "definitionKey": "Korrvane — The Lane Failure"
+  },
+  "Helvyra — The River Watching": {
+    "name": "Helvyra — The River Watching",
+    "questSource": "Juna Dray",
+    "questStatement": "Juna Dray is making her first solo skyhook run off the Hook Towers with the whole river watching, and her grandmother Imma refuses to come up from the Barge Family Moorings to see her leave the water.",
+    "mainObjective": "Stand with Juna Dray through her solo skyhook run and get Imma Dray to tell Juna to her face whether she will watch.",
+    "detailType": "detailed",
+    "questLocation": "The Barge Quays",
+    "questDesignBrief": "Juna trains in the Hook Towers and Counterweight House with Petch Immar judging the run, and nerves, wind and a sticky counterweight all threaten it; Tolvir Nash's wardens and Meya Orlin's care hall stand by if it goes wrong. Someone has to walk down to the moorings and get Imma moving or get her answer. Whether Juna succeeds is open; her affinity is her own, not a Dray inheritance; the barge's future is not decided; the player gains no rigger standing. Pays: Juna Dray pays 45–85 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "Juna Dray has flown her solo skyhook run, pass or fail, and Imma Dray has told Juna to her face whether she would watch and why. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "Helvyra — The River Watching",
+    "definitionKey": "Helvyra — The River Watching"
+  },
+  "Helvyra — Three Signed Records": {
+    "name": "Helvyra — Three Signed Records",
+    "questSource": "Dren Varriko",
+    "questStatement": "Dren Varriko has three official records for one cargo shipment, all signed correctly and all impossible to reconcile, and the audit has to reach the Varriko Ledger Hall as a finding before Sereth Varriko calls it fraud.",
+    "mainObjective": "Audit Dren Varriko's three signed records against what moved and get the finding entered at the Varriko Ledger Hall.",
+    "detailType": "detailed",
+    "questLocation": "The Grand Waypoint",
+    "questDesignBrief": "An audit and deliberately desk work: the Shipment Counters, Tavren Corsair's Route Board Gallery, the Permit Offices and Lost Cargo Desk, the Warehouse Band and the Witness Seal Office, with Sereth's fraud theory and Mavriel's policy terms pressing on the work. The finding may be a clerical fault, a double routing, one true record among three, or fraud by a generated party; it must not settle whether one forger made the fake Common Scale seal and the fake bond, nor touch Oren Varriko's vault. The player gains no Varriko post. Pays: Dren Varriko pays 150–350 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "The audit of Dren Varriko's three signed records is finished and its finding is entered at the Varriko Ledger Hall. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "Helvyra — Three Signed Records",
+    "definitionKey": "Helvyra — Three Signed Records"
+  },
+  "Helvyra — The Escort Proof": {
+    "name": "Helvyra — The Escort Proof",
+    "questSource": "Sava Veltrax",
+    "questStatement": "Sava Veltrax is hiring for what looks like a plain convoy escort out of the Hauler Yards, but it is rigged to prove Veltrax guards beat Corsair route defenders, and Korriven Corsair is riding on the same convoy.",
+    "mainObjective": "Guard Sava Veltrax's convoy to its handoff alongside Korriven Corsair and bring it through whatever hits it on the road.",
+    "detailType": "detailed",
+    "questLocation": "Veltrax Redcourt District",
+    "questDesignBrief": "Sava makes the offer at the House Veltrax Office and the player may refuse or haggle. The convoy leaves the Convoy Aprons with Korriven on Corsair's side and maybe Mireth Veltrax on Veltrax's; bandits are a real chance, the Longreach Lurker and Ridgewings hunt the route, and nobody is weakened to fix the outcome. Defeat is nonlethal for named people: knocked out, captured or carried to the Bankside Care Hall. No House is declared better, Rux and Arvessa's rivalry is unchanged, and the player joins neither House. Pays: Sava Veltrax pays 400–800 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "Sava Veltrax's convoy has reached its handoff, or been stopped on the road, with the player having fought through it beside Korriven Corsair and come back to Sava. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "Helvyra — The Escort Proof",
+    "definitionKey": "Helvyra — The Escort Proof"
+  },
+  "Vexorath — The Other Architecture": {
+    "name": "Vexorath — The Other Architecture",
+    "questSource": "Seris Contair",
+    "questStatement": "Lumina Minor rebuilt a workshop system her own way instead of Rezulith Contair's, Seris Contair is backing her, and mother and daughter have stopped talking. Paul Thovex is the only one in the house still speaking easily to both.",
+    "mainObjective": "Get Lumina Minor's change working under real use and bring Seris and Rezulith Contair face to face to decide whether it stays.",
+    "detailType": "detailed",
+    "questLocation": "Residential District",
+    "questDesignBrief": "Testing at Seris's Residence and the Residential Fabrication Nooks turns up a glitch: a drone on the line starts acting oddly under the new system, and it must be fixed or explained before Rezulith sees it on her Main Fabrication Floor, where restricted areas stay restricted. Paul gives the ordinary-user view and Maelis Contair can say if a resident could follow it. Lumina Minor is a person, not equipment: no reset, copying or ownership; the Lumina Core is untouched; the player gets no restricted access. Pays: Seris Contair pays 105–195 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "Seris and Rezulith Contair have stood together in front of Lumina Minor's working change and told each other whether it stays, goes back with Seris's agreement, or stays with limits. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "Vexorath — The Other Architecture",
+    "definitionKey": "Vexorath — The Other Architecture"
+  },
+  "Vexorath — More Than Intended": {
+    "name": "Vexorath — More Than Intended",
+    "questSource": "Paul Thovex",
+    "questStatement": "Paul Thovex has learned the city's monitoring grid recorded far more of his household than it should have, and Lumina Major will not say what she holds. If he cannot show the proof before routine data rotation wipes it, his complaint dies.",
+    "mainObjective": "Find which connected system recorded Paul Thovex's household, pull the proof before it is wiped, and put it in front of Maelis Contair.",
+    "detailType": "detailed",
+    "questLocation": "Civic Systems Quarter",
+    "questDesignBrief": "The hunt runs through the Resident Interface Forum, the Operational Custodian Offices and the Public Systems Review Hall against the clock, with an overzealous monitoring drone treating the player as an intruder. Lumina Major keeps her right to refuse personal information, and her refusals to Rezulith are not resolved here. The finish is Paul confronting it in the Privacy Challenge Chamber with Maelis Contair hearing him; Rezulith's systems authority and the Resident Assembly are unchanged, and the player gains no monitoring access. Pays: Paul Thovex pays 105–195 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "The proof of what was recorded about Paul Thovex's household has been pulled before it was wiped and laid in front of Maelis Contair, with Paul there to see it. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "Vexorath — More Than Intended",
+    "definitionKey": "Vexorath — More Than Intended"
+  },
+  "Vexorath — The Layer That Woke": {
+    "name": "Vexorath — The Layer That Woke",
+    "questSource": "Tavris Contair",
+    "questStatement": "An old Outer Shell defense layer has switched on for a threat nobody remembers creating, trapping residents between the Adaptive Countermeasure Grid and the Emergency Civilian Shelters. Tavris Contair needs hands in the Repair Crawl Network before the layer escalates.",
+    "mainObjective": "Get the trapped residents into the shelters and help Tavris Contair shut the woken layer down.",
+    "detailType": "detailed",
+    "questLocation": "Outer Shell",
+    "questDesignBrief": "The player crawls the Repair Crawl Network, the Historical Breach Layer and the Surface Sensor Field while Ward-Class and Aegis-Class units follow Tavris's orders and some of the old layer's drones do not; Torren Myralis's Mobile Care Dispatch takes the hurt, and Drexan Contair may know what the old design was for. Do not name the threat or reveal any real attacker, Dravon, Chorus or otherwise. Named people survive; injuries, damaged shell and lost drones stick, and the player gains no command or drone authority. Pays: Tavris Contair pays 400–800 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "Every resident caught in the woken layer has reached a shelter or care, and the layer has been shut down with Tavris Contair there to see it. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "Vexorath — The Layer That Woke",
+    "definitionKey": "Vexorath — The Layer That Woke"
+  },
+  "Ignivex — The Remade Commission": {
+    "name": "Ignivex — The Remade Commission",
+    "questSource": "Tavren Halessin",
+    "questStatement": "The Halessins ruined a commission and have one night at the Halessin Workshop to remake it before the client returns. Rivals from the Rivalry Yard are sniffing around, and Maeron, Nessa and Tavren Halessin each privately blame someone they will not name.",
+    "mainObjective": "Help the Halessins remake the commission and hand it to the client, and get all three of them to say out loud whose fault they think the ruin was.",
+    "detailType": "detailed",
+    "questLocation": "The Red Forges",
+    "questDesignBrief": "Tavren Halessin wants a steady pair of hands at the Apprentice Benches while he tends the furnace, and the glass has to come out of the Rare Materials Store past the Rivalry Yard without the rivals seeing what it is for. A raid alarm or a rival at the door can cost the night, and the client, an Ashglass Market seller or a buyer met in play, will not wait. Canon does not fix whose fault the ruin was; the finish is the three of them saying it to each other, blame taken, shared or set down, and the player gains no guild standing or fire affinity. Pays: Tavren Halessin pays 120–180 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "The remade commission is finished and in the client's hands, and Maeron, Nessa and Tavren Halessin have said their theories of the ruin to each other face to face. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "Ignivex — The Remade Commission",
+    "definitionKey": "Ignivex — The Remade Commission"
+  },
+  "Ignivex — Rows After the Raid": {
+    "name": "Ignivex — Rows After the Raid",
+    "questSource": "Ilvara Meravil",
+    "questStatement": "The last raid left the Hearth Rows broken, and Ilvara Meravil needs someone to walk them before nightfall to find who lost their homes, who is hurt and who is missing. Lysa Caldris's shelters and Cynar Volen's halls are waiting on the truth, and Vennik Meravil wants the numbers first to argue for submission.",
+    "mainObjective": "Search the raid-struck Hearth Rows, get displaced households to shelter, and put the true numbers before Lysa Caldris and Cynar Volen before Vennik Meravil can bend them.",
+    "detailType": "detailed",
+    "questLocation": "Meravil Ash Hall",
+    "questDesignBrief": "Start from the Emergency Shelters and Family Kitchens, check the Row Step where Iskara Volen sits, and carry the injured to the Cooling Steps; Cinderline routes are cut and some homes are still settling under ash. Vennik's people are making the same rounds to get the figures first, and Auralis will object to how he uses them, but the player decides nothing about surrender and no Volen policy changes. The finish is households under a roof and Ilvara telling Lysa and Cynar the honest numbers face to face, disputed households included; the player gains no Meravil office. Pays: Ilvara Meravil pays 180–260 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "The raid-struck Hearth Rows have been searched, the displaced households found are in Lysa Caldris's shelters or Cynar Volen's halls, and Ilvara Meravil has given Lysa and Cynar the honest numbers in person. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "Ignivex — Rows After the Raid",
+    "definitionKey": "Ignivex — Rows After the Raid"
+  },
+  "Ignivex — Heat Below the Streets": {
+    "name": "Ignivex — Heat Below the Streets",
+    "questSource": "Tharen Volen",
+    "questStatement": "A pressure fault has burst in the Heat Tunnels beside one of Tharen Volen's Sabotage Watch Points, trapping a maintenance crew past the Thermal Gates. The heat can kill an outsider in minutes, and nobody knows yet whether worn metal or a hand caused it.",
+    "mainObjective": "Get through the Heat Tunnels to the trapped crew, bring them out alive, and help Tharen Volen seal the fault.",
+    "detailType": "detailed",
+    "questLocation": "Geothermal Core Facilities",
+    "questDesignBrief": "Rava Caldris's rescue teams hold the Emergency Access Paths, Tessan Caldris knows the vent paths, and Maedra Caldris's pressure doors buy minutes if someone can get them shut; burns go to the Cooling Steps afterward. The fault is not made easy, burns, ruined conduits and lost gear persist, named people survive, and the player gains no Volen standing; surviving the heat is not a fire affinity. At the Watch Point the player may find wear, signs of tampering or nothing clear, and tells Tharen what was seen without confirming Dravon agents, opening the third conflict or bringing Contair into the geothermal network. Pays: Tharen Volen pays 450–700 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "The trapped crew is out of the Heat Tunnels alive, the pressure fault is sealed, and Tharen Volen has heard from the player what the Sabotage Watch Point showed. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "Ignivex — Heat Below the Streets",
+    "definitionKey": "Ignivex — Heat Below the Streets"
+  },
+  "Quilrath — The Corrected File": {
+    "name": "Quilrath — The Corrected File",
+    "questSource": "Odrin Kathvar",
+    "questStatement": "Dalan Kathvar mishandled a movement permit at the Ring Gate and referred it the wrong way, and Odrin Kathvar wants the correction carried to Jorek Kathvar's counter as a corrected file rather than as a complaint about his son.",
+    "mainObjective": "Carry Dalan Kathvar's permit correction through to Jorek Kathvar's counter and see father and son settle it face to face.",
+    "detailType": "detailed",
+    "questLocation": "The Gray Rings",
+    "questDesignBrief": "A correction carried through the system and deliberately desk work: the Ring Gate where the error happened, the Administrative Blocks where Karessa dispatches, Bralen's check of what was allowed against what was processed, and Jorek's counter. Kathvar processes and never decides Standing: no grade changes, Nivarek stays out of it, Dalan shows no affinity and Bralen's question about inheriting the House stays open. The player gains no standing or Kathvar favour. Pays: Odrin Kathvar pays 105–160 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "The corrected file for Dalan Kathvar's permit is entered at Jorek Kathvar's counter and Jorek has answered his son face to face, with approval, correction or silence. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "Quilrath — The Corrected File",
+    "definitionKey": "Quilrath — The Corrected File"
+  },
+  "Quilrath — The Gate's Last Failure": {
+    "name": "Quilrath — The Gate's Last Failure",
+    "questSource": "Pelna Ostrek",
+    "questStatement": "Pelna Ostrek's readings say the Quilrath Gate's next failure will be its last. If the Contair inspectors see them she likely loses her career, and if nobody does, the gate may take people with it.",
+    "mainObjective": "Climb into the Legacy Gate Structure to prove Pelna Ostrek's readings, then stand with her when she decides whether to put them before the Contair inspectors.",
+    "detailType": "detailed",
+    "questLocation": "The Quilrath Gate",
+    "questDesignBrief": "The readings have to be checked at the Engineer Stations and inside the old structure while it is under load, under the eyes of Tarsen Dravon's compliance gate people, and Namar Balrath's Prototype Gate Lab would very much like the numbers too. The inspectors are generated; no named Contair figure works in Quilrath. The gate stays as barely working as canon leaves it: no staged failure, no working gate for Dravon, no Core transfer, no change to anyone's access or office, and no access level or engineering standing for the player. Pays: Pelna Ostrek pays 200–320 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "Pelna Ostrek's readings have been proven at the gate, and Pelna has either shown them to the Contair inspectors face to face or told the player in person that she will not and why. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "Quilrath — The Gate's Last Failure",
+    "definitionKey": "Quilrath — The Gate's Last Failure"
+  },
+  "Quilrath — The Schedule That Changed": {
+    "name": "Quilrath — The Schedule That Changed",
+    "questSource": "Cadi Selm",
+    "questStatement": "A family is already moving south under Cadi Selm's guidance, and the Quiet Mile's purchased patrol schedule has just changed without warning. It may be a new officer, or it may be Captain Avrenna Volsk's Redline sweep setting a trap.",
+    "mainObjective": "Get Cadi Selm's family through the Quiet Mile or back to safety, and find out what changed the patrol schedule.",
+    "detailType": "detailed",
+    "questLocation": "The Southreach",
+    "questDesignBrief": "The family are generated people already on the move, Smuggler Country is the fallback, and Redline sweeps under Avrenna Volsk are not weakened to guarantee passage. Getting caught means nonlethal arrest; injuries, lost supplies and burned contacts persist, and whether the change was a new officer or a trap is known only if play shows it. The purchased arrangement stays in place, neither ended nor guaranteed; the Red Ledger, the Erased, the Nivarek insider and Miren Tal's leak stay unresolved, there is no Edge strike, and the player gains no Accord membership or route. Pays: Cadi Selm pays 200–350 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "Cadi Selm's family has gone through the Quiet Mile toward the Handoff, been turned safely back to the Ashrings, or been arrested, and Cadi has heard from the player what they learned about the changed schedule. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "Quilrath — The Schedule That Changed",
+    "definitionKey": "Quilrath — The Schedule That Changed"
+  },
+  "Dustfall — Marrik's Invitation": {
+    "name": "Dustfall — Marrik's Invitation",
+    "questSource": "Sev Marrik",
+    "questStatement": "A Korrvane tournament invitation has reached Sev Marrik at Marrik Hall, with the reply due before the next courier leaves. Darven Marrik sees redemption, Mareva Marrik sees danger, and Sev sees the life he has spent his courier runs outracing.",
+    "mainObjective": "Help Sev Marrik make up his mind about the Korrvane invitation and stand by him while he tells Darven and Mareva to their faces.",
+    "detailType": "detailed",
+    "questLocation": "Dustfall Residential Rows",
+    "questDesignBrief": "Sev thinks best moving: run a Roof Lane courier race with him, watch Darven's Lesson Floor with the old man's injury in plain view, and help Mareva hold her Rental Counter long enough for her to talk; the Closed Trophy Alcove stays shut unless the family opens it. Darven will push, Mareva will push back, and the answer has to be given before the courier goes. Sev may accept, refuse or set a condition, and if he accepts, the Korrvane bracket is his own later business; no Marrik restoration or House membership for the player. Pays: Sev Marrik pays 50–80 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "Sev Marrik has given his answer to the Korrvane invitation, yes, no or yes on stated terms, to Darven and Mareva Marrik in person, and they have heard it. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "Dustfall — Marrik's Invitation",
+    "definitionKey": "Dustfall — Marrik's Invitation"
+  },
+  "Dustfall — The Yard Protection Debt": {
+    "name": "Dustfall — The Yard Protection Debt",
+    "questSource": "Della Vossik",
+    "questStatement": "The Iron Jackals did keep a transient crew off the Vossik salvage crew during a yard threat, and now Ralven Nox's ledger says Della and Mira Vossik owe protection money they do not have. Jackal patience is running thin, and Della wants it settled at the Dispute Table before someone settles it in the yard.",
+    "mainObjective": "Find a way for the Vossiks to square the Jackals' protection debt and get Della Vossik, Kaedra Vossan and Ralven Nox to shake on it at the Dispute Table.",
+    "detailType": "detailed",
+    "questLocation": "The Long Shot",
+    "questDesignBrief": "Talk first at Messa's Kitchen; Jessa Quorin saw what the Jackals did, and Halvora Orvantis can price salvage offered in kind, which may mean hauling a load out of the yard under a Jackal eye to make up the difference. Dustfall has no government, so the Dispute Table is custom, not a court; Sennra Sol seats it, Draxen Sol disapproves, and Orenik Sol's rule holds that housing, medicine and children are never leverage. The debt can end paid, paid in kind, forgiven, put off on terms, or refused with consequences said out loud; the player joins no crew, and the sealed case under the Vossik floor is never mentioned. Pays: Della Vossik pays 70–110 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "Della Vossik, Kaedra Vossan and Ralven Nox have agreed face to face at the Dispute Table how the Vossik protection debt ends: paid, paid in kind, forgiven, put off on terms, or refused with consequences named. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "Dustfall — The Yard Protection Debt",
+    "definitionKey": "Dustfall — The Yard Protection Debt"
+  },
+  "Dustfall — The Contract Tavra Dropped": {
+    "name": "Dustfall — The Contract Tavra Dropped",
+    "questSource": "Tavra Korrin",
+    "questStatement": "Tavra Korrin walked away from a paid escort when she learned at the Contract Table that the client meant to raid refugee housing. The client has gone to Ravik Rusk's Claim Camp to hire the Claimants instead, and the Nhalor Rooms and the Old Banner Hall are both in reach.",
+    "mainObjective": "Warn the housing the client means to raid and help hold it until the raid is stopped, turned back or broken.",
+    "detailType": "detailed",
+    "questLocation": "Dustfall Perimeter",
+    "questDesignBrief": "The target may be the Nhalor Rooms, where Corren and Avessa keep the Rear Escape Passage, or the Old Banner Hall, where Rhex, Selka and Torven defend their own; Draxen Sol's Volunteer Patrol Yard and Joric's route watch can help if someone reaches them in time. Ravik Rusk may refuse the job once the target is plain, since the Claimants prefer nonlethal capture, or the client can be exposed at The Long Shot; any fight stays nonlethal and injuries and damaged homes persist. The client is generated, Last Line's lost fee stays lost, the player joins no company, and there is no war with the Claimants, no warrant resolved, no Black Pennant departure and no Dustfall government. Pays: Tavra Korrin pays 300–480 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "The client's raid on the refugee housing has been called off, turned back or broken, and the people living there are safe in their homes or out through their escape route. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "Dustfall — The Contract Tavra Dropped",
+    "definitionKey": "Dustfall — The Contract Tavra Dropped"
+  },
+  "Corridor — The Manifest That Lies": {
+    "name": "Corridor — The Manifest That Lies",
+    "questSource": "Saevik Ruun",
+    "questStatement": "Under the North Routehead, Saevik Ruun has a load bound for buyers in Quilrath's outer rings and a manifest that says it is something else. Brannoc Kest has counted it, Ysara Sorn's patrol picture is already a day old, and the crew needs one more pair of hands before it goes stale.",
+    "mainObjective": "Help Saevik Ruun's crew seal and hide the load under its false manifest at the Crooked Landing, or refuse the job to Saevik's face.",
+    "detailType": "detailed",
+    "questLocation": "The North Routehead",
+    "questDesignBrief": "What is really in the slings is generated goods for a generated outer-ring buyer; Brannoc refuses any load that endangers its carriers, and whatever is hidden under the cargo comes out only when he inspects it. Veyra Corsair may recognise stock from her own shelves and say so, and the Claimants and Miren Tal's Record Module are a danger if the player's name ends up on anything, so a stranger loitering by the Cargo Sling Bay is worth watching. Refusing is a real choice and earns nothing; Miren Tal's leak stays unresolved, the Crooked Landing does not close, and the player gains no Bent Halo membership. Pays: Saevik Ruun pays 150–240 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "Saevik Ruun's load is sealed, counted and hidden at the Hidden Compartment Bench or Cargo Sling Bay, ready for the run north, or the player has refused it to Saevik's face. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "Corridor — The Manifest That Lies",
+    "definitionKey": "Corridor — The Manifest That Lies"
+  },
+  "Corridor — Around the Eastern Mountains": {
+    "name": "Corridor — Around the Eastern Mountains",
+    "questSource": "Neyra Vey",
+    "questStatement": "The load is sealed and Neyra Vey is taking it out through the Concealed Departure Cut into the frontier around Ignivex's eastern mountains, ground Dravon and Ignivex both claim and neither can hold. Ridgewings own the ridges, Dustrunners work the dark, and the Handoff is the only roof between the Routehead and the Southreach.",
+    "mainObjective": "Get Saevik Ruun's load across the eastern-Ignivex frontier to the Handoff's Receiving Apron, or get the crew and load back if the crossing goes bad.",
+    "detailType": "detailed",
+    "questLocation": "The North Routehead",
+    "questDesignBrief": "Choose the way across: Neyra's flight with staged landings, Serik Varn's Cold Wake ground run, or a crew on foot. The frontier is not softened: a Ridgewing that warns before it stoops on anyone in its band, a Dustrunner pack testing an unwatched night stop, a Ventcrawler under warm ground in a collapsed tube, dust, a broken beacon, a counterfeit part, bandits claiming to speak for the Accord, and Dravon or Ignivex patrols pushing a claim neither can keep. Named people who lose escape, are captured or are treated, never killed; injuries, arrests and lost cargo persist, the distress custom applies as capacity allows, and helping at the Handoff confers no Accord membership. Pays: Neyra Vey pays 450–750 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "Saevik Ruun's load has been handed over at the Handoff's Receiving Apron, or it has been abandoned on the route, seized, or brought back to the North Routehead. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "Corridor — Around the Eastern Mountains",
+    "definitionKey": "Corridor — Around the Eastern Mountains"
+  },
+  "Corridor — Into the Outer Rings": {
+    "name": "Corridor — Into the Outer Rings",
+    "questSource": "Torbek Karn",
+    "questStatement": "Torbek Karn's Provision Hall will take the load if it arrives looking like something a state hall can stock. Between the Handoff and his back room lie Smuggler Country, the Quiet Mile under Captain Avrenna Volsk's Redline sweeps, and a Kathvar checkpoint that reads papers and does not care who wrote them.",
+    "mainObjective": "Run the load from the Handoff through the Southreach into Quilrath's outer rings and put it in Torbek Karn's hands, or get out with it when the run goes wrong.",
+    "detailType": "detailed",
+    "questLocation": "The Southreach",
+    "questDesignBrief": "Pick the route: across Smuggler Country, through the Quiet Mile on its purchased schedule, which is never a guarantee, and through a Checkpoint Chain on papers that have to hold up; a mismatched identifier at a Kathvar checkpoint gets a case opened, not a beating, but Redline sweeps are the real danger and are not weakened. The handoff can be the Deep Ashrings where coverage fails, an evening at the Spare Room, or Torbek's back count at the Provision Hall; none is an Accord cell and Torbek is nobody's informant, so far. A seized, dumped or returned load earns nothing, any arrest is nonlethal, and nothing resolves the Red Ledger, the Erased, the Nivarek insider or Miren Tal's leak; no Edge strike, route ownership or Accord membership. Pays: Torbek Karn pays 500–850 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "The load has been handed to Torbek Karn and paid for, or it has been seized, dumped in Smuggler Country or carried back to the Handoff with the crew out alive or under arrest. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "Corridor — Into the Outer Rings",
+    "definitionKey": "Corridor — Into the Outer Rings"
+  },
+  "Corridor — Names That Hold": {
+    "name": "Corridor — Names That Hold",
+    "questSource": "Edda Nhalor",
+    "questStatement": "A household in the Prefab Rows must be gone before its next audit. Edda Nhalor's Archive cell has forged standing papers and a Binder's list ready for them, while Rask Venn's Edge cell says paper never got anyone past a Curfew Gate and wants the gate dealt with instead.",
+    "mainObjective": "Get the forged standing papers to the household in the Prefab Rows and see them through a Curfew Gate on them, or tell them face to face it is not safe to go yet.",
+    "detailType": "detailed",
+    "questLocation": "The Ashrings",
+    "questDesignBrief": "The papers have to survive Kathvar eyes: Sora Kathvar's intake notices discrepancies, Thessan Kathvar moves files, and Bralen Kathvar's checks find what does not match, so they must hold up against what a Curfew Gate or the Permit Desk really reads. Edda's way is memory and paper and Rask's is the gate; they argue, neither wins, and the player does not unite them, while the Binder's list of true names travels memorised or in pieces with Cadi Selm, never as one document. The household is generated, Grade 4 and under review; exposure means nonlethal arrest, the Deep Shelves stay unplaced, there is no Edge strike, the Nivarek insider, Red Ledger and Erased stay unresolved, and the player gains no Accord membership. Pays: Edda Nhalor pays 150–260 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "The household in the Prefab Rows has the forged papers and has passed a Curfew Gate on them ready to move south, or has been told in person it cannot go yet, or has been caught. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "Corridor — Names That Hold",
+    "definitionKey": "Corridor — Names That Hold"
+  },
+  "Corridor — Past the Quiet Mile": {
+    "name": "Corridor — Past the Quiet Mile",
+    "questSource": "Cadi Selm",
+    "questStatement": "Cadi Selm is taking the household south through the Checkpoint Chains and the Quiet Mile on the schedule as it stands, then across Smuggler Country to the Handoff. Captain Avrenna Volsk's Redline sweeps ride the Patrol Roads, the Binder's list lives in Cadi's memory, and nobody can promise what the outpost can hold when they arrive.",
+    "mainObjective": "Bring the household with Cadi Selm through the Quiet Mile and across Smuggler Country to the Handoff's Receiving Apron, or get them safely back to the Ashrings.",
+    "detailType": "detailed",
+    "questLocation": "The Southreach",
+    "questDesignBrief": "The purchased schedule is an arrangement, not a guarantee, and this run takes it as it stands rather than replaying Quilrath — The Schedule That Changed; a Kathvar checkpoint reads papers by procedure, while Redline sweeps under Avrenna Volsk are the real danger and are not weakened. Past the Mile come a Dustrunner pack testing a night stop, a Ridgewing for anyone who climbs into its band, bandits or a gang claiming to be Accord, and a stray patrol. Named people who lose survive; arrests, injuries, lost supplies and burned contacts persist, the Handoff takes in arrivals by need and treats them in the Care Room within its supplies, and helping confers no membership. Pays: Cadi Selm pays 400–700 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "The household has reached the Handoff's Receiving Apron with Cadi Selm, whole or in part, or has been turned safely back to the Ashrings, or has been arrested. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "Corridor — Past the Quiet Mile",
+    "definitionKey": "Corridor — Past the Quiet Mile"
+  },
+  "Corridor — The Name on the Wrong List": {
+    "name": "Corridor — The Name on the Wrong List",
+    "questSource": "Ovar Kethrin",
+    "questStatement": "The household has come down through the North Routehead into Dustfall's Residential Rows, and Ovar Kethrin has found one of their true names already on his list of people Dravon says never existed. Miren Tal's Record Module at Claim Camp says something else again, and the Claimants are asking Sennra Sol whether a Dravon warrant counts here.",
+    "mainObjective": "Work out with Ovar Kethrin and the household which name is really theirs, keep them out of the Claimants' hands, and carry what you learn back to Cadi Selm.",
+    "detailType": "detailed",
+    "questLocation": "Dustfall Residential Rows",
+    "questDesignBrief": "Dustfall neither trusts refugees on sight nor sends them back: Avessa Nhalor's Quiet Intake Room and the Frontier Care House are real options with real limits and prices, and Serik Varn or a crew can move the household on. Ovar's memorial lists, Miren Tal's identity files and Nyra Sorel's claimed history contradict each other, and only real records and witnesses settle anything; a warrant Ravik Rusk brings has no force in Dustfall, Sennra Sol's Dispute Table is where that gets said, and Dask Ren captures nonlethally if it comes to blows. Miren Tal's leak and who the Erased are stay unresolved. Pays: Ovar Kethrin pays 180–300 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "The household is placed in the Rows, hidden, moved on or taken, and the player has told Cadi Selm, a Handoff receiving worker or Edda Nhalor's cell in person what was learned about the name that did not match. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "Corridor — The Name on the Wrong List",
+    "definitionKey": "Corridor — The Name on the Wrong List"
+  },
+  "House Castro — The Offer That Can Be Refused": {
+    "name": "House Castro — The Offer That Can Be Refused",
+    "questSource": "Lucan Castro",
+    "questStatement": "A household in Low Relstaris was hurt when two major houses' quarrel spilled through their street, and they will slam the door on any Castro face. Cassor Dravon is already calling Castro aid patronage, so Lucan Castro needs an outsider to carry the Public Aid Office offer to them before the story hardens.",
+    "mainObjective": "Take Lucan Castro's aid offer to the household in Low Relstaris yourself and bring their answer back to him face to face.",
+    "detailType": "detailed",
+    "questLocation": "Castro Compound",
+    "questDesignBrief": "The street is still raw: neighbours watch for Castro colours, Dessa Sol at the Community Market may refuse to make the introduction, and Cassor Dravon or Elyra Nivarek may have someone waiting to catch an outsider carrying Castro help. The household may take the aid, take part of it or refuse it to the player's face, and refusal is a full result; no Castro escort, no pressure, no Council vote. Pays: Lucan Castro pays 110–190 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "The player has put Lucan Castro's aid offer to the Low Relstaris household in person with no Castro presence, and has told Lucan their real answer (yes, part, or no) to his face at the Castro Compound. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "House Castro — The Offer That Can Be Refused",
+    "definitionKey": "House Castro — The Offer That Can Be Refused"
+  },
+  "House Genesis — Word for Word": {
+    "name": "House Genesis — Word for Word",
+    "questSource": "Tacitus Genesis",
+    "questStatement": "Tacitus Genesis has ruled on the Caelthorn–Zelvaris quarrel over the House Seating Tiers, and the answer is a plain no. A Genesis cousin walking into Giscara's Reception Hall would read as a challenge, so Tacitus wants someone he trusts to speak it to Giscara Caelthorn's face and bring her reply back exactly, insults included.",
+    "mainObjective": "Speak Tacitus Genesis's ruling to Giscara Caelthorn in the Caelthorn Quarter and repeat her reply to Tacitus word for word.",
+    "detailType": "detailed",
+    "questLocation": "Genesis Compound",
+    "questDesignBrief": "Tanithra Caelthorn tries to learn the ruling before it reaches Giscara, Barcavon Zelvaris wants to hear it first and sends people to intercept the carrier, and Caelthorn retainers would rather the message never arrived. The real test is the return: softening either side's words is noticed. Do not settle the seating dispute beyond the ruling and stage no bracket or challenge. Pays: Tacitus Genesis pays 150–300 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "The player has spoken Tacitus Genesis's ruling in full to Giscara Caelthorn herself, and has repeated her reply to Tacitus in his office without softening or paraphrase. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "House Genesis — Word for Word",
+    "definitionKey": "House Genesis — Word for Word"
+  },
+  "House Dravon — Walk the Gates Unknown": {
+    "name": "House Dravon — Walk the Gates Unknown",
+    "questSource": "Orvane Dravon",
+    "questStatement": "Orvane Dravon suspects the Inner Compliance Gate is doing something to arrivals that the Civic Watch Plazas never see. He needs a face no checkpoint has classified to walk in as an ordinary visitor, keep the secret under pressure, and tell him in the Red War Room exactly what was done to them.",
+    "mainObjective": "Pass the Inner Compliance Gate and the Rank Gates as an ordinary visitor without revealing Orvane's job, then tell him everything that happened.",
+    "detailType": "detailed",
+    "questLocation": "The Ascendant Keep",
+    "questDesignBrief": "Tarsen Dravon runs the gate and keeps his own count of who flinches; if the player slips, they may be held, questioned hard or tailed back toward the Keep, and Ruvena Nivarek's auditors may spot an outsider walking twice. The player must tell Orvane all of it, including whatever they were told never to repeat. Do not resolve the disappearing records, Myrra Nivarek's placement or Red Ledger Prime; no lockdown or reprisal, and the player gains no Dravon post. Pays: Orvane Dravon pays 300–600 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "The player has gone through the Inner Compliance Gate and the Rank Gates as an ordinary visitor without blowing the cover, returned to the Red War Room, and told Orvane Dravon face to face everything done and said to them, holding nothing back. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "House Dravon — Walk the Gates Unknown",
+    "definitionKey": "House Dravon — Walk the Gates Unknown"
+  },
+  "House Contair — The Way It Is Actually Used": {
+    "name": "House Contair — The Way It Is Actually Used",
+    "questSource": "Maelis Contair",
+    "questStatement": "Households in the Modular Family Rows have been quietly beating the shared-court scheduling system for months, and no resident will explain the trick to a Contair. Maelis Contair wants someone residents trust to learn how it really works and bring her the fault to fix, with no resident's name attached, before someone else tears the workaround out.",
+    "mainObjective": "Win the residents' trust, learn their workaround, and bring Maelis Contair to the Rows to hear the fault with no resident named.",
+    "detailType": "detailed",
+    "questLocation": "Civic Systems Quarter",
+    "questDesignBrief": "Residents fear the workaround counts as a violation, and Drexan Contair wants it treated as a fabrication failure and may send a maintenance crew to rip it out before anyone listens. The player learns by being told, never by monitoring, and must decide what to say if the trick is also a safety risk. Nothing of Rezulith Contair's core or defensive systems is involved; no Ward refusal or Outer Shell activation. Pays: Maelis Contair pays 105–195 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "The player has learned the residents' workaround from the residents themselves and has explained the fault to Maelis Contair face to face in the Modular Family Rows, naming no resident, with the residents there to hear her answer. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "House Contair — The Way It Is Actually Used",
+    "definitionKey": "House Contair — The Way It Is Actually Used"
+  },
+  "House Corsair — Three Branches, One Answer": {
+    "name": "House Corsair — Three Branches, One Answer",
+    "questSource": "Xyren Corsair",
+    "questStatement": "A Corsair consignment from the Grand Waypoint reached the Skyhook Docks two cases short, and Xyren Corsair has three stories: Korriven blames a tested escort, Tavren an unordered reroute, Maelrix a ward-mark broken before departure. Xyren wants an outsider to find out which is true and say it to all three in the Family Council Room.",
+    "mainObjective": "Find out where the two missing cases went and tell Xyren Corsair the truth in front of Korriven, Tavren and Maelrix.",
+    "detailType": "detailed",
+    "questLocation": "Corsair Estate",
+    "questDesignBrief": "The trail runs through Korriven's escort, Tavren's Route Board Gallery and Maelrix's broken ward-mark, and Petch Immar at the Hook Towers saw the cases land; whichever branch is wrong may try to reach Petch first or move what is left of the cargo. Rux Corsair takes any blame on the sword branch personally, and the branch named will remember who said it. Do not resolve the forged Common Scale Hall seal, Oren Varriko's vault, the Dustfall-bound shipment or Dren Varriko's records. Pays: Xyren Corsair pays 600–1,000 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "The player has found which branch's account of the two missing cases holds, backed by what they uncovered, and has said it to Xyren Corsair in the Family Council Room with Korriven, Tavren and Maelrix Corsair present. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "House Corsair — Three Branches, One Answer",
+    "definitionKey": "House Corsair — Three Branches, One Answer"
+  },
+  "House Volen — Through the Heat": {
+    "name": "House Volen — Through the Heat",
+    "questSource": "Varessa Volen",
+    "questStatement": "Varessa Volen needs a watchpoint on the contested ground beyond Caldris's walls held through a full heat cycle by a face no Dravon scout knows. Orvak Caldris's patrol will drop the player there, Tessan Caldris runs the relay, and the job is to stay on the line while the heat says leave.",
+    "mainObjective": "Hold the watchpoint beyond the walls through the full heat cycle and tell Varessa Volen in person what you saw.",
+    "detailType": "detailed",
+    "questLocation": "Caldris Wallworks",
+    "questDesignBrief": "The heat is the enemy and is not softened; an outsider who collapses is carried to the Outsider Ward at the Cooling Steps, and that is how their shift ends. Anything that comes is met as it comes: a Dravon patrol pushing a claim it cannot keep, bandits, or wildlife. Kaivor Volen wants to come along and must be kept off the line. Do not resolve Dravon's next move or the frontier claims; no raid, no Smoke Court, no flame dance. Pays: Varessa Volen pays 400–800 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "The player has held the watchpoint through the full heat cycle, or been carried off it by Orvak Caldris's patrol, and has told Varessa Volen face to face at the Firebreak Gate Control Rooms what they saw, not what they feared. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "House Volen — Through the Heat",
+    "definitionKey": "House Volen — Through the Heat"
+  },
+  "House Myralis — What Living With It Costs": {
+    "name": "House Myralis — What Living With It Costs",
+    "questSource": "Ilyan Myralis",
+    "questStatement": "A Modular Family Rows resident who chose a slower treatment over a Contair-integrated replacement has stopped opening the door to Ilyan Myralis. Neris fears the assistive unit has started deciding for the patient, and Ilyan wants someone who is not Myralis in the room when the patient is asked what they want.",
+    "mainObjective": "Go with Ilyan Myralis to the patient's home, get past whoever is in the way, and hear the patient give their own answer.",
+    "detailType": "detailed",
+    "questLocation": "The Myralis Continuum",
+    "questDesignBrief": "A relative may block the door and insist on answering for the patient, and the assistive unit may keep cutting in or speaking over them; the player is a witness the patient can talk to, not a doctor or persuader. The patient may continue, change or refuse all care, and refusal is a full answer that Ilyan honours. No Contair custodian overrules Avara Myralis's clinical authority, and no Echo modelling or data-sending organ is touched. Pays: Ilyan Myralis pays 105–195 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "The player has been in the room with Ilyan Myralis when the patient, not a relative or the unit, gave their own answer about their treatment to Ilyan's face, and Ilyan has accepted it. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "House Myralis — What Living With It Costs",
+    "definitionKey": "House Myralis — What Living With It Costs"
+  },
+  "Trade — A Consignment for the Ashglass Canopies": {
+    "name": "Trade — A Consignment for the Ashglass Canopies",
+    "questSource": "Raxen Caelrix",
+    "questStatement": "Raxen Caelrix has a sealed case of contracts and small fittings bound for a buyer at the Corsair Trade Post under the Ashglass Canopies in Ignivex, and no courier he can spare. It has to cross the Grand Lunar Gate Hub and the Ignivex Lunar Gate with its seal unbroken.",
+    "mainObjective": "Carry Raxen Caelrix's sealed case through two gates to the Corsair Trade Post in Ashglass Market and put it in the buyer's own hands.",
+    "detailType": "detailed",
+    "questLocation": "The Grand Waypoint",
+    "questDesignBrief": "Someone on the way tries to talk the courier into a side delivery or handing the case to a stand-in, and at the Ignivex Lunar Gate the Volen Civic Post and the Heat-Armored Security Line want to hold it; the player has to get it through without breaking the seal. Do not resolve who holds the Corsair Trade Post, stage no gate lockdown, and leave the forged Common Scale Hall seal alone. Pays: Raxen Caelrix pays 150–300 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "The player has handed Raxen Caelrix's sealed case, seal intact, to the buyer in person at the Corsair Trade Post in Ashglass Market. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "Trade — A Consignment for the Ashglass Canopies",
+    "definitionKey": "Trade — A Consignment for the Ashglass Canopies"
+  },
+  "Trade — Running the Lot to Helvyra": {
+    "name": "Trade — Running the Lot to Helvyra",
+    "questSource": "Vexorath Exchange",
+    "questStatement": "An inventor at the Independent Inventor Tables in Vexorath has a lawfully released lot of civilian components and a Helvyra buyer whose contract makes the seller eat every loss on the road. Mavriel Varriko is offering insurance at terms that suggest she knows the route too well, and the inventor needs someone who can face down the buyer and get the lot there.",
+    "mainObjective": "Strike the inventor a fair deal, run the lot from the Vexorath Waypoint to the buyer in Helvyra, and see the inventor paid.",
+    "detailType": "detailed",
+    "questLocation": "Vexorath Exchange",
+    "questDesignBrief": "The player can take Mavriel Varriko's policy, refuse it or force the buyer's clause rewritten, and each choice costs someone. At the Grand Waypoint in Helvyra the buyer tries to short-pay using the clause and leans on Dren Varriko's reading of it, while an unnamed hired tough shadows the lot through the Shipment Counters. Nothing from the Restricted Technology Counter; do not resolve what Mavriel knows, and stage no Waypoint theft or forged seal. Pays: the inventor pays 150–300 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "The player has got the inventor's lot from Vexorath to the buyer at the Grand Waypoint in Helvyra and the buyer has paid in full on fair terms, or the player has walked the lot away from a crooked buyer and back to the inventor. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "Trade — Running the Lot to Helvyra",
+    "definitionKey": "Trade — Running the Lot to Helvyra"
+  },
+  "Trade — Parts That Can Take the Heat": {
+    "name": "Trade — Parts That Can Take the Heat",
+    "questSource": "Halvora Orvantis",
+    "questStatement": "A workshop on the Thermal Crafting Lines in the Red Forges has ordered secondhand parts through Refit Row, and Halvora Orvantis passed every piece but one, pulled from the Dravon Component Bin. She needs the crate carried by someone who will not let a cheap part ride along and will hand it straight to the workshop that ordered it.",
+    "mainObjective": "Carry Halvora Orvantis's crate from Refit Row to the ordering workshop in the Red Forges with no Dravon Component Bin part in it.",
+    "detailType": "detailed",
+    "questLocation": "Refit Row",
+    "questDesignBrief": "Korrik Caelthorn tries to slip in a cheaper, worse substitute from Bolt n Break, Kaedra Vossan's yard claims a piece came from a Jackal salvage lot, and the Volen Civic Post at the Ignivex Lunar Gate searches Dustfall arrivals hard. The workshop keeps or rejects pieces on its own bench. No weapons, no bulk freight; do not resolve where the Dravon part came from or the Iron Jackals' protection question. Pays: Halvora Orvantis pays 105–195 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "The player has delivered Halvora Orvantis's crate, clean of any Dravon Component Bin part, into the hands of the ordering workshop in the Red Forges, and the workshop has checked it on its bench. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "Trade — Parts That Can Take the Heat",
+    "definitionKey": "Trade — Parts That Can Take the Heat"
+  },
+  "Trade — Star-Glass for the Hundred-House Market": {
+    "name": "Trade — Star-Glass for the Hundred-House Market",
+    "questSource": "Darian Bellovari",
+    "questStatement": "Darian Bellovari has a season's star-glass from the Star-Glass Workshop that the Solvraxis Cultural Gallery in the Relstaris Grand Market could sell, if it reaches Serrin Bellovari intact and without the two Bellovari branches turning it into another round of who left whom. He wants it carried by someone neither branch can claim.",
+    "mainObjective": "Get Darian Bellovari's star-glass through the Corsair Housefront to Serrin Bellovari in Relstaris unbroken, and bring Serrin's answer back to Darian.",
+    "detailType": "detailed",
+    "questLocation": "Bellovari Market District",
+    "questDesignBrief": "Star-glass breaks, and the Corsair Housefront crossing is rough handling all the way; Viaro Bellovari wants a message smuggled in with the glass and Arissa Bellovari hears of it, and the player is not their go-between. Serrin may take the glass, counter or refuse it if its origin is questioned. No house-marked pieces unless Viaro agrees; do not resolve who left whom or stage the Viaro and Arissa sitting. Pays: Darian Bellovari pays 150–300 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "The player has put Darian Bellovari's star-glass, unbroken, in front of Serrin Bellovari at the Relstaris Grand Market, and has told Darian face to face whether Serrin took it, countered or refused. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "Trade — Star-Glass for the Hundred-House Market",
+    "definitionKey": "Trade — Star-Glass for the Hundred-House Market"
+  },
+  "Study — The Agreement Nobody Can Find": {
+    "name": "Study — The Agreement Nobody Can Find",
+    "questSource": "Nessa Ravello",
+    "questStatement": "Nessa Ravello has found a lineage entry referring to an old house agreement that the catalogue says does not exist. Maereth Ravello wants it traced properly before anyone calls it a gap, and Nessa needs a careful reader to work it with her.",
+    "mainObjective": "Trace Nessa Ravello's missing agreement through the archive and bring Maereth Ravello a finding she will enter, seal or refuse.",
+    "detailType": "detailed",
+    "questLocation": "Ravello Archive House",
+    "questDesignBrief": "Archive research and deliberately desk work: the Lineage Records Alcove, Sovian Ravello's check of the entry, Veylan Ravello's restoration shelf, the Record Integrity Station and, only if Maereth allows it, the Sealed Record Vaults; each door can be refused. The finding may be a catalogue error, a document never filed, a document removed or a reference that was itself the alteration; Caleon Ravello may know what a Castro would want kept quiet and say nothing. Do not make the archive a conspiracy or resolve pre-Darkstar political history. Pays: Nessa Ravello pays 105–160 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "Maereth Ravello has received the traced finding on Nessa Ravello's missing agreement and has entered it, sealed it or refused it, with Nessa's name on the work. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "Study — The Agreement Nobody Can Find",
+    "definitionKey": "Study — The Agreement Nobody Can Find"
+  },
+  "Study — Readings from the Flooded Foundation": {
+    "name": "Study — Readings from the Flooded Foundation",
+    "questSource": "Nexis Contair",
+    "questStatement": "Nexis Contair's field study of the Old Conduit Housing and the Flooded Foundation Walk in Low Relstaris can only go ahead if residents agree in person, and none of his students can get past Dessa Sol's door. He needs someone Low Relstaris will speak to, who can also take readings down in flooded tunnels.",
+    "mainObjective": "Win Dessa Sol and the residents over, take the readings in the Flooded Foundation Walk, and put the data in Nexis Contair's hands.",
+    "detailType": "detailed",
+    "questLocation": "Academy Research and Applied Sciences Campus",
+    "questDesignBrief": "Dessa Sol may refuse, set terms or agree only to the Flooded Foundation Walk, and a resident may pull out midway, which stops readings on their row. The Walk itself is dangerous: rising water, rotten conduit and bad footing. Readings are structural and water-system measurements only, no watching residents, nothing touching the Relstaris Core, and no promise of repairs the Academy cannot keep. Pays: Nexis Contair pays 150–300 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "The player has won residents' agreement in person, taken the readings in the Old Conduit Housing and the Flooded Foundation Walk, and handed the data to Nexis Contair, or has brought Dessa Sol's refusal to Nexis's face. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "Study — Readings from the Flooded Foundation",
+    "definitionKey": "Study — Readings from the Flooded Foundation"
+  },
+  "Study — The Hand Behind the Mark": {
+    "name": "Study — The Hand Behind the Mark",
+    "questSource": "Quenna Sil",
+    "questStatement": "A working charm sold on the Charm Piecework Edge carries an Open Circle certification mark the Certification Hall never issued. Quenna Sil wants to find who wrote the charm and who put the mark on it before the Common Scale Hall, Corsair's magic branch or the market decides what it means.",
+    "mainObjective": "Track the charm back to the hand that wrote it and the hand that marked it, and bring them face to face with Quenna Sil.",
+    "detailType": "detailed",
+    "questLocation": "The Open Circle",
+    "questDesignBrief": "The seller on the Charm Piecework Edge packs up and runs once questions start; Bareth Kollo knows every face and who paid for which stall, and Maelrix Corsair can read the working though Quenna keeps the Circle's independence from him. The trail may end at a student who did honest uncertified work and could be ruined by the truth. Ordinary route or ward charm only, nothing from the Restricted Archives; do not resolve the forged Common Scale Hall seal. Pays: Quenna Sil pays 150–300 Credits on completion.",
+    "completionCondition": {
+      "type": "story",
+      "query": "The player has found who wrote the charm and who put the mark on it, and has brought that person or those people before Quenna Sil at the Open Circle to answer for it in person. An attempt, promise or partial result does not count."
+    },
+    "conclusive": false,
+    "creationTick": -1,
+    "status": "hidden",
+    "contentOrigin": "authored",
+    "id": "Study — The Hand Behind the Mark",
+    "definitionKey": "Study — The Hand Behind the Mark"
+  }
+}
