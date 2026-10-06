@@ -1,0 +1,26 @@
+{
+  "world": "Astravael: Nexara",
+  "worldShortId": "W1KX_CXxd4JS",
+  "heroesVersion": 36,
+  "releaseDate": "2026-10-05",
+  "releaseLabel": "Batches 81-82 (small-steps ability ladder) and music fallback",
+  "creatorApiRevision": "wbwaTvZgEk5ZuORTMkkO3-8hqdV7UWXnrzYACc_ky6g",
+  "source": {
+    "repository": "Dsar-Voyage/Astravael (private)",
+    "branch": "claude/nexara-10x10-deployment-o6ydtb",
+    "commit": "f419f369d75b2821c9e256a1ea19fcdbbcd56944",
+    "path": "voyage/worlds/nexara/source/Astravael_Nexara.json"
+  },
+  "files": {
+    "Astravael_Nexara.json": {
+      "description": "Full Creator API world document (data.world incl. initialGameState), byte-identical to the private source",
+      "sha256": "455ea86c1c435d409fb27b210ea193d2b56b0bf320dc082aa7c249e5437d04eb",
+      "bytes": 14725437
+    },
+    "Astravael_Nexara.studio.json": {
+      "description": "initialGameState only: the V36 world JSON as shown in the Studio editor, for paste-import",
+      "sha256": "883cfeda2a9684a7787f022d8672a677b0dd69c4ae35afec39fce44998f3d6a1",
+      "bytes": 13353734
+    }
+  }
+}
